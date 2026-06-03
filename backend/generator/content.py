@@ -1,12 +1,18 @@
 """
-AI content generator — Gemini 2.0 Flash (primary) → Groq llama3-70b (fallback).
+AI content generator with 4-level fallback chain:
+  1. Gemini 1.5 Flash 8B  (free tier, 1000 req/day)
+  2. Gemini 1.5 Flash     (free tier, 1500 req/day)
+  3. Groq llama3-8b-8192  (free, active model)
+  4. Groq mixtral-8x7b    (free, active model)
 NO country/geography in any generated content.
 """
 import json, os, re, sys, time
 from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 from config.settings import (
-    GEMINI_API_KEY, GROQ_API_KEY, GEMINI_MODEL, GROQ_MODEL,
+    GEMINI_API_KEY, GROQ_API_KEY,
+    GEMINI_MODEL, GEMINI_MODEL_FALLBACK,
+    GROQ_MODEL, GROQ_MODEL_FALLBACK,
     GEMINI_DAILY_LIMIT, GEMINI_USAGE_FILE,
 )
 
@@ -36,14 +42,15 @@ PROMPT = '''You are a world-class SEO journalist writing for a major editorial w
 
 Write a comprehensive, deeply informative, SEO-optimised article about: "{topic}"
 
-ABSOLUTE RULES:
-1. ZERO geographic references. No country, city, region, or location anywhere.
-2. ZERO phrases like "trending in X" or "popular in X".
+ABSOLUTE RULES — never break these:
+1. ZERO geographic references. No country, city, region, or location anywhere in the article.
+2. ZERO phrases like "trending in X", "popular in X", "across X countries".
 3. Write as a timeless authoritative reference article about the topic itself.
-4. Use "{topic}" naturally 8-12 times across the full article.
-5. Total word count: minimum 1000 words across all sections.
+4. Use "{topic}" and close variants naturally 8-12 times across the full article.
+5. Total word count: minimum 1000 words across all sections combined.
+6. Write for real humans first. Be genuinely interesting, specific, and insightful.
 
-Return ONLY a valid raw JSON object. No markdown, no backticks, no explanation.
+Return ONLY a valid raw JSON object. No markdown, no backticks, no preamble, no explanation.
 
 {{
   "title": "SEO title 52-60 chars — keyword near front",
@@ -56,7 +63,7 @@ Return ONLY a valid raw JSON object. No markdown, no backticks, no explanation.
   "sections": [
     {{
       "h2": "Section heading with secondary keyword",
-      "content": "Minimum 5 paragraphs. Rich, specific, well-explained. Separate paragraphs with \\n."
+      "content": "Minimum 5 paragraphs of rich, specific, well-explained content. Separate paragraphs with \\n."
     }}
   ],
   "faq": [
@@ -73,7 +80,7 @@ Return ONLY a valid raw JSON object. No markdown, no backticks, no explanation.
   "schema_keywords": ["primary keyword", "semantic variant", "long-tail phrase", "related concept"]
 }}
 
-Requirements: minimum 5 sections, minimum 6 FAQ items, minimum 250 words per section.
+Requirements: minimum 5 sections, minimum 6 FAQ items, minimum 250 words per section content.
 '''
 
 
@@ -87,23 +94,23 @@ def _parse(text: str) -> dict:
     return json.loads(text)
 
 
-def _gemini(topic: str) -> dict:
+def _call_gemini(topic: str, model: str) -> dict:
     import google.generativeai as genai
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel(GEMINI_MODEL)
-    resp  = model.generate_content(PROMPT.format(topic=topic))
-    data  = _parse(resp.text)
+    m    = genai.GenerativeModel(model)
+    resp = m.generate_content(PROMPT.format(topic=topic))
+    data = _parse(resp.text)
     _bump()
     return data
 
 
-def _groq(topic: str) -> dict:
+def _call_groq(topic: str, model: str) -> dict:
     from groq import Groq
     client = Groq(api_key=GROQ_API_KEY)
     resp   = client.chat.completions.create(
-        model=GROQ_MODEL,
+        model=model,
         messages=[
-            {"role": "system", "content": "You are an expert SEO journalist. Respond with raw valid JSON only. No markdown, no backticks."},
+            {"role": "system", "content": "You are an expert SEO journalist. Respond with raw valid JSON only. No markdown, no backticks, no preamble."},
             {"role": "user",   "content": PROMPT.format(topic=topic)},
         ],
         temperature=0.72,
@@ -113,30 +120,58 @@ def _groq(topic: str) -> dict:
 
 
 def generate_article(topic: str) -> dict:
-    errors = []
+    """
+    4-level fallback chain. Tries each provider in order.
+    Raises RuntimeError only if ALL 4 fail.
+    """
+    attempts = []
 
+    # ── Level 1: Gemini 1.5 Flash 8B (free, 1000/day) ────────────────────
     if _gemini_ok():
         try:
             u = _load_usage()
             print(f"    🤖 Gemini ({GEMINI_MODEL}) [{u['count']}/{GEMINI_DAILY_LIMIT} today]")
-            d = _gemini(topic)
+            d = _call_gemini(topic, GEMINI_MODEL)
             d["ai_provider"] = f"Gemini {GEMINI_MODEL}"
             return d
         except Exception as e:
-            errors.append(f"Gemini: {e}")
-            print(f"    ⚠️  Gemini failed: {e}")
+            attempts.append(f"Gemini {GEMINI_MODEL}: {e}")
+            print(f"    ⚠️  {GEMINI_MODEL} failed: {e}")
+            time.sleep(2)
+
+        # ── Level 2: Gemini 1.5 Flash (free, 1500/day) ───────────────────
+        try:
+            print(f"    🤖 Gemini fallback ({GEMINI_MODEL_FALLBACK})")
+            d = _call_gemini(topic, GEMINI_MODEL_FALLBACK)
+            d["ai_provider"] = f"Gemini {GEMINI_MODEL_FALLBACK}"
+            return d
+        except Exception as e:
+            attempts.append(f"Gemini {GEMINI_MODEL_FALLBACK}: {e}")
+            print(f"    ⚠️  {GEMINI_MODEL_FALLBACK} failed: {e}")
             time.sleep(2)
     else:
-        print(f"    📊 Gemini quota reached → Groq fallback")
+        print(f"    📊 Gemini quota reached → Groq")
 
+    # ── Level 3: Groq llama3-8b-8192 (free, active) ──────────────────────
     if GROQ_API_KEY:
         try:
             print(f"    🤖 Groq ({GROQ_MODEL})")
-            d = _groq(topic)
+            d = _call_groq(topic, GROQ_MODEL)
             d["ai_provider"] = f"Groq/{GROQ_MODEL}"
             return d
         except Exception as e:
-            errors.append(f"Groq: {e}")
-            print(f"    ⚠️  Groq failed: {e}")
+            attempts.append(f"Groq {GROQ_MODEL}: {e}")
+            print(f"    ⚠️  Groq {GROQ_MODEL} failed: {e}")
+            time.sleep(2)
 
-    raise RuntimeError("Both AI providers failed:\n" + "\n".join(errors))
+        # ── Level 4: Groq mixtral (free, active) ─────────────────────────
+        try:
+            print(f"    🤖 Groq fallback ({GROQ_MODEL_FALLBACK})")
+            d = _call_groq(topic, GROQ_MODEL_FALLBACK)
+            d["ai_provider"] = f"Groq/{GROQ_MODEL_FALLBACK}"
+            return d
+        except Exception as e:
+            attempts.append(f"Groq {GROQ_MODEL_FALLBACK}: {e}")
+            print(f"    ⚠️  Groq {GROQ_MODEL_FALLBACK} failed: {e}")
+
+    raise RuntimeError("All 4 AI providers failed:\n" + "\n".join(attempts))
