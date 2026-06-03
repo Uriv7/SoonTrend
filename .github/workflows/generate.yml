@@ -1,0 +1,62 @@
+name: 🤖 Daily Content Generator + Deploy
+
+on:
+  schedule:
+    - cron: '0 3 * * *'     # 3:00 AM UTC = 8:30 AM IST, every day
+  workflow_dispatch:          # Manual trigger from GitHub UI anytime
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Checkout full history so we can push back ──────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python setup ───────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Ensure all needed directories and seed files exist ─────────────
+      - name: Prepare workspace
+        run: |
+          mkdir -p backend/data
+          mkdir -p docs/articles docs/topics docs/privacy docs/terms docs/assets
+          [ -f backend/data/published.json ]    || echo "[]"                          > backend/data/published.json
+          [ -f backend/data/gemini_usage.json ] || echo '{"date":"2000-01-01","count":0}' > backend/data/gemini_usage.json
+
+      # ── 4. Run generator (Gemini Flash → Groq auto-fallback) ──────────────
+      - name: Generate articles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY:   ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      # ── 5. Summary ────────────────────────────────────────────────────────
+      - name: Show results
+        run: |
+          echo "=========================================="
+          echo " Articles live: $(ls docs/articles/ | wc -l)"
+          echo " Latest:"
+          ls -t docs/articles/ | head -5
+          echo "=========================================="
+
+      # ── 6. Deploy to Cloudflare Pages via Wrangler ────────────────────────
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken:    ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId:   ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command:     pages deploy docs --project-name=soontrend --commit-dirty=true

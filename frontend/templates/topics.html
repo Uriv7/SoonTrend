@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Topics — SoonTrend</title>
+  <meta name="description" content="Browse all trending topic articles on SoonTrend. Technology, Science, Health, Business, Sports, Entertainment and more — updated daily.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ site_url }}/topics/">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_id }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ ga_id }}');</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ ads_client }}" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Inter:wght@400;500;600&family=Sora:wght@900&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;--bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;--accent:#d63a0a;--accent2:#1a4fd6;--border:#e8e6e0;--radius:10px;--shadow:0 1px 4px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06)}
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{font-size:16px;scroll-behavior:smooth}
+    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+    .hdr{background:var(--ink);color:#fff;padding:.85rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
+    .logo{font-family:'Sora',sans-serif;font-size:1.4rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em}
+    .logo em{color:var(--accent);font-style:normal}
+    .hdr-nav a{color:rgba(255,255,255,.6);text-decoration:none;font-size:.74rem;font-weight:600;margin-left:1.4rem;text-transform:uppercase;letter-spacing:.08em;transition:color .18s}
+    .hdr-nav a:hover{color:#fff}
+    .page-hdr{background:var(--bg2);border-bottom:1px solid var(--border);padding:2.5rem 2rem 2rem;text-align:center}
+    .page-hdr h1{font-family:'Merriweather',serif;font-size:1.9rem;font-weight:700;margin-bottom:.45rem}
+    .page-hdr p{color:var(--ink3);font-size:.9rem}
+    .content{max-width:1160px;margin:0 auto;padding:2.5rem 1.5rem 6rem}
+    .ad-wrap{text-align:center;margin:1.5rem 0}
+    .ad-label{display:block;font-size:.58rem;color:var(--ink4);text-transform:uppercase;letter-spacing:.08em;margin-bottom:.3rem}
+    .ad-wrap ins{border:1px dashed var(--border);border-radius:8px;background:var(--bg2)}
+    .cat-section{margin-bottom:3.2rem;scroll-margin-top:80px}
+    .cat-hdr{display:flex;align-items:center;gap:1rem;margin-bottom:1.1rem}
+    .cat-hdr h2{font-family:'Merriweather',serif;font-size:1.2rem;font-weight:700;white-space:nowrap}
+    .cat-hdr::after{content:'';flex:1;height:1px;background:var(--border)}
+    .cat-count{font-size:.7rem;color:var(--ink4);font-weight:500;white-space:nowrap}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.85rem}
+    .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:1.1rem 1.15rem;text-decoration:none;display:flex;flex-direction:column;gap:.35rem;transition:all .2s;box-shadow:var(--shadow)}
+    .card:hover{border-color:var(--accent2);transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.09)}
+    .card-title{font-family:'Merriweather',serif;font-size:.92rem;font-weight:700;color:var(--ink);line-height:1.4}
+    .card-meta{font-size:.7rem;color:var(--ink4)}
+    .card-cta{font-size:.74rem;font-weight:600;color:var(--accent2);margin-top:.15rem}
+    .footer{background:var(--ink);color:rgba(255,255,255,.5);text-align:center;padding:2.5rem 1rem}
+    .f-logo{font-family:'Sora',sans-serif;font-size:1.35rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em;display:inline-block;margin-bottom:.6rem}
+    .f-logo em{color:var(--accent);font-style:normal}
+    .footer p{font-size:.82rem;margin-bottom:1rem;line-height:1.7}
+    .footer-links{display:flex;justify-content:center;flex-wrap:wrap;gap:.5rem 1.2rem;font-size:.75rem;margin-bottom:1.2rem}
+    .footer-links a{color:rgba(255,255,255,.45);text-decoration:none}
+    .footer-links a:hover{color:#fff}
+    .footer-copy{font-size:.7rem;opacity:.38}
+    @media(max-width:640px){.hdr{padding:.75rem 1rem}.hdr-nav{display:none}.content{padding:1.5rem 1rem 4rem}.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<header class="hdr">
+  <a href="/" class="logo">Soon<em>Trend</em></a>
+  <nav class="hdr-nav">
+    <a href="/">Home</a>
+    <a href="/topics/">Topics</a>
+    <a href="/sitemap.xml">Sitemap</a>
+  </nav>
+</header>
+
+<div class="page-hdr">
+  <h1>All Topics</h1>
+  <p>{{ total }} articles across {{ cat_count }} categories — updated every day</p>
+</div>
+
+<div class="content">
+  <div class="ad-wrap">
+    <span class="ad-label">Advertisement</span>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ ads_client }}" data-ad-slot="{{ ads_slot_top }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+  </div>
+
+  {% for cat, arts in by_category.items() %}
+  <div class="cat-section" id="{{ cat | lower }}">
+    <div class="cat-hdr">
+      <h2>{{ cat }}</h2>
+      <span class="cat-count">{{ arts | length }} article{{ 's' if arts|length != 1 else '' }}</span>
+    </div>
+    <div class="grid">
+      {% for art in arts %}
+      <a href="/articles/{{ art.slug }}/" class="card">
+        <div class="card-title">{{ art.title }}</div>
+        <div class="card-meta">{{ art.read_time }} min read · {{ art.date }}</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if loop.index == 3 %}
+  <div class="ad-wrap">
+    <span class="ad-label">Advertisement</span>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ ads_client }}" data-ad-slot="{{ ads_slot_mid }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  <div class="ad-wrap">
+    <span class="ad-label">Advertisement</span>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ ads_client }}" data-ad-slot="{{ ads_slot_bottom }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+  </div>
+</div>
+
+<footer class="footer">
+  <a href="/" class="f-logo">Soon<em>Trend</em></a>
+  <p>Trending topics from around the world, instantly explained.</p>
+  <div class="footer-links">
+    <a href="/">Home</a><a href="/topics/">Topics</a><a href="/sitemap.xml">Sitemap</a>
+    <a href="/privacy/">Privacy</a><a href="/terms/">Terms</a>
+  </div>
+  <p class="footer-copy">© {{ year }} SoonTrend — Trending Topics, Instantly Explained</p>
+</footer>
+</body>
+</html>
