@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SoonTrend — Trending Topics, Instantly Explained</title>
+  <meta name="description" content="Discover what the world is searching right now. SoonTrend turns every trending topic into a deep, readable article — updated every day.">
+  <meta name="keywords" content="trending topics, trending news, what is trending today, trending searches, viral topics">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <link rel="canonical" href="https://soontrend.com/">
+  <link rel="sitemap" type="application/xml" href="https://soontrend.com/sitemap.xml">
+
+  <meta property="og:type"        content="website">
+  <meta property="og:title"       content="SoonTrend — Trending Topics, Instantly Explained">
+  <meta property="og:description" content="Discover what the world is searching right now. Updated every day.">
+  <meta property="og:url"         content="https://soontrend.com/">
+  <meta property="og:site_name"   content="SoonTrend">
+  <meta property="og:image"       content="https://soontrend.com/assets/og-default.png">
+  <meta name="twitter:card"       content="summary_large_image">
+  <meta name="twitter:site"       content="@SoonTrend">
+  <meta name="twitter:title"      content="SoonTrend — Trending Topics, Instantly Explained">
+  <meta name="twitter:description"content="Discover what the world is searching right now.">
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"SoonTrend","url":"https://soontrend.com/",
+   "description":"Trending Topics, Instantly Explained",
+   "potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://soontrend.com/topics/?q={search_term_string}"},"query-input":"required name=search_term_string"}}
+  </script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Inter:wght@300;400;500;600;700&family=Sora:wght@700;800;900&display=swap" rel="stylesheet">
+
+  <style>
+    :root{
+      --ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;
+      --bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;
+      --accent:#d63a0a;--accent2:#1a4fd6;--green:#047857;
+      --border:#e8e6e0;--radius:10px;--shadow:0 1px 4px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06);
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{font-size:16px;scroll-behavior:smooth}
+    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+
+    /* Header */
+    .hdr{background:var(--ink);color:#fff;padding:1rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
+    .logo{font-family:'Sora',sans-serif;font-size:1.5rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em}
+    .logo em{color:var(--accent);font-style:normal}
+    .hdr-nav a{color:rgba(255,255,255,.65);text-decoration:none;font-size:.75rem;font-weight:600;margin-left:1.5rem;text-transform:uppercase;letter-spacing:.08em;transition:color .18s}
+    .hdr-nav a:hover{color:#fff}
+
+    /* Hero */
+    .hero{background:linear-gradient(135deg,#0d0d0d 0%,#1a1a2e 55%,#16213e 100%);color:#fff;padding:5.5rem 2rem 4.5rem;text-align:center;position:relative;overflow:hidden}
+    .hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 65% 0%,rgba(214,58,10,.22) 0%,transparent 55%);pointer-events:none}
+    .live-pill{display:inline-flex;align-items:center;gap:.45rem;background:rgba(214,58,10,.15);border:1px solid rgba(214,58,10,.35);color:#ff7055;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;padding:.35rem .9rem;border-radius:99px;margin-bottom:1.5rem}
+    .live-dot{width:7px;height:7px;background:#ff7055;border-radius:50%;animation:blink 1.4s infinite}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+    .hero h1{font-family:'Sora',sans-serif;font-size:clamp(2rem,5.5vw,3.4rem);font-weight:900;line-height:1.1;letter-spacing:-.03em;margin-bottom:1rem;max-width:720px;margin-left:auto;margin-right:auto}
+    .hero h1 em{color:var(--accent);font-style:normal}
+    .hero-sub{font-size:1.02rem;color:rgba(255,255,255,.6);max-width:480px;margin:0 auto 2.2rem;line-height:1.75}
+    .hero-stat{font-size:.85rem;color:rgba(255,255,255,.35);margin-top:1.2rem;font-style:italic}
+
+    /* Search */
+    .search-wrap{max-width:520px;margin:0 auto;position:relative}
+    .search-wrap input{width:100%;padding:1rem 3.8rem 1rem 1.4rem;border:2px solid rgba(255,255,255,.12);border-radius:99px;background:rgba(255,255,255,.07);color:#fff;font-size:.95rem;font-family:'Inter',sans-serif;outline:none;transition:border .2s}
+    .search-wrap input::placeholder{color:rgba(255,255,255,.38)}
+    .search-wrap input:focus{border-color:rgba(214,58,10,.55)}
+    .search-wrap button{position:absolute;right:.5rem;top:50%;transform:translateY(-50%);background:var(--accent);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;transition:background .18s}
+    .search-wrap button:hover{background:#b02f07}
+
+    /* Category bar */
+    .cat-bar{background:var(--bg2);border-bottom:1px solid var(--border);padding:.85rem 2rem;display:flex;align-items:center;gap:.45rem;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+    .cat-bar::-webkit-scrollbar{display:none}
+    .cpill{flex-shrink:0;padding:.35rem .85rem;border-radius:99px;border:1px solid var(--border);background:var(--bg);color:var(--ink3);font-size:.72rem;font-weight:600;cursor:pointer;transition:all .18s;text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}
+    .cpill.active,.cpill:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+    /* Ad */
+    .ad-wrap{max-width:1160px;margin:1.25rem auto;padding:0 1.5rem;text-align:center}
+    .ad-label{display:block;font-size:.58rem;color:var(--ink4);text-transform:uppercase;letter-spacing:.08em;margin-bottom:.35rem}
+    .ad-wrap ins{border:1px dashed var(--border);border-radius:8px;background:var(--bg2)}
+
+    /* Content */
+    .content{max-width:1160px;margin:0 auto;padding:2.5rem 1.5rem 6rem}
+
+    /* Featured */
+    .featured{display:grid;grid-template-columns:1fr 1.1fr;border:1px solid var(--border);border-radius:14px;overflow:hidden;margin-bottom:2.5rem;box-shadow:var(--shadow)}
+    .feat-vis{background:linear-gradient(135deg,#111 0%,#1a1a2e 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem;gap:1rem;min-height:280px}
+    .feat-emoji{font-size:4rem;line-height:1}
+    .feat-vis-label{font-family:'Sora',sans-serif;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.15em;color:rgba(255,255,255,.35)}
+    .feat-body{padding:2.2rem;background:var(--bg2);display:flex;flex-direction:column;justify-content:center}
+    .feat-badge{display:inline-flex;align-items:center;gap:.35rem;background:var(--accent);color:#fff;font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;padding:.25rem .65rem;border-radius:99px;margin-bottom:.85rem;width:fit-content}
+    .feat-title{font-family:'Merriweather',serif;font-size:1.55rem;font-weight:700;line-height:1.25;color:var(--ink);margin-bottom:.7rem;letter-spacing:-.01em}
+    .feat-meta{font-size:.73rem;color:var(--ink4);margin-bottom:1.2rem}
+    .feat-link{display:inline-flex;align-items:center;gap:.5rem;background:var(--ink);color:#fff;text-decoration:none;padding:.65rem 1.3rem;border-radius:99px;font-size:.82rem;font-weight:600;transition:background .18s;width:fit-content}
+    .feat-link:hover{background:var(--accent)}
+    @media(max-width:700px){.featured{grid-template-columns:1fr}.feat-vis{display:none}}
+
+    /* Section header */
+    .sec-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem}
+    .sec-hdr h2{font-family:'Merriweather',serif;font-size:1.2rem;font-weight:700}
+    .sec-hdr a{font-size:.78rem;color:var(--accent2);text-decoration:none;font-weight:600}
+    .sec-hdr a:hover{text-decoration:underline}
+
+    /* Grid */
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:1rem;margin-bottom:2.5rem}
+    .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.25rem;text-decoration:none;display:flex;flex-direction:column;gap:.4rem;transition:all .2s;box-shadow:var(--shadow)}
+    .card:hover{border-color:var(--accent2);transform:translateY(-3px);box-shadow:0 8px 28px rgba(0,0,0,.1)}
+    .card-cat{font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--accent)}
+    .card-title{font-family:'Merriweather',serif;font-size:.97rem;font-weight:700;line-height:1.4;color:var(--ink)}
+    .card-meta{font-size:.7rem;color:var(--ink4);display:flex;gap:.5rem}
+    .card-cta{font-size:.75rem;font-weight:600;color:var(--accent2);margin-top:.2rem}
+
+    /* No results */
+    .no-res{text-align:center;padding:4rem 1rem;display:none}
+    .no-res h3{font-family:'Merriweather',serif;font-size:1.3rem;margin-bottom:.5rem}
+    .no-res p{color:var(--ink3);font-size:.9rem}
+
+    /* Footer */
+    .footer{background:var(--ink);color:rgba(255,255,255,.5);padding:3rem 2rem 2rem}
+    .footer-inner{max-width:1160px;margin:0 auto}
+    .footer-top{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:2rem;margin-bottom:2.5rem}
+    @media(max-width:700px){.footer-top{grid-template-columns:1fr 1fr}}
+    .f-logo{font-family:'Sora',sans-serif;font-size:1.4rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em;display:block;margin-bottom:.7rem}
+    .f-logo em{color:var(--accent);font-style:normal}
+    .footer-brand p{font-size:.82rem;line-height:1.75;max-width:230px}
+    .footer-col h4{font-size:.67rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:rgba(255,255,255,.7);margin-bottom:.85rem}
+    .footer-col a{display:block;font-size:.82rem;color:rgba(255,255,255,.42);text-decoration:none;margin-bottom:.42rem;transition:color .15s}
+    .footer-col a:hover{color:#fff}
+    .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:1.4rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:.75rem;font-size:.7rem}
+    .footer-bottom a{color:rgba(255,255,255,.38);text-decoration:none;margin-left:1rem}
+    .footer-bottom a:hover{color:rgba(255,255,255,.7)}
+
+    @media(max-width:640px){.hdr{padding:.75rem 1rem}.hdr-nav{display:none}.content{padding:1.5rem 1rem 4rem}.hero{padding:4rem 1rem 3.5rem}.grid{grid-template-columns:1fr}.footer{padding:2rem 1rem 1.5rem}}
+  </style>
+</head>
+<body>
+
+<header class="hdr">
+  <a href="/" class="logo">Soon<em>Trend</em></a>
+  <nav class="hdr-nav" aria-label="Main navigation">
+    <a href="/topics/">All Topics</a>
+    <a href="/sitemap.xml">Sitemap</a>
+  </nav>
+</header>
+
+<section class="hero" aria-label="Hero">
+  <div class="live-pill"><span class="live-dot"></span>Updated Daily</div>
+  <h1>The World's Trending Topics,<br><em>Instantly Explained</em></h1>
+  <p class="hero-sub">Every day SoonTrend turns the most-searched topics into deep, readable articles. No noise — just clarity.</p>
+  <div class="search-wrap">
+    <input type="search" id="searchInput" placeholder="Search articles…" oninput="doFilter()" aria-label="Search articles">
+    <button onclick="doFilter()" aria-label="Search">🔍</button>
+  </div>
+  <p class="hero-stat">2 articles published and growing every day</p>
+</section>
+
+<div class="cat-bar" role="navigation" aria-label="Category filter">
+  <button class="cpill active" onclick="setCat('all',this)">All</button>
+  <button class="cpill" onclick="setCat('Technology',this)">Technology</button>
+  <button class="cpill" onclick="setCat('Science',this)">Science</button>
+  <button class="cpill" onclick="setCat('Health',this)">Health</button>
+  <button class="cpill" onclick="setCat('Business',this)">Business</button>
+  <button class="cpill" onclick="setCat('Sports',this)">Sports</button>
+  <button class="cpill" onclick="setCat('Entertainment',this)">Entertainment</button>
+  <button class="cpill" onclick="setCat('Politics',this)">Politics</button>
+  <button class="cpill" onclick="setCat('Culture',this)">Culture</button>
+  <button class="cpill" onclick="setCat('Environment',this)">Environment</button>
+  <button class="cpill" onclick="setCat('Education',this)">Education</button>
+  <button class="cpill" onclick="setCat('Lifestyle',this)">Lifestyle</button>
+</div>
+
+<div class="ad-wrap">
+  <span class="ad-label">Advertisement</span>
+  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="1111111111" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+
+<div class="content">
+
+  
+  <div class="featured" id="feat" data-cat="Science">
+    <div class="feat-vis" aria-hidden="true">
+      <div class="feat-emoji">🔥</div>
+      <div class="feat-vis-label">Editor's Pick</div>
+    </div>
+    <div class="feat-body">
+      <div class="feat-badge">🔥 Top Today</div>
+      <h2 class="feat-title">Unlocking the Future of Cancer Research through Innovation and Collaboration</h2>
+      <p class="feat-meta">Science · 9 min read · 2026-06-03</p>
+      <a href="/articles/cancer-research-innovation-and-collaboration/" class="feat-link">Read Full Article →</a>
+    </div>
+  </div>
+  
+
+  <div class="sec-hdr">
+    <h2>Latest Articles</h2>
+    <a href="/topics/">Browse all →</a>
+  </div>
+
+  <div class="grid" id="grid">
+    
+    <a href="/articles/carbon-capture-technologies-reducing-global-emissions/" class="card" data-cat="Environment" data-title="carbon capture technologies revolutionizing global emissions reduction">
+      <div class="card-cat">Environment</div>
+      <div class="card-title">Carbon Capture Technologies Revolutionizing Global Emissions Reduction</div>
+      <div class="card-meta">
+        <span>8 min</span>
+        <span>·</span>
+        <span>2026-06-03</span>
+      </div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+  </div>
+
+  <div class="no-res" id="noRes">
+    <h3>No articles found</h3>
+    <p>Try a different search or category.</p>
+  </div>
+
+  <div class="ad-wrap" style="padding:0">
+    <span class="ad-label">Advertisement</span>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="2222222222" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+  </div>
+
+</div>
+
+<footer class="footer" aria-label="Footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="f-logo">Soon<em>Trend</em></a>
+        <p>Trending topics from around the world, instantly explained with depth and clarity.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <a href="/">Home</a>
+        <a href="/topics/">All Topics</a>
+        <a href="/sitemap.xml">Sitemap</a>
+      </div>
+      <div class="footer-col">
+        <h4>Categories</h4>
+        <a href="/topics/#technology">Technology</a>
+        <a href="/topics/#science">Science</a>
+        <a href="/topics/#health">Health</a>
+        <a href="/topics/#business">Business</a>
+        <a href="/topics/#culture">Culture</a>
+      </div>
+      <div class="footer-col">
+        <h4>Legal</h4>
+        <a href="/privacy/">Privacy Policy</a>
+        <a href="/terms/">Terms of Use</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 SoonTrend — Trending Topics, Instantly Explained</span>
+      <div><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/sitemap.xml">Sitemap</a></div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  let activeCat = 'all';
+
+  function setCat(cat, btn) {
+    activeCat = cat;
+    document.querySelectorAll('.cpill').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    doFilter();
+  }
+
+  function doFilter() {
+    const q = (document.getElementById('searchInput').value || '').toLowerCase();
+    const cards = [...document.querySelectorAll('#grid .card')];
+    const feat  = document.getElementById('feat');
+    let shown   = 0;
+
+    cards.forEach(c => {
+      const catOk    = activeCat === 'all' || c.dataset.cat === activeCat;
+      const searchOk = !q || c.dataset.title.includes(q);
+      c.style.display = catOk && searchOk ? '' : 'none';
+      if (catOk && searchOk) shown++;
+    });
+
+    if (feat) {
+      feat.style.display = (activeCat === 'all' || feat.dataset.cat === activeCat) ? '' : 'none';
+    }
+    document.getElementById('noRes').style.display = shown === 0 ? 'block' : 'none';
+  }
+</script>
+</body>
+</html>

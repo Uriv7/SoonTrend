@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "topic": "The Pioneering World of Cancer Research: Where Science Meets Hope",
+    "slug": "cancer-research-innovation-and-collaboration",
+    "title": "Unlocking the Future of Cancer Research through Innovation and Collaboration",
+    "category": "Science",
+    "tags": [
+      "cancer research",
+      "cancer treatment",
+      "cancer prevention",
+      "cancer diagnosis",
+      "cancer therapy",
+      "precision medicine",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "date": "2026-06-03",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9
+  },
+  {
+    "topic": "Harnessing the Power of Carbon Capture for a Sustainable Future",
+    "slug": "carbon-capture-technologies-reducing-global-emissions",
+    "title": "Carbon Capture Technologies Revolutionizing Global Emissions Reduction",
+    "category": "Environment",
+    "tags": [
+      "climate change",
+      "sustainability",
+      "emissions reduction",
+      "renewable energy",
+      "energy efficiency",
+      "carbon management",
+      "low-carbon economy",
+      "greenhouse gas emissions"
+    ],
+    "date": "2026-06-03",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8
+  }
+]
