@@ -5,8 +5,7 @@ Country is used ONLY to pick which region to query — never shown on pages.
 """
 import json, os, sys, time, random
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
-from pytrends.request import TrendReq
-from config.settings  import COUNTRIES, TOPICS_PER_COUNTRY, PUBLISHED_FILE
+from config.settings import COUNTRIES, TOPICS_PER_COUNTRY, PUBLISHED_FILE
 
 
 def _load_published_topics() -> set:
@@ -16,17 +15,39 @@ def _load_published_topics() -> set:
         return {e.get("topic", "").lower() for e in json.load(f)}
 
 
+def _make_pytrends():
+    """Create TrendReq with fallback for different pytrends/urllib3 versions."""
+    from pytrends.request import TrendReq
+    try:
+        # Try newer API first (no method_whitelist)
+        pt = TrendReq(hl="en-US", tz=0, timeout=(10, 25), retries=2, backoff_factor=0.5)
+        return pt
+    except TypeError:
+        try:
+            # Fallback: minimal args
+            pt = TrendReq(hl="en-US", tz=0)
+            return pt
+        except Exception as e:
+            raise RuntimeError(f"Cannot initialise pytrends: {e}")
+
+
 def get_trending_topics(max_total: int = 20) -> list:
     """
     Returns list of dicts: [{"topic": str, "source_code": str}]
     source_code is only used to rotate Google Trends regions — never displayed.
     """
     published  = _load_published_topics()
-    pytrends   = TrendReq(hl="en-US", tz=0, timeout=(10, 25), retries=2, backoff_factor=0.5)
     collected  = []
     seen       = set(published)
     countries  = list(COUNTRIES.items())
-    random.shuffle(countries)           # Rotate so all countries get equal coverage over time
+    random.shuffle(countries)
+
+    # Build pytrends once
+    try:
+        pytrends = _make_pytrends()
+    except Exception as e:
+        print(f"  ❌ pytrends init failed: {e}")
+        return []
 
     for country_name, code in countries:
         try:
