@@ -27,9 +27,17 @@ API_SLEEP_SECONDS   = 4
 
 GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY",  "")
 GROQ_API_KEY       = os.environ.get("GROQ_API_KEY",    "")
-GEMINI_MODEL       = "gemini-2.0-flash"
-GROQ_MODEL         = "llama3-70b-8192"
-GEMINI_DAILY_LIMIT = 1400
+
+# gemini-1.5-flash-8b: free tier, 1000 req/day, fast
+# Fallback Gemini: gemini-1.5-flash (also free tier)
+GEMINI_MODEL         = "gemini-1.5-flash-8b"
+GEMINI_MODEL_FALLBACK= "gemini-1.5-flash"
+
+# Groq current active free models (llama3-70b decommissioned)
+GROQ_MODEL           = "llama3-8b-8192"          # primary Groq
+GROQ_MODEL_FALLBACK  = "mixtral-8x7b-32768"      # secondary Groq
+
+GEMINI_DAILY_LIMIT = 900   # Stay well under 1000/day free limit
 
 GEMINI_USAGE_FILE = "backend/data/gemini_usage.json"
 PUBLISHED_FILE    = "backend/data/published.json"
