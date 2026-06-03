@@ -1,7 +1,6 @@
 """
-backend/generator/content.py
-AI content generator — Gemini 1.5 Flash (primary) → Groq llama3-70b (fallback).
-NO country/geography appears anywhere in generated content.
+AI content generator — Gemini 2.0 Flash (primary) → Groq llama3-70b (fallback).
+NO country/geography in any generated content.
 """
 import json, os, re, sys, time
 from datetime import date
@@ -12,7 +11,6 @@ from config.settings import (
 )
 
 
-# ── Usage tracker ─────────────────────────────────────────────────────────────
 def _load_usage() -> dict:
     os.makedirs(os.path.dirname(GEMINI_USAGE_FILE), exist_ok=True)
     if not os.path.exists(GEMINI_USAGE_FILE):
@@ -34,62 +32,54 @@ def _gemini_ok():
     return bool(GEMINI_API_KEY) and _load_usage()["count"] < GEMINI_DAILY_LIMIT
 
 
-# ── Prompt ────────────────────────────────────────────────────────────────────
-PROMPT = '''You are a world-class SEO journalist and content strategist writing for a major editorial website.
+PROMPT = '''You are a world-class SEO journalist writing for a major editorial website.
 
 Write a comprehensive, deeply informative, SEO-optimised article about: "{topic}"
 
-ABSOLUTE RULES — never break these:
-1. ZERO geographic references. No country, city, region, continent, or location anywhere.
-2. ZERO phrases like "trending in X", "popular in X", "across X".
-3. Write as a timeless, authoritative reference article about the topic itself.
-4. Use "{topic}" and close variants naturally 8-12 times across the full article.
-5. Total word count: 1000-1300 words minimum across all sections combined.
-6. Write for real humans first. Be genuinely interesting, specific, and insightful.
+ABSOLUTE RULES:
+1. ZERO geographic references. No country, city, region, or location anywhere.
+2. ZERO phrases like "trending in X" or "popular in X".
+3. Write as a timeless authoritative reference article about the topic itself.
+4. Use "{topic}" naturally 8-12 times across the full article.
+5. Total word count: minimum 1000 words across all sections.
 
-Return ONLY a valid raw JSON object. Absolutely no markdown, no backticks, no preamble.
+Return ONLY a valid raw JSON object. No markdown, no backticks, no explanation.
 
 {{
   "title": "SEO title 52-60 chars — keyword near front",
-  "meta_description": "148-155 chars — includes keyword — ends with a compelling hook or question",
+  "meta_description": "148-155 chars — includes keyword — ends with compelling hook",
   "slug": "lowercase-hyphens-only-max-55-chars",
-  "h1": "Engaging headline, can differ from title, more conversational",
+  "h1": "Engaging headline, conversational, can differ from title",
   "category": "ONE of: Technology | Science | Health | Business | Sports | Entertainment | Politics | Culture | Environment | Education | Lifestyle",
   "read_time": 6,
-  "intro": "3-4 sentences. Immediately hook the reader. State what they will learn. Use the keyword naturally.",
+  "intro": "3-4 sentences. Hook the reader. State what they will learn. Use keyword naturally.",
   "sections": [
     {{
-      "h2": "Keyword-rich section heading with secondary keyword",
-      "content": "Minimum 5 paragraphs of rich, specific, well-explained content. Use \\n between paragraphs. No fluff. Real insight."
+      "h2": "Section heading with secondary keyword",
+      "content": "Minimum 5 paragraphs. Rich, specific, well-explained. Separate paragraphs with \\n."
     }}
   ],
   "faq": [
-    {{"question": "Natural question someone would Google about {topic}?", "answer": "Specific 3-4 sentence answer with real detail."}}
+    {{"question": "Natural question someone Googles about {topic}?", "answer": "Specific 3-4 sentence answer."}}
   ],
   "key_takeaways": [
-    "One-sentence takeaway with a concrete insight.",
-    "One-sentence takeaway with a concrete insight.",
-    "One-sentence takeaway with a concrete insight.",
-    "One-sentence takeaway with a concrete insight."
+    "Concrete one-sentence insight.",
+    "Concrete one-sentence insight.",
+    "Concrete one-sentence insight.",
+    "Concrete one-sentence insight."
   ],
-  "related_queries": ["related search term 1", "related search term 2", "related search term 3", "related search term 4", "related search term 5"],
+  "related_queries": ["related term 1", "related term 2", "related term 3", "related term 4", "related term 5"],
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6"],
   "schema_keywords": ["primary keyword", "semantic variant", "long-tail phrase", "related concept"]
 }}
 
-Requirements:
-- sections: minimum 5 (each with h2 + content)
-- faq: minimum 6 items
-- Every section content: minimum 200 words
-- key_takeaways: exactly 4 items
-- slug: no special chars, no numbers unless part of topic name
+Requirements: minimum 5 sections, minimum 6 FAQ items, minimum 250 words per section.
 '''
 
 
 def _parse(text: str) -> dict:
     text = text.strip()
     text = re.sub(r'^```json\s*|^```\s*|\s*```$', '', text, flags=re.MULTILINE).strip()
-    # Find first { and last } to be safe
     start = text.find('{')
     end   = text.rfind('}')
     if start != -1 and end != -1:
@@ -113,7 +103,7 @@ def _groq(topic: str) -> dict:
     resp   = client.chat.completions.create(
         model=GROQ_MODEL,
         messages=[
-            {"role": "system", "content": "You are an expert SEO journalist. Respond with raw valid JSON only. No markdown, no backticks, no preamble."},
+            {"role": "system", "content": "You are an expert SEO journalist. Respond with raw valid JSON only. No markdown, no backticks."},
             {"role": "user",   "content": PROMPT.format(topic=topic)},
         ],
         temperature=0.72,
@@ -123,19 +113,14 @@ def _groq(topic: str) -> dict:
 
 
 def generate_article(topic: str) -> dict:
-    """
-    Generate full SEO article for topic.
-    Tries Gemini first; auto-falls back to Groq when quota is hit.
-    Raises RuntimeError if both fail.
-    """
     errors = []
 
     if _gemini_ok():
         try:
             u = _load_usage()
-            print(f"    🤖 Gemini Flash ({u['count']}/{GEMINI_DAILY_LIMIT} used today)")
+            print(f"    🤖 Gemini ({GEMINI_MODEL}) [{u['count']}/{GEMINI_DAILY_LIMIT} today]")
             d = _gemini(topic)
-            d["ai_provider"] = "Gemini 1.5 Flash"
+            d["ai_provider"] = f"Gemini {GEMINI_MODEL}"
             return d
         except Exception as e:
             errors.append(f"Gemini: {e}")
