@@ -113,5 +113,48 @@
     "date": "2026-06-04",
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 8
+  },
+  {
+    "topic": "Experience the Future of Connectivity with 5G Technology",
+    "slug": "5g-technology-revolutionizing-the-digital-age",
+    "title": "Unlocking the Power of 5G Technology for a Faster Digital Age",
+    "category": "Technology",
+    "tags": [
+      "5G Technology",
+      "Wireless Network Technology",
+      "Fifth Generation Wireless Network Technology",
+      "Faster Data Transfer Rates",
+      "Greater Connectivity",
+      "Lower Latency",
+      "Internet of Things (IoT)",
+      "Digital Transformation",
+      "Edge Computing",
+      "Artificial Intelligence (AI)",
+      "Smart Cities",
+      "Manufacturing",
+      "Transportation",
+      "Healthcare",
+      "Emerging Markets"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8
+  },
+  {
+    "topic": "The Silent Threat of Antibiotic Resistance: What You Need to Know",
+    "slug": "understanding-antibiotic-resistance-causes-and-consequences",
+    "title": "Understanding Antibiotic Resistance: Causes and Consequences",
+    "category": "Health",
+    "tags": [
+      "Antibiotic Resistance",
+      "Causes of Antibiotic Resistance",
+      "Consequences of Antibiotic Resistance",
+      "Strategies to combat Antibiotic Resistance",
+      "Future of Antibiotic Resistance",
+      "Antibiotic stewardship"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10
   }
 ]
