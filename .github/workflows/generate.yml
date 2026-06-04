@@ -2,8 +2,11 @@ name: 🤖 Daily Content Generator + Deploy
 
 on:
   schedule:
-    - cron: '0 3 * * *'     # 3:00 AM UTC = 8:30 AM IST, every day
-  workflow_dispatch:          # Manual trigger from GitHub UI anytime
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'backend/data/published.json'        # Manual trigger from GitHub UI anytime
 
 jobs:
   generate-and-deploy:
