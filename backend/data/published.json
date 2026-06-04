@@ -73,5 +73,45 @@
     "date": "2026-06-03",
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10
+  },
+  {
+    "topic": "Protect Your Digital Life: Mastering Cybersecurity Fundamentals",
+    "slug": "cybersecurity-basics-for-a-safer-digital-world",
+    "title": "Cybersecurity Essentials for a Safer Digital World",
+    "category": "Technology",
+    "tags": [
+      "Cybersecurity",
+      "Cybercrime",
+      "Cyber threats",
+      "Cybersecurity measures",
+      "Cybersecurity training",
+      "Cybersecurity career"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12
+  },
+  {
+    "topic": "Embracing Remote Work: The Future of Productivity",
+    "slug": "remote-work-strategies-productivity",
+    "title": "Unlocking Productivity with Remote Work Strategies",
+    "category": "Business",
+    "tags": [
+      "remote work",
+      "productivity",
+      "flexibility",
+      "work-life balance",
+      "communication",
+      "collaboration",
+      "self-care",
+      "stress management",
+      "artificial intelligence",
+      "machine learning",
+      "virtual reality",
+      "augmented reality"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8
   }
 ]
