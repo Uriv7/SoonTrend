@@ -175,5 +175,67 @@
     "date": "2026-06-04",
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10
+  },
+  {
+    "topic": "Unlocking the Power of Renewable Energy: A Key to a Greener Tomorrow",
+    "slug": "renewable-energy-sustainable-future",
+    "title": "Renewable Energy: Sustainable Future for a Greener Tomorrow",
+    "category": "Environment",
+    "tags": [
+      "renewable energy",
+      "sustainable energy",
+      "clean energy",
+      "energy security",
+      "climate change",
+      "environmental sustainability",
+      "economic growth",
+      "job creation",
+      "public health",
+      "infrastructure investment",
+      "policy and regulation",
+      "education and awareness"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10
+  },
+  {
+    "topic": "The Rise of Artificial Intelligence: Shaping the Future of Technology and Humanity",
+    "slug": "the-evolution-of-artificial-intelligence",
+    "title": "Unlocking the Power of Artificial Intelligence",
+    "category": "Technology",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Robotics",
+      "Autonomy",
+      "Cognitive Architectures"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8
+  },
+  {
+    "topic": "The Complex Relationship Between Inflation and Economy: Separating Fact from Fiction",
+    "slug": "inflation-and-economy-causes-effects-management",
+    "title": "Understanding Inflation and Economy: Causes, Effects, and Management",
+    "category": "Business",
+    "tags": [
+      "inflation",
+      "economy",
+      "macroeconomics",
+      "microeconomics",
+      "monetary policy",
+      "fiscal policy",
+      "price controls",
+      "supply-side policies"
+    ],
+    "date": "2026-06-04",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10
   }
 ]
