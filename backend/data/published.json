@@ -257,5 +257,84 @@
     "date": "2026-06-05",
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10
+  },
+  {
+    "topic": "Immerse Yourself in the Future: The Rise of Virtual Reality",
+    "slug": "virtual-reality",
+    "title": "Unlocking the Power of Virtual Reality",
+    "category": "Technology",
+    "tags": [
+      "Virtual Reality",
+      "Immersive technology",
+      "Interactive learning",
+      "Virtual therapy",
+      "VR applications",
+      "Education",
+      "Healthcare",
+      "Entertainment"
+    ],
+    "date": "2026-06-05",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10
+  },
+  {
+    "topic": "Unleashing the Power of Carbon Capture: A Game-Changer for the Environment",
+    "slug": "carbon-capture-technology-solutions",
+    "title": "Unlocking the Future of Carbon Capture Technology",
+    "category": "Environment",
+    "tags": [
+      "Carbon Capture",
+      "Climate Change",
+      "Renewable Energy",
+      "Sustainability",
+      "Energy Efficiency",
+      "Clean Energy",
+      "Environmental Protection",
+      "Green Technology",
+      "Emissions Reduction"
+    ],
+    "date": "2026-06-05",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10
+  },
+  {
+    "topic": "What is Cryptocurrency and How Does it Work?",
+    "slug": "understanding-cryptocurrency",
+    "title": "Understanding Cryptocurrency: A Comprehensive Guide",
+    "category": "Technology",
+    "tags": [
+      "cryptocurrency",
+      "blockchain",
+      "digital currency",
+      "finance",
+      "gaming",
+      "charity",
+      "online transactions",
+      "security"
+    ],
+    "date": "2026-06-05",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12
+  },
+  {
+    "topic": "Unlock the Power of Sustainable Living: A Guide to Eco-Friendly Choices",
+    "slug": "sustainable-living-practices",
+    "title": "Embracing Sustainable Living: A Path to a Greener Future",
+    "category": "Environment",
+    "tags": [
+      "sustainable living",
+      "eco-friendly",
+      "green living",
+      "environment",
+      "sustainability",
+      "climate change",
+      "renewable energy",
+      "energy efficiency",
+      "water conservation",
+      "waste reduction"
+    ],
+    "date": "2026-06-05",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8
   }
 ]
