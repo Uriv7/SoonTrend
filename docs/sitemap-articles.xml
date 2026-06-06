@@ -8,6 +8,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/anthony-head-creative-potential/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/anthony-head-insight/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,6 +28,12 @@
   <url>
     <loc>https://soontrend.com/articles/brain-computer-interface-technology/</loc>
     <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/caitlin-clark-angel-reese-final-box-score-stats-highlights-fever-beat-dream/</loc>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -76,6 +88,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ice-stop-reporting-deaths-newly-released-detainees/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/inflation-and-economy-causes-effects-management/</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +104,26 @@
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/judge-dismisses-murder-charge/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Experts Warn of Widespread Consequences</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-security-risks-exposed/</loc>
@@ -99,6 +137,34 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>Main Page Under Fire: Experts Sound Alarm as Security Risks Mount</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/musk-spacex-ipo-retail-investors/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>Musk's SpaceX Taps Retail Investors for Record-Breaking IPO</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/news-s-p-500-rejects-spacex-openai-anthropic/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>S&P 500 Rejects SpaceX, Raising Red Flags for Emerging Tech</news:title>
     </news:news>
   </url>
   <url>
@@ -118,6 +184,20 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/south-korea-stocks-plummet-5-as-ai-linked-tech-giants-tank/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>Market Turmoil: Stocks Plummet 5% as AI-Linked Tech Giants Tank</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/sp-500-rejects-spacex-blocks-openai-anthropic-entry/</loc>
