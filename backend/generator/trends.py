@@ -1,144 +1,222 @@
 """
-backend/generator/trends.py
-Fetches trending topics using Google Trends RSS feeds (always free, no API needed).
-Falls back to a curated evergreen topic list if RSS also fails.
-Country codes only used internally — never shown on published pages.
+SoonTrend V2 — Multi-source trend fetcher.
+Sources: Reddit + Wikipedia + HackerNews + GNews + NewsAPI + Evergreen fallback
+Scores topics by RPM potential (Finance/Health/Tech = highest).
+Returns 2 batches: evergreen topics + breaking news topics.
 """
 import json, os, sys, time, random, re
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
-from config.settings import PUBLISHED_FILE
+from config.settings import PUBLISHED_FILE, NEWS_API_KEY, GNEWS_API_KEY
 
 try:
-    import requests
+    import requests as req
 except ImportError:
-    import urllib.request as requests
+    req = None
 
+SUBREDDITS_NEWS = ["worldnews","news","UpliftingNews","technology","science","business","health"]
+SUBREDDITS_NICHE = ["personalfinance","investing","environment","Futurology","medicine","artificial"]
 
-# ── Country RSS feeds (Google Trends daily trending RSS) ─────────────────────
-TREND_FEEDS = {
-    "US": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US",
-    "IN": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN",
-    "GB": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=GB",
-    "AU": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=AU",
-    "CA": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=CA",
-    "DE": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=DE",
-    "FR": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR",
-    "JP": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=JP",
-    "KR": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR",
-    "SG": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=SG",
-    "NL": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=NL",
-    "SE": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=SE",
-    "NO": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=NO",
-    "DK": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=DK",
-    "FI": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=FI",
-    "CH": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=CH",
-    "AT": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=AT",
-    "BE": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=BE",
-    "IE": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IE",
-    "NZ": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=NZ",
-    "IT": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IT",
-    "ES": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=ES",
-    "PL": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PL",
-    "CZ": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=CZ",
-    "AE": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=AE",
-    "SA": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=SA",
-    "QA": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=QA",
-    "IL": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IL",
-    "HK": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=HK",
-    "IS": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IS",
-}
+HIGH_RPM_KEYWORDS = [
+    "stock","market","invest","bitcoin","crypto","mortgage","insurance","loan",
+    "credit","bank","tax","fund","economy","inflation","interest rate","401k",
+    "health","cancer","treatment","drug","medical","disease","therapy","mental",
+    "diet","weight","fitness","vaccine","surgery","diabetes","heart",
+    "ai","artificial intelligence","tech","cyber","software","electric vehicle",
+    "quantum","robot","autonomous","space","energy","climate",
+    "lawyer","lawsuit","legal","court","settlement","attorney","lawsuit",
+]
 
-# ── Evergreen fallback topics (used if ALL RSS feeds fail) ───────────────────
-FALLBACK_TOPICS = [
-    "Artificial Intelligence", "Climate Change", "Quantum Computing",
-    "Electric Vehicles", "Cryptocurrency", "Space Exploration",
-    "Mental Health Awareness", "Renewable Energy", "Cybersecurity",
-    "Remote Work", "Machine Learning", "Blockchain Technology",
-    "Gene Editing", "Autonomous Vehicles", "Social Media Trends",
-    "Inflation and Economy", "5G Technology", "NFTs and Digital Art",
-    "Sustainable Living", "Virtual Reality", "ChatGPT",
-    "Weight Loss Drugs", "Cancer Research", "Antibiotic Resistance",
-    "Nuclear Fusion", "Carbon Capture", "Microplastics",
-    "Deepfake Technology", "Brain-Computer Interface", "Longevity Science",
+EVERGREEN_HIGH_RPM = [
+    "Stock Market Outlook","Bitcoin Price Analysis","Mortgage Rate Changes",
+    "Best High Yield Savings Accounts","Federal Reserve Interest Rate Decision",
+    "Artificial Intelligence in Healthcare","Cancer Research Breakthrough",
+    "Electric Vehicle Tax Credit","Climate Change Solutions",
+    "Cybersecurity Threats","Mental Health Treatment","Weight Loss Science",
+    "Renewable Energy Costs","Gene Therapy Advances","Autonomous Vehicle Safety",
+    "Cryptocurrency Regulation","Life Insurance Guide","College Tuition Costs",
+    "Remote Work Productivity","Social Media Mental Health Impact",
+    "Antibiotic Resistance Crisis","Nuclear Fusion Progress",
+    "Quantum Computing Applications","5G Technology Impact",
+    "Personal Finance Tips","Retirement Planning Guide",
+]
+
+BREAKING_FALLBACK = [
+    "Major Tech Company Layoffs","AI Regulation Update","Climate Summit Results",
+    "Central Bank Policy Change","Healthcare System Reform","Space Mission Update",
+    "Cybersecurity Data Breach","Electric Vehicle Market Shift",
+    "Global Supply Chain Crisis","Inflation Economic Impact",
+    "Social Media Platform Changes","Renewable Energy Record",
+    "Medical Research Discovery","Stock Market Volatility",
+    "Technology Antitrust Case",
 ]
 
 
-def _load_published_topics() -> set:
+def _load_published() -> set:
     if not os.path.exists(PUBLISHED_FILE):
         return set()
     with open(PUBLISHED_FILE) as f:
-        return {e.get("topic", "").lower() for e in json.load(f)}
+        return {e.get("topic","").lower() for e in json.load(f)}
 
 
-def _parse_rss(xml_text: str) -> list:
-    """Extract <title> tags from RSS XML, skip the feed title (first one)."""
-    titles = re.findall(r'<title><!\[CDATA\[(.*?)\]\]></title>', xml_text)
-    if not titles:
-        # Try plain title tags
-        titles = re.findall(r'<title>(.*?)</title>', xml_text)
-        titles = titles[1:]  # skip feed title
-    return [t.strip() for t in titles if t.strip() and len(t.strip()) > 3]
-
-
-def _fetch_rss(url: str, timeout: int = 10) -> list:
-    """Fetch and parse a Google Trends RSS feed. Returns list of topic strings."""
+def _get(url, timeout=10, headers=None):
+    if req is None:
+        return None
     try:
-        import requests as req_lib
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; SoonTrend/1.0; +https://soontrend.com)",
-            "Accept": "application/rss+xml, application/xml, text/xml",
-        }
-        resp = req_lib.get(url, headers=headers, timeout=timeout)
-        if resp.status_code == 200:
-            return _parse_rss(resp.text)
+        h = {"User-Agent": "SoonTrend/2.0 (+https://soontrend.com)"}
+        if headers:
+            h.update(headers)
+        r = req.get(url, headers=h, timeout=timeout)
+        if r.status_code == 200:
+            return r.json()
     except Exception:
         pass
-    return []
+    return None
 
 
-def get_trending_topics(max_total: int = 20) -> list:
+def _reddit_topics() -> list:
+    topics = []
+    subs = SUBREDDITS_NEWS + SUBREDDITS_NICHE
+    random.shuffle(subs)
+    for sub in subs[:6]:
+        data = _get(f"https://www.reddit.com/r/{sub}/hot.json?limit=8")
+        if not data:
+            continue
+        for post in data.get("data", {}).get("children", []):
+            t = post.get("data", {}).get("title", "").strip()
+            t = re.sub(r'\[.*?\]|\(.*?\)', '', t).strip()
+            t = re.sub(r'\s+', ' ', t)
+            if 15 < len(t) < 90 and not t.endswith('?'):
+                topics.append(t)
+        time.sleep(0.4)
+    print(f"  📱 Reddit: {len(topics)} topics")
+    return topics
+
+
+def _wikipedia_topics() -> list:
+    from datetime import date, timedelta
+    yesterday = (date.today() - timedelta(days=1)).strftime("%Y/%m/%d")
+    data = _get(f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/{yesterday}")
+    if not data:
+        return []
+    articles = data.get("items", [{}])[0].get("articles", [])
+    skip = {"Main_Page","Special:","Wikipedia:","Portal:","File:","Help:"}
+    topics = []
+    for art in articles[:60]:
+        title = art.get("article","").replace("_"," ")
+        if not any(s in title for s in skip) and len(title) > 5:
+            topics.append(title)
+    print(f"  📖 Wikipedia: {len(topics)} topics")
+    return topics
+
+
+def _hackernews_topics() -> list:
+    data = _get("https://hacker-news.firebaseio.com/v0/topstories.json")
+    if not data:
+        return []
+    topics = []
+    for sid in data[:15]:
+        story = _get(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
+        if story and story.get("type") == "story":
+            t = story.get("title","").strip()
+            if t and len(t) > 10:
+                topics.append(t)
+        time.sleep(0.08)
+    print(f"  💻 HackerNews: {len(topics)} topics")
+    return topics
+
+
+def _gnews_topics() -> list:
+    if not GNEWS_API_KEY:
+        return []
+    topics = []
+    for cat in ["general","technology","business","health"]:
+        data = _get(f"https://gnews.io/api/v4/top-headlines?category={cat}&lang=en&country=us&max=5&apikey={GNEWS_API_KEY}")
+        if data:
+            for art in data.get("articles",[]):
+                t = art.get("title","").split(" - ")[0].strip()
+                if t and len(t) > 15:
+                    topics.append(t)
+        time.sleep(0.4)
+    print(f"  📰 GNews: {len(topics)} topics")
+    return topics
+
+
+def _newsapi_topics() -> list:
+    if not NEWS_API_KEY:
+        return []
+    data = _get(f"https://newsapi.org/v2/top-headlines?language=en&pageSize=20&apiKey={NEWS_API_KEY}",
+                headers={"X-Api-Key": NEWS_API_KEY})
+    if not data:
+        return []
+    topics = []
+    for art in data.get("articles",[]):
+        t = art.get("title","").split(" - ")[0].strip()
+        if t and len(t) > 15:
+            topics.append(t)
+    print(f"  🗞️  NewsAPI: {len(topics)} topics")
+    return topics
+
+
+def _score(topic: str) -> int:
+    t = topic.lower()
+    score = 0
+    for kw in HIGH_RPM_KEYWORDS:
+        if kw in t:
+            score += 2
+    if len(topic) < 65:
+        score += 1
+    return score
+
+
+def get_trending_topics(max_total: int = 24) -> dict:
     """
-    Returns list of dicts: [{"topic": str, "source_code": str}]
-    source_code is used only internally — NEVER shown on pages.
+    Returns dict with two lists:
+      - 'evergreen': topics for deep SEO articles
+      - 'breaking': topics for NewsArticle (viral, urgent)
+    Both scored by RPM potential.
     """
-    published = _load_published_topics()
-    collected = []
+    published = _load_published()
     seen      = set(published)
 
-    feed_list = list(TREND_FEEDS.items())
-    random.shuffle(feed_list)
+    print("  📡 Fetching from all sources...")
+    raw = []
+    for fn in [_reddit_topics, _wikipedia_topics, _hackernews_topics,
+               _gnews_topics, _newsapi_topics]:
+        try:
+            topics = fn()
+            raw.extend(topics)
+        except Exception as e:
+            print(f"  ⚠️  Source failed: {e}")
 
-    rss_success = 0
+    # Deduplicate
+    unique = []
+    seen_lower = set(seen)
+    for t in raw:
+        key = t.lower().strip()
+        if key not in seen_lower and len(t) > 5:
+            unique.append(t)
+            seen_lower.add(key)
 
-    for code, url in feed_list:
-        if len(collected) >= max_total * 2:
-            break
-        print(f"  🌐 [{code}] Fetching RSS...")
-        topics = _fetch_rss(url)
-        if topics:
-            rss_success += 1
-            for t in topics[:5]:
-                key = t.lower().strip()
-                if key not in seen and len(t) > 3:
-                    collected.append({"topic": t.strip(), "source_code": code})
-                    seen.add(key)
-        else:
-            print(f"  ⚠️  [{code}] RSS returned no results")
-        time.sleep(random.uniform(0.5, 1.2))
+    scored = sorted(unique, key=_score, reverse=True)
 
-    # ── Fallback: use evergreen topics if RSS completely failed ───────────────
-    if not collected:
-        print("  ⚠️  All RSS feeds failed — using evergreen topic fallback")
-        random.shuffle(FALLBACK_TOPICS)
-        for t in FALLBACK_TOPICS:
-            key = t.lower().strip()
-            if key not in seen:
-                collected.append({"topic": t, "source_code": "FALLBACK"})
-                seen.add(key)
-            if len(collected) >= max_total:
-                break
+    # Split: top half = breaking news, bottom = evergreen
+    half = max_total // 2
 
-    random.shuffle(collected)
-    result = collected[:max_total]
-    print(f"✅ {len(result)} new topics found ({rss_success} RSS feeds succeeded)")
-    return result
+    # Fallback if sources failed
+    if len(scored) < half:
+        print("  ⚠️  Insufficient live topics — using fallback lists")
+        random.shuffle(EVERGREEN_HIGH_RPM)
+        random.shuffle(BREAKING_FALLBACK)
+        for t in EVERGREEN_HIGH_RPM:
+            if t.lower() not in seen_lower:
+                scored.append(t); seen_lower.add(t.lower())
+        for t in BREAKING_FALLBACK:
+            if t.lower() not in seen_lower:
+                scored.append(t); seen_lower.add(t.lower())
+
+    # Breaking = higher scored (more current/viral), evergreen = rest
+    breaking  = [{"topic": t, "source_code": "MULTI"} for t in scored[:half]]
+    evergreen = [{"topic": t, "source_code": "MULTI"} for t in scored[half:half*2]]
+
+    print(f"✅ {len(breaking)} breaking + {len(evergreen)} evergreen topics ready")
+    return {"breaking": breaking, "evergreen": evergreen}
