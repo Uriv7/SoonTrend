@@ -1,7 +1,4 @@
-"""
-backend/generator/builder.py
-Builds all static HTML pages. NO country data shown on any page.
-"""
+"""SoonTrend V2 — Builder. Handles Article + NewsArticle content types."""
 import json, os, sys
 from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
@@ -9,7 +6,7 @@ from jinja2 import Environment, FileSystemLoader
 from config.settings import (
     SITE_URL, SITE_NAME, ARTICLES_DIR, PUBLISHED_FILE,
     GOOGLE_ADS_CLIENT, GOOGLE_ADS_SLOT_TOP, GOOGLE_ADS_SLOT_MID,
-    GOOGLE_ADS_SLOT_BOTTOM, GOOGLE_ANALYTICS_ID
+    GOOGLE_ADS_SLOT_BOTTOM, GOOGLE_ADS_SLOT_STICKY, GOOGLE_ANALYTICS_ID
 )
 
 TMPL_DIR = os.path.join(os.path.dirname(__file__), '..', '..', 'frontend', 'templates')
@@ -32,6 +29,7 @@ def _shared():
         "ads_slot_top":    GOOGLE_ADS_SLOT_TOP,
         "ads_slot_mid":    GOOGLE_ADS_SLOT_MID,
         "ads_slot_bottom": GOOGLE_ADS_SLOT_BOTTOM,
+        "ads_slot_sticky": GOOGLE_ADS_SLOT_STICKY,
         "ga_id":           GOOGLE_ANALYTICS_ID,
         "today":           str(date.today()),
     }
@@ -43,12 +41,11 @@ def _related(slug, tags, cat, all_arts, n=6):
     for a in all_arts:
         if a["slug"] == slug:
             continue
-        score = sum(2 for t in a.get("tags", []) if t.lower() in tag_set)
+        score = sum(2 for t in a.get("tags",[]) if t.lower() in tag_set)
         if a.get("category") == cat:
             score += 1
         if score > 0:
             scored.append((score, a))
-    scored.sort(key=lambda x: (-x[0], x[1].get("date", "")), reverse=False)
     scored.sort(key=lambda x: x[0], reverse=True)
     return [a for _, a in scored[:n]]
 
@@ -56,7 +53,7 @@ def _related(slug, tags, cat, all_arts, n=6):
 def _sidebar(slug, all_arts, n=8):
     return sorted(
         [a for a in all_arts if a["slug"] != slug],
-        key=lambda x: x.get("date", ""), reverse=True
+        key=lambda x: x.get("date",""), reverse=True
     )[:n]
 
 
@@ -67,19 +64,18 @@ def build_article_page(article: dict) -> str:
         "data":               article,
         "published_date":     str(date.today()),
         "published_datetime": f"{date.today()}T00:00:00Z",
-        "related_articles":   _related(
-                                  article["slug"],
-                                  article.get("tags", []),
-                                  article.get("category", ""),
-                                  all_arts),
+        "related_articles":   _related(article["slug"], article.get("tags",[]),
+                                        article.get("category",""), all_arts),
         "sidebar_latest":     _sidebar(article["slug"], all_arts),
     })
     html = env.get_template("article.html").render(**ctx)
     out  = os.path.join(ARTICLES_DIR, article["slug"])
     os.makedirs(out, exist_ok=True)
+    ctype = article.get("content_type","article")
     with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"  📄 /articles/{article['slug']}/")
+    icon = "⚡" if ctype == "news" else "📄"
+    print(f"  {icon} /articles/{article['slug']}/ [{ctype}]")
     return article["slug"]
 
 
@@ -88,9 +84,10 @@ def build_homepage():
     ctx = _shared()
     ctx.update({"articles": all_arts[:40], "total_count": len(all_arts)})
     os.makedirs("docs", exist_ok=True)
-    with open("docs/index.html", "w", encoding="utf-8") as f:
+    with open("docs/index.html","w",encoding="utf-8") as f:
         f.write(env.get_template("index.html").render(**ctx))
-    print(f"  🏠 Homepage ({len(all_arts)} total articles)")
+    news_count = sum(1 for a in all_arts if a.get("content_type") == "news")
+    print(f"  🏠 Homepage ({len(all_arts)} articles, {news_count} news)")
 
 
 def build_topics_page():
@@ -102,15 +99,15 @@ def build_topics_page():
     ctx.update({"by_category": by_cat, "total": len(all_arts),
                 "cat_count": len(by_cat), "year": str(date.today())[:4]})
     os.makedirs("docs/topics", exist_ok=True)
-    with open("docs/topics/index.html", "w", encoding="utf-8") as f:
+    with open("docs/topics/index.html","w",encoding="utf-8") as f:
         f.write(env.get_template("topics.html").render(**ctx))
-    print(f"  📚 Topics page ({len(by_cat)} categories)")
+    print(f"  📚 Topics ({len(by_cat)} categories)")
 
 
 def build_static_pages():
     ctx = _shared()
-    for name in ("privacy", "terms"):
+    for name in ("privacy","terms","about","contact"):
         os.makedirs(f"docs/{name}", exist_ok=True)
-        with open(f"docs/{name}/index.html", "w", encoding="utf-8") as f:
+        with open(f"docs/{name}/index.html","w",encoding="utf-8") as f:
             f.write(env.get_template(f"{name}.html").render(**ctx))
-    print("  📋 Privacy + Terms pages built")
+    print("  📋 Static: privacy, terms, about, contact")
