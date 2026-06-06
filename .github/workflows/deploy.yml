@@ -11,12 +11,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Deploy docs/ to Cloudflare Pages
       - uses: actions/checkout@v4
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
