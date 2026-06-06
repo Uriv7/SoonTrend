@@ -20,6 +20,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/anthony-head-unlocking-talent-and-potential/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/artificial-intelligence-key-concepts-applications/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,6 +36,20 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/breakthrough-pancreatic-cancer-drug-survival-gains/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough pancreatic cancer drug shows survival gains that surprise experts - a new era in treatment</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/caitlin-clark-angel-reese-final-box-score-stats-highlights-fever-beat-dream/</loc>
@@ -102,6 +122,12 @@
   <url>
     <loc>https://soontrend.com/articles/inflation-and-economy-causes-effects-management/</loc>
     <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/james-handys-productivity-secrets/</loc>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -194,6 +220,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/police-halt-ai-use-court-statements/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>AI in Court Statements Halted: Urgent Order Issued</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/remote-work-strategies-productivity/</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -216,7 +256,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
-      <news:title>S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic: A Blow to AI Innovation</news:title>
+      <news:title>S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic: What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
@@ -245,6 +285,20 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>S&P 500 Rejects SpaceX in Shocking Move, Blocks OpenAI and Anthropic Entry</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/space-stocks-beyond-spacex/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
+      <news:title>Space Stocks Surge Beyond SpaceX</news:title>
     </news:news>
   </url>
   <url>
@@ -334,6 +388,12 @@
   <url>
     <loc>https://soontrend.com/articles/virtual-reality/</loc>
     <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/what-to-expect-from-apple-s-ai-siri-and-ios-27-launch-at-wwdc-2026/</loc>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
