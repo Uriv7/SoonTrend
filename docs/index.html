@@ -4,54 +4,44 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SoonTrend — Trending Topics, Instantly Explained</title>
-  <meta name="description" content="Discover what the world is searching right now. SoonTrend turns every trending topic into a deep, readable article — updated every day.">
-  <meta name="keywords" content="trending topics, trending news, what is trending today, trending searches, viral topics">
+  <meta name="description" content="Discover what the world is searching right now. SoonTrend turns every trending topic into a deep, readable article — updated 3 times every day.">
+  <meta name="keywords" content="trending topics today, what is trending, trending news, viral topics, trending searches">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <link rel="canonical" href="https://soontrend.com/">
-  <link rel="sitemap" type="application/xml" href="https://soontrend.com/sitemap.xml">
 
   <meta property="og:type"        content="website">
   <meta property="og:title"       content="SoonTrend — Trending Topics, Instantly Explained">
-  <meta property="og:description" content="Discover what the world is searching right now. Updated every day.">
+  <meta property="og:description" content="Discover what the world is searching right now. Updated 3x daily.">
   <meta property="og:url"         content="https://soontrend.com/">
-  <meta property="og:site_name"   content="SoonTrend">
   <meta property="og:image"       content="https://soontrend.com/assets/og-default.png">
   <meta name="twitter:card"       content="summary_large_image">
   <meta name="twitter:site"       content="@SoonTrend">
-  <meta name="twitter:title"      content="SoonTrend — Trending Topics, Instantly Explained">
-  <meta name="twitter:description"content="Discover what the world is searching right now.">
 
-  <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","name":"SoonTrend","url":"https://soontrend.com/",
-   "description":"Trending Topics, Instantly Explained",
-   "potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://soontrend.com/topics/?q={search_term_string}"},"query-input":"required name=search_term_string"}}
-  </script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"SoonTrend","url":"https://soontrend.com/","description":"Trending Topics, Instantly Explained","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://soontrend.com/topics/?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Inter:wght@300;400;500;600;700&family=Sora:wght@700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Inter:wght@300;400;500;600;700&family=Sora:wght@700;800;900&display=swap" rel="stylesheet">
 
   <style>
-    :root{
-      --ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;
-      --bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;
-      --accent:#d63a0a;--accent2:#1a4fd6;--green:#047857;
-      --border:#e8e6e0;--radius:10px;--shadow:0 1px 4px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06);
-    }
+    :root{--ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;--bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;--accent:#d63a0a;--accent2:#1a4fd6;--green:#047857;--border:#e8e6e0;--radius:10px;--shadow:0 1px 3px rgba(0,0,0,.05),0 4px 16px rgba(0,0,0,.07)}
+    [data-theme="dark"]{--ink:#f0f0f0;--ink2:#d0d0d0;--ink3:#aaa;--ink4:#777;--bg:#111;--bg2:#1a1a1a;--bg3:#222;--border:#333}
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{font-size:16px;scroll-behavior:smooth}
-    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased;transition:background .3s,color .3s}
 
     /* Header */
-    .hdr{background:var(--ink);color:#fff;padding:1rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
+    .hdr{background:var(--ink);padding:1rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
     .logo{font-family:'Sora',sans-serif;font-size:1.5rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em}
     .logo em{color:var(--accent);font-style:normal}
-    .hdr-nav a{color:rgba(255,255,255,.65);text-decoration:none;font-size:.75rem;font-weight:600;margin-left:1.5rem;text-transform:uppercase;letter-spacing:.08em;transition:color .18s}
+    .hdr-right{display:flex;align-items:center;gap:.75rem}
+    .hdr-nav a{color:rgba(255,255,255,.65);text-decoration:none;font-size:.75rem;font-weight:600;margin-left:1.2rem;text-transform:uppercase;letter-spacing:.08em;transition:color .18s}
     .hdr-nav a:hover{color:#fff}
+    .dark-btn{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:99px;padding:.3rem .65rem;cursor:pointer;font-size:.85rem;color:rgba(255,255,255,.7);transition:all .18s}
+    .dark-btn:hover{background:rgba(255,255,255,.2)}
 
     /* Hero */
     .hero{background:linear-gradient(135deg,#0d0d0d 0%,#1a1a2e 55%,#16213e 100%);color:#fff;padding:5.5rem 2rem 4.5rem;text-align:center;position:relative;overflow:hidden}
@@ -61,15 +51,18 @@
     @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
     .hero h1{font-family:'Sora',sans-serif;font-size:clamp(2rem,5.5vw,3.4rem);font-weight:900;line-height:1.1;letter-spacing:-.03em;margin-bottom:1rem;max-width:720px;margin-left:auto;margin-right:auto}
     .hero h1 em{color:var(--accent);font-style:normal}
-    .hero-sub{font-size:1.02rem;color:rgba(255,255,255,.6);max-width:480px;margin:0 auto 2.2rem;line-height:1.75}
-    .hero-stat{font-size:.85rem;color:rgba(255,255,255,.35);margin-top:1.2rem;font-style:italic}
+    .hero-sub{font-size:1rem;color:rgba(255,255,255,.6);max-width:460px;margin:0 auto 2.2rem;line-height:1.75}
+    .hero-stats{display:flex;justify-content:center;gap:2.5rem;margin-top:2rem;flex-wrap:wrap}
+    .hero-stat{text-align:center}
+    .hero-stat strong{display:block;font-family:'Sora',sans-serif;font-size:1.5rem;font-weight:900;color:#fff}
+    .hero-stat span{font-size:.72rem;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.08em}
 
     /* Search */
     .search-wrap{max-width:520px;margin:0 auto;position:relative}
     .search-wrap input{width:100%;padding:1rem 3.8rem 1rem 1.4rem;border:2px solid rgba(255,255,255,.12);border-radius:99px;background:rgba(255,255,255,.07);color:#fff;font-size:.95rem;font-family:'Inter',sans-serif;outline:none;transition:border .2s}
     .search-wrap input::placeholder{color:rgba(255,255,255,.38)}
     .search-wrap input:focus{border-color:rgba(214,58,10,.55)}
-    .search-wrap button{position:absolute;right:.5rem;top:50%;transform:translateY(-50%);background:var(--accent);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;transition:background .18s}
+    .search-wrap button{position:absolute;right:.5rem;top:50%;transform:translateY(-50%);background:var(--accent);border:none;color:#fff;width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:1rem;display:flex;align-items:center;justify-content:center;transition:background .18s}
     .search-wrap button:hover{background:#b02f07}
 
     /* Category bar */
@@ -88,12 +81,12 @@
 
     /* Featured */
     .featured{display:grid;grid-template-columns:1fr 1.1fr;border:1px solid var(--border);border-radius:14px;overflow:hidden;margin-bottom:2.5rem;box-shadow:var(--shadow)}
-    .feat-vis{background:linear-gradient(135deg,#111 0%,#1a1a2e 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem;gap:1rem;min-height:280px}
+    .feat-vis{background:linear-gradient(135deg,#111 0%,#1a1a2e 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem;gap:.75rem;min-height:260px}
     .feat-emoji{font-size:4rem;line-height:1}
-    .feat-vis-label{font-family:'Sora',sans-serif;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.15em;color:rgba(255,255,255,.35)}
+    .feat-vis-lbl{font-family:'Sora',sans-serif;font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.15em;color:rgba(255,255,255,.3)}
     .feat-body{padding:2.2rem;background:var(--bg2);display:flex;flex-direction:column;justify-content:center}
     .feat-badge{display:inline-flex;align-items:center;gap:.35rem;background:var(--accent);color:#fff;font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;padding:.25rem .65rem;border-radius:99px;margin-bottom:.85rem;width:fit-content}
-    .feat-title{font-family:'Merriweather',serif;font-size:1.55rem;font-weight:700;line-height:1.25;color:var(--ink);margin-bottom:.7rem;letter-spacing:-.01em}
+    .feat-title{font-family:'Lora',serif;font-size:1.55rem;font-weight:700;line-height:1.25;color:var(--ink);margin-bottom:.7rem}
     .feat-meta{font-size:.73rem;color:var(--ink4);margin-bottom:1.2rem}
     .feat-link{display:inline-flex;align-items:center;gap:.5rem;background:var(--ink);color:#fff;text-decoration:none;padding:.65rem 1.3rem;border-radius:99px;font-size:.82rem;font-weight:600;transition:background .18s;width:fit-content}
     .feat-link:hover{background:var(--accent)}
@@ -101,23 +94,32 @@
 
     /* Section header */
     .sec-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem}
-    .sec-hdr h2{font-family:'Merriweather',serif;font-size:1.2rem;font-weight:700}
+    .sec-hdr h2{font-family:'Lora',serif;font-size:1.2rem;font-weight:700}
     .sec-hdr a{font-size:.78rem;color:var(--accent2);text-decoration:none;font-weight:600}
-    .sec-hdr a:hover{text-decoration:underline}
 
     /* Grid */
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:1rem;margin-bottom:2.5rem}
     .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.25rem;text-decoration:none;display:flex;flex-direction:column;gap:.4rem;transition:all .2s;box-shadow:var(--shadow)}
     .card:hover{border-color:var(--accent2);transform:translateY(-3px);box-shadow:0 8px 28px rgba(0,0,0,.1)}
     .card-cat{font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--accent)}
-    .card-title{font-family:'Merriweather',serif;font-size:.97rem;font-weight:700;line-height:1.4;color:var(--ink)}
+    .card-title{font-family:'Lora',serif;font-size:.97rem;font-weight:700;line-height:1.4;color:var(--ink)}
     .card-meta{font-size:.7rem;color:var(--ink4);display:flex;gap:.5rem}
     .card-cta{font-size:.75rem;font-weight:600;color:var(--accent2);margin-top:.2rem}
 
+    /* Newsletter bar */
+    .nl-bar{background:linear-gradient(135deg,#1a1a2e,#16213e);border-radius:14px;padding:2.5rem;margin:2.5rem 0;display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center}
+    @media(max-width:640px){.nl-bar{grid-template-columns:1fr;text-align:center}}
+    .nl-copy h3{font-family:'Lora',serif;font-size:1.35rem;font-weight:700;color:#fff;margin-bottom:.5rem}
+    .nl-copy p{font-size:.85rem;color:rgba(255,255,255,.6);line-height:1.65}
+    .nl-form{display:flex;gap:.5rem}
+    .nl-input{flex:1;padding:.7rem 1.1rem;border:1px solid rgba(255,255,255,.2);border-radius:99px;background:rgba(255,255,255,.08);color:#fff;font-size:.88rem;outline:none}
+    .nl-input::placeholder{color:rgba(255,255,255,.4)}
+    .nl-btn{background:var(--accent);color:#fff;border:none;padding:.7rem 1.4rem;border-radius:99px;font-size:.85rem;font-weight:600;cursor:pointer;white-space:nowrap;transition:background .18s}
+    .nl-btn:hover{background:#b02f07}
+
     /* No results */
     .no-res{text-align:center;padding:4rem 1rem;display:none}
-    .no-res h3{font-family:'Merriweather',serif;font-size:1.3rem;margin-bottom:.5rem}
-    .no-res p{color:var(--ink3);font-size:.9rem}
+    .no-res h3{font-family:'Lora',serif;font-size:1.3rem;margin-bottom:.5rem}
 
     /* Footer */
     .footer{background:var(--ink);color:rgba(255,255,255,.5);padding:3rem 2rem 2rem}
@@ -141,28 +143,36 @@
 
 <header class="hdr">
   <a href="/" class="logo">Soon<em>Trend</em></a>
-  <nav class="hdr-nav" aria-label="Main navigation">
-    <a href="/topics/">All Topics</a>
-    <!-- <a href="/sitemap.xml">Sitemap</a> -->
-  </nav>
+  <div class="hdr-right">
+    <nav class="hdr-nav">
+      <a href="/topics/">All Topics</a>
+      <a href="/about/">About</a>
+    </nav>
+    <button class="dark-btn" onclick="toggleDark()" id="darkBtn">🌙</button>
+  </div>
 </header>
 
-<section class="hero" aria-label="Hero">
-  <div class="live-pill"><span class="live-dot"></span>Updated Daily</div>
+<section class="hero">
+  <div class="live-pill"><span class="live-dot"></span>Updated 3× Daily</div>
   <h1>The World's Trending Topics,<br><em>Instantly Explained</em></h1>
   <p class="hero-sub">Every day SoonTrend turns the most-searched topics into deep, readable articles. No noise — just clarity.</p>
-  <div class="search-wrap">
-    <input type="search" id="searchInput" placeholder="Search articles…" oninput="doFilter()" aria-label="Search articles">
+  <div class="search-wrap" style="margin-bottom:2rem">
+    <input type="search" id="searchInput" placeholder="Search articles…" oninput="doFilter()" aria-label="Search">
     <button onclick="doFilter()" aria-label="Search">🔍</button>
   </div>
-  <p class="hero-stat">18 articles published and growing every day</p>
+  <div class="hero-stats">
+    <div class="hero-stat"><strong>25</strong><span>Articles</span></div>
+    <div class="hero-stat"><strong>3×</strong><span>Daily Updates</span></div>
+    <div class="hero-stat"><strong>100%</strong><span>Free to Read</span></div>
+  </div>
 </section>
 
-<div class="cat-bar" role="navigation" aria-label="Category filter">
+<div class="cat-bar" role="navigation" aria-label="Categories">
   <button class="cpill active" onclick="setCat('all',this)">All</button>
   <button class="cpill" onclick="setCat('Technology',this)">Technology</button>
   <button class="cpill" onclick="setCat('Science',this)">Science</button>
   <button class="cpill" onclick="setCat('Health',this)">Health</button>
+  <button class="cpill" onclick="setCat('Finance',this)">Finance</button>
   <button class="cpill" onclick="setCat('Business',this)">Business</button>
   <button class="cpill" onclick="setCat('Sports',this)">Sports</button>
   <button class="cpill" onclick="setCat('Entertainment',this)">Entertainment</button>
@@ -171,6 +181,7 @@
   <button class="cpill" onclick="setCat('Environment',this)">Environment</button>
   <button class="cpill" onclick="setCat('Education',this)">Education</button>
   <button class="cpill" onclick="setCat('Lifestyle',this)">Lifestyle</button>
+  <button class="cpill" onclick="setCat('Law',this)">Law</button>
 </div>
 
 <div class="ad-wrap">
@@ -183,12 +194,9 @@
 
   
   <div class="featured" id="feat" data-cat="Environment">
-    <div class="feat-vis" aria-hidden="true">
-      <div class="feat-emoji">🔥</div>
-      <div class="feat-vis-label">Editor's Pick</div>
-    </div>
+    <div class="feat-vis"><div class="feat-emoji">🔥</div><div class="feat-vis-lbl">Top Today</div></div>
     <div class="feat-body">
-      <div class="feat-badge">🔥 Top Today</div>
+      <div class="feat-badge">🔥 Editor's Pick</div>
       <h2 class="feat-title">Understanding Climate Change and Its Global Impact</h2>
       <p class="feat-meta">Environment · 10 min read · 2026-06-06</p>
       <a href="/articles/climate-change-causes-effects-mitigation/" class="feat-link">Read Full Article →</a>
@@ -203,198 +211,190 @@
 
   <div class="grid" id="grid">
     
+    <a href="/articles/caitlin-clark-angel-reese-final-box-score-stats-highlights/" class="card" data-cat="Sports" data-title="caitlin clark, angel reese&#39;s final box score stats, highlights as fever beat dream with historic upset">
+      <div class="card-cat">Sports</div>
+      <div class="card-title">Caitlin Clark, Angel Reese&#39;s Final Box Score Stats, Highlights as Fever Beat Dream with Historic Upset</div>
+      <div class="card-meta"><span>7 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/judge-dismisses-murder-charge-sheriff-nominee/" class="card" data-cat="Law" data-title="judge dismisses murder charge against sheriff nominee who killed daughter&#39;s alleged abuser: self-defense in the spotlight">
+      <div class="card-cat">Law</div>
+      <div class="card-title">Judge Dismisses Murder Charge Against Sheriff Nominee Who Killed Daughter&#39;s Alleged Abuser: Self-Defense in the Spotlight</div>
+      <div class="card-meta"><span>7 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/anthony-head-insight/" class="card" data-cat="Entertainment" data-title="anthony head: understanding the complexities of this enigmatic figure">
+      <div class="card-cat">Entertainment</div>
+      <div class="card-title">Anthony Head: Understanding the Complexities of This Enigmatic Figure</div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/stocks-plummet-5-percent/" class="card" data-cat="Finance" data-title="stocks plummet 5% as tech giants follow ai-linked decline">
+      <div class="card-cat">Finance</div>
+      <div class="card-title">Stocks Plummet 5% as Tech Giants Follow AI-Linked Decline</div>
+      <div class="card-meta"><span>5 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/elon-musk-spacex-ipo-retail-investors/" class="card" data-cat="Business" data-title="elon musk&#39;s spacex lines up retail investors for record ipo allocation: experts weigh in">
+      <div class="card-cat">Business</div>
+      <div class="card-title">Elon Musk&#39;s SpaceX Lines Up Retail Investors for Record IPO Allocation: Experts Weigh In</div>
+      <div class="card-meta"><span>5 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/sp-500-rejects-spacex-blocks-openai-anthropic-entry/" class="card" data-cat="Technology" data-title="s&amp;p 500 rejects spacex in shocking move, blocks openai and anthropic entry">
+      <div class="card-cat">Technology</div>
+      <div class="card-title">S&amp;P 500 Rejects SpaceX in Shocking Move, Blocks OpenAI and Anthropic Entry</div>
+      <div class="card-meta"><span>5 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
+    <a href="/articles/main-page-security-risks-exposed/" class="card" data-cat="Technology" data-title="main page under fire: experts sound alarm as security risks mount">
+      <div class="card-cat">Technology</div>
+      <div class="card-title">Main Page Under Fire: Experts Sound Alarm as Security Risks Mount</div>
+      <div class="card-meta"><span>5 min</span><span>·</span><span>2026-06-06</span></div>
+      <div class="card-cta">Read article →</div>
+    </a>
+    
     <a href="/articles/artificial-intelligence-key-concepts-applications/" class="card" data-cat="Technology" data-title="unlocking the potential of artificial intelligence">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking the Potential of Artificial Intelligence</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-05</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-05</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/virtual-reality/" class="card" data-cat="Technology" data-title="unlocking the power of virtual reality">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking the Power of Virtual Reality</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-05</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-05</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/carbon-capture-technology-solutions/" class="card" data-cat="Environment" data-title="unlocking the future of carbon capture technology">
       <div class="card-cat">Environment</div>
       <div class="card-title">Unlocking the Future of Carbon Capture Technology</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-05</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-05</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/understanding-cryptocurrency/" class="card" data-cat="Technology" data-title="understanding cryptocurrency: a comprehensive guide">
       <div class="card-cat">Technology</div>
       <div class="card-title">Understanding Cryptocurrency: A Comprehensive Guide</div>
-      <div class="card-meta">
-        <span>12 min</span>
-        <span>·</span>
-        <span>2026-06-05</span>
-      </div>
+      <div class="card-meta"><span>12 min</span><span>·</span><span>2026-06-05</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/sustainable-living-practices/" class="card" data-cat="Environment" data-title="embracing sustainable living: a path to a greener future">
       <div class="card-cat">Environment</div>
       <div class="card-title">Embracing Sustainable Living: A Path to a Greener Future</div>
-      <div class="card-meta">
-        <span>8 min</span>
-        <span>·</span>
-        <span>2026-06-05</span>
-      </div>
+      <div class="card-meta"><span>8 min</span><span>·</span><span>2026-06-05</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/cybersecurity-basics-for-a-safer-digital-world/" class="card" data-cat="Technology" data-title="cybersecurity essentials for a safer digital world">
       <div class="card-cat">Technology</div>
       <div class="card-title">Cybersecurity Essentials for a Safer Digital World</div>
-      <div class="card-meta">
-        <span>12 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>12 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/remote-work-strategies-productivity/" class="card" data-cat="Business" data-title="unlocking productivity with remote work strategies">
       <div class="card-cat">Business</div>
       <div class="card-title">Unlocking Productivity with Remote Work Strategies</div>
-      <div class="card-meta">
-        <span>8 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>8 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/5g-technology-revolutionizing-the-digital-age/" class="card" data-cat="Technology" data-title="unlocking the power of 5g technology for a faster digital age">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking the Power of 5G Technology for a Faster Digital Age</div>
-      <div class="card-meta">
-        <span>8 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>8 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/understanding-antibiotic-resistance-causes-and-consequences/" class="card" data-cat="Health" data-title="understanding antibiotic resistance: causes and consequences">
       <div class="card-cat">Health</div>
       <div class="card-title">Understanding Antibiotic Resistance: Causes and Consequences</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/brain-computer-interface-technology/" class="card" data-cat="Technology" data-title="unlocking human potential with brain-computer interface technology">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking Human Potential with Brain-Computer Interface Technology</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/renewable-energy-sustainable-future/" class="card" data-cat="Environment" data-title="renewable energy: sustainable future for a greener tomorrow">
       <div class="card-cat">Environment</div>
       <div class="card-title">Renewable Energy: Sustainable Future for a Greener Tomorrow</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/the-evolution-of-artificial-intelligence/" class="card" data-cat="Technology" data-title="unlocking the power of artificial intelligence">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking the Power of Artificial Intelligence</div>
-      <div class="card-meta">
-        <span>8 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>8 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/inflation-and-economy-causes-effects-management/" class="card" data-cat="Business" data-title="understanding inflation and economy: causes, effects, and management">
       <div class="card-cat">Business</div>
       <div class="card-title">Understanding Inflation and Economy: Causes, Effects, and Management</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-04</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-04</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/cancer-research-innovation-and-collaboration/" class="card" data-cat="Science" data-title="unlocking the future of cancer research through innovation and collaboration">
       <div class="card-cat">Science</div>
       <div class="card-title">Unlocking the Future of Cancer Research through Innovation and Collaboration</div>
-      <div class="card-meta">
-        <span>9 min</span>
-        <span>·</span>
-        <span>2026-06-03</span>
-      </div>
+      <div class="card-meta"><span>9 min</span><span>·</span><span>2026-06-03</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/carbon-capture-technologies-reducing-global-emissions/" class="card" data-cat="Environment" data-title="carbon capture technologies revolutionizing global emissions reduction">
       <div class="card-cat">Environment</div>
       <div class="card-title">Carbon Capture Technologies Revolutionizing Global Emissions Reduction</div>
-      <div class="card-meta">
-        <span>8 min</span>
-        <span>·</span>
-        <span>2026-06-03</span>
-      </div>
+      <div class="card-meta"><span>8 min</span><span>·</span><span>2026-06-03</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/virtual-reality-technology/" class="card" data-cat="Technology" data-title="unlocking the potential of virtual reality">
       <div class="card-cat">Technology</div>
       <div class="card-title">Unlocking the Potential of Virtual Reality</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-03</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-03</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
     <a href="/articles/nuclear-fusion-energy/" class="card" data-cat="Science" data-title="unlocking the power of nuclear fusion: the future of clean energy">
       <div class="card-cat">Science</div>
       <div class="card-title">Unlocking the Power of Nuclear Fusion: The Future of Clean Energy</div>
-      <div class="card-meta">
-        <span>10 min</span>
-        <span>·</span>
-        <span>2026-06-03</span>
-      </div>
+      <div class="card-meta"><span>10 min</span><span>·</span><span>2026-06-03</span></div>
       <div class="card-cta">Read article →</div>
     </a>
     
   </div>
 
-  <div class="no-res" id="noRes">
-    <h3>No articles found</h3>
-    <p>Try a different search or category.</p>
+  <div class="no-res" id="noRes"><h3>No articles found</h3><p>Try a different search or category.</p></div>
+
+  <!-- Newsletter bar -->
+  <div class="nl-bar">
+    <div class="nl-copy">
+      <h3>Get Daily Trending Topics</h3>
+      <p>One email every morning with the day's most important trending topics, explained clearly. Join thousands of readers.</p>
+    </div>
+    <div>
+      <form class="nl-form" action="https://formspree.io/f/YOURFORMID" method="POST" onsubmit="nlSubmit(event)">
+        <input class="nl-input" type="email" name="email" placeholder="Your email address" required>
+        <button class="nl-btn" type="submit">Subscribe Free</button>
+      </form>
+    </div>
   </div>
 
   <div class="ad-wrap" style="padding:0">
@@ -405,26 +405,27 @@
 
 </div>
 
-<footer class="footer" aria-label="Footer">
+<footer class="footer">
   <div class="footer-inner">
     <div class="footer-top">
       <div class="footer-brand">
         <a href="/" class="f-logo">Soon<em>Trend</em></a>
-        <p>Trending topics from around the world, instantly explained with depth and clarity.</p>
+        <p>Trending topics from around the world, instantly explained. Updated 3 times every day.</p>
       </div>
       <div class="footer-col">
         <h4>Explore</h4>
         <a href="/">Home</a>
         <a href="/topics/">All Topics</a>
-        <a href="/sitemap.xml">Sitemap</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
       </div>
       <div class="footer-col">
         <h4>Categories</h4>
         <a href="/topics/#technology">Technology</a>
-        <a href="/topics/#science">Science</a>
         <a href="/topics/#health">Health</a>
+        <a href="/topics/#finance">Finance</a>
         <a href="/topics/#business">Business</a>
-        <a href="/topics/#culture">Culture</a>
+        <a href="/topics/#science">Science</a>
       </div>
       <div class="footer-col">
         <h4>Legal</h4>
@@ -434,38 +435,53 @@
     </div>
     <div class="footer-bottom">
       <span>© 2026 SoonTrend — Trending Topics, Instantly Explained</span>
-      <div><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/sitemap.xml">Sitemap</a></div>
+      <div><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div>
     </div>
   </div>
 </footer>
 
 <script>
-  let activeCat = 'all';
+  let activeCat='all';
 
-  function setCat(cat, btn) {
-    activeCat = cat;
-    document.querySelectorAll('.cpill').forEach(p => p.classList.remove('active'));
+  function toggleDark(){
+    const d=document.documentElement.getAttribute('data-theme')==='dark';
+    document.documentElement.setAttribute('data-theme',d?'':'dark');
+    document.getElementById('darkBtn').textContent=d?'🌙':'☀️';
+    localStorage.setItem('theme',d?'light':'dark');
+  }
+  (function(){
+    const t=localStorage.getItem('theme')||'light';
+    if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('darkBtn').textContent='☀️';}
+  })();
+
+  function setCat(cat,btn){
+    activeCat=cat;
+    document.querySelectorAll('.cpill').forEach(p=>p.classList.remove('active'));
     btn.classList.add('active');
     doFilter();
   }
 
-  function doFilter() {
-    const q = (document.getElementById('searchInput').value || '').toLowerCase();
-    const cards = [...document.querySelectorAll('#grid .card')];
-    const feat  = document.getElementById('feat');
-    let shown   = 0;
-
-    cards.forEach(c => {
-      const catOk    = activeCat === 'all' || c.dataset.cat === activeCat;
-      const searchOk = !q || c.dataset.title.includes(q);
-      c.style.display = catOk && searchOk ? '' : 'none';
-      if (catOk && searchOk) shown++;
+  function doFilter(){
+    const q=(document.getElementById('searchInput').value||'').toLowerCase();
+    const cards=[...document.querySelectorAll('#grid .card')];
+    const feat=document.getElementById('feat');
+    let shown=0;
+    cards.forEach(c=>{
+      const ok=(activeCat==='all'||c.dataset.cat===activeCat)&&(!q||c.dataset.title.includes(q));
+      c.style.display=ok?'':'none';
+      if(ok)shown++;
     });
+    if(feat)feat.style.display=(activeCat==='all'||feat.dataset.cat===activeCat)?'':'none';
+    document.getElementById('noRes').style.display=shown===0?'block':'none';
+  }
 
-    if (feat) {
-      feat.style.display = (activeCat === 'all' || feat.dataset.cat === activeCat) ? '' : 'none';
-    }
-    document.getElementById('noRes').style.display = shown === 0 ? 'block' : 'none';
+  function nlSubmit(e){
+    e.preventDefault();
+    const btn=e.target.querySelector('.nl-btn');
+    btn.textContent='Subscribed! ✓';
+    btn.style.background='#047857';
+    e.target.querySelector('.nl-input').value='';
+    setTimeout(()=>{btn.textContent='Subscribe Free';btn.style.background='';},3000);
   }
 </script>
 </body>

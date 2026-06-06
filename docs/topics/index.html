@@ -1,49 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>All Topics — SoonTrend</title>
-  <meta name="description" content="Browse all trending topic articles on SoonTrend. Technology, Science, Health, Business, Sports, Entertainment and more — updated daily.">
-  <meta name="robots" content="index, follow">
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>All Topics — Trending Articles | SoonTrend</title>
+  <meta name="description" content="Browse all trending topic articles on SoonTrend. Technology, Science, Health, Finance, Business, Sports, Entertainment and more — updated 3 times every day.">
+  <meta name="robots" content="index, follow, max-snippet:-1">
   <link rel="canonical" href="https://soontrend.com/topics/">
+  <meta property="og:title" content="All Topics — SoonTrend">
+  <meta property="og:description" content="Browse trending articles across every category. Updated 3× daily.">
+  <meta property="og:url" content="https://soontrend.com/topics/">
+  <meta property="og:type" content="website">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"All Topics — SoonTrend","description":"Browse trending articles across every category","url":"https://soontrend.com/topics/","isPartOf":{"@type":"WebSite","name":"SoonTrend","url":"https://soontrend.com/"}}</script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Inter:wght@400;500;600&family=Sora:wght@900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Inter:wght@400;500;600&family=Sora:wght@900&display=swap" rel="stylesheet">
   <style>
-    :root{--ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;--bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;--accent:#d63a0a;--accent2:#1a4fd6;--border:#e8e6e0;--radius:10px;--shadow:0 1px 4px rgba(0,0,0,.06),0 4px 16px rgba(0,0,0,.06)}
+    :root{--ink:#111;--ink2:#333;--ink3:#555;--ink4:#888;--bg:#fff;--bg2:#f8f7f4;--bg3:#f0efe9;--accent:#d63a0a;--accent2:#1a4fd6;--border:#e8e6e0;--radius:10px;--shadow:0 1px 3px rgba(0,0,0,.05),0 4px 16px rgba(0,0,0,.07)}
+    [data-theme="dark"]{--ink:#f0f0f0;--ink2:#d0d0d0;--ink3:#aaa;--ink4:#777;--bg:#111;--bg2:#1a1a1a;--bg3:#222;--border:#333}
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{font-size:16px;scroll-behavior:smooth}
-    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-    .hdr{background:var(--ink);color:#fff;padding:.85rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
+    body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased;transition:background .3s,color .3s}
+    .hdr{background:var(--ink);padding:.85rem 2rem;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:800}
     .logo{font-family:'Sora',sans-serif;font-size:1.4rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em}
     .logo em{color:var(--accent);font-style:normal}
+    .hdr-right{display:flex;align-items:center;gap:.75rem}
     .hdr-nav a{color:rgba(255,255,255,.6);text-decoration:none;font-size:.74rem;font-weight:600;margin-left:1.4rem;text-transform:uppercase;letter-spacing:.08em;transition:color .18s}
     .hdr-nav a:hover{color:#fff}
+    .dark-btn{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:99px;padding:.3rem .65rem;cursor:pointer;font-size:.85rem;color:rgba(255,255,255,.7)}
     .page-hdr{background:var(--bg2);border-bottom:1px solid var(--border);padding:2.5rem 2rem 2rem;text-align:center}
-    .page-hdr h1{font-family:'Merriweather',serif;font-size:1.9rem;font-weight:700;margin-bottom:.45rem}
+    .page-hdr h1{font-family:'Lora',serif;font-size:1.9rem;font-weight:700;margin-bottom:.45rem}
     .page-hdr p{color:var(--ink3);font-size:.9rem}
+
+    /* Search bar on topics page */
+    .topic-search{max-width:480px;margin:1.2rem auto 0;position:relative}
+    .topic-search input{width:100%;padding:.75rem 3.2rem .75rem 1.2rem;border:1.5px solid var(--border);border-radius:99px;font-size:.92rem;font-family:'Inter',sans-serif;color:var(--ink);background:var(--bg);outline:none;transition:border .2s}
+    .topic-search input:focus{border-color:var(--accent)}
+    .topic-search button{position:absolute;right:.45rem;top:50%;transform:translateY(-50%);background:var(--accent);border:none;color:#fff;width:34px;height:34px;border-radius:50%;cursor:pointer;font-size:.9rem;display:flex;align-items:center;justify-content:center}
+
     .content{max-width:1160px;margin:0 auto;padding:2.5rem 1.5rem 6rem}
     .ad-wrap{text-align:center;margin:1.5rem 0}
     .ad-label{display:block;font-size:.58rem;color:var(--ink4);text-transform:uppercase;letter-spacing:.08em;margin-bottom:.3rem}
     .ad-wrap ins{border:1px dashed var(--border);border-radius:8px;background:var(--bg2)}
     .cat-section{margin-bottom:3.2rem;scroll-margin-top:80px}
     .cat-hdr{display:flex;align-items:center;gap:1rem;margin-bottom:1.1rem}
-    .cat-hdr h2{font-family:'Merriweather',serif;font-size:1.2rem;font-weight:700;white-space:nowrap}
+    .cat-hdr h2{font-family:'Lora',serif;font-size:1.2rem;font-weight:700;white-space:nowrap}
     .cat-hdr::after{content:'';flex:1;height:1px;background:var(--border)}
-    .cat-count{font-size:.7rem;color:var(--ink4);font-weight:500;white-space:nowrap}
+    .cat-meta{font-size:.7rem;color:var(--ink4);white-space:nowrap}
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.85rem}
     .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:1.1rem 1.15rem;text-decoration:none;display:flex;flex-direction:column;gap:.35rem;transition:all .2s;box-shadow:var(--shadow)}
     .card:hover{border-color:var(--accent2);transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.09)}
-    .card-title{font-family:'Merriweather',serif;font-size:.92rem;font-weight:700;color:var(--ink);line-height:1.4}
+    .card-top{display:flex;align-items:center;gap:.5rem}
+    .card-cat{font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--accent)}
+    .news-badge{font-size:.6rem;background:var(--accent2);color:#fff;padding:.1rem .4rem;border-radius:99px;font-weight:700}
+    .card-title{font-family:'Lora',serif;font-size:.92rem;font-weight:700;color:var(--ink);line-height:1.4}
     .card-meta{font-size:.7rem;color:var(--ink4)}
     .card-cta{font-size:.74rem;font-weight:600;color:var(--accent2);margin-top:.15rem}
+    .no-res{text-align:center;padding:4rem 1rem;display:none}
+    .no-res h3{font-family:'Lora',serif;font-size:1.3rem;margin-bottom:.5rem}
     .footer{background:var(--ink);color:rgba(255,255,255,.5);text-align:center;padding:2.5rem 1rem}
     .f-logo{font-family:'Sora',sans-serif;font-size:1.35rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em;display:inline-block;margin-bottom:.6rem}
     .f-logo em{color:var(--accent);font-style:normal}
-    .footer p{font-size:.82rem;margin-bottom:1rem;line-height:1.7}
+    .footer p{font-size:.82rem;margin-bottom:1rem}
     .footer-links{display:flex;justify-content:center;flex-wrap:wrap;gap:.5rem 1.2rem;font-size:.75rem;margin-bottom:1.2rem}
     .footer-links a{color:rgba(255,255,255,.45);text-decoration:none}
     .footer-links a:hover{color:#fff}
@@ -54,18 +73,19 @@
 <body>
 <header class="hdr">
   <a href="/" class="logo">Soon<em>Trend</em></a>
-  <nav class="hdr-nav">
-    <a href="/">Home</a>
-    <a href="/topics/">Topics</a>
-    <a href="/sitemap.xml">Sitemap</a>
-  </nav>
+  <div class="hdr-right">
+    <nav class="hdr-nav"><a href="/">Home</a><a href="/about/">About</a></nav>
+    <button class="dark-btn" onclick="toggleDark()" id="darkBtn">🌙</button>
+  </div>
 </header>
-
 <div class="page-hdr">
   <h1>All Topics</h1>
-  <p>18 articles across 5 categories — updated every day</p>
+  <p>25 articles across 9 categories — updated 3× every day</p>
+  <div class="topic-search">
+    <input type="search" id="topicSearch" placeholder="Search all articles…" oninput="filterTopics(this.value)" aria-label="Search articles">
+    <button onclick="filterTopics(document.getElementById('topicSearch').value)">🔍</button>
+  </div>
 </div>
-
 <div class="content">
   <div class="ad-wrap">
     <span class="ad-label">Advertisement</span>
@@ -74,38 +94,58 @@
   </div>
 
   
-  <div class="cat-section" id="environment">
+  <div class="cat-section" id="environment" data-cat="Environment">
     <div class="cat-hdr">
       <h2>Environment</h2>
-      <span class="cat-count">5 articles</span>
+      <span class="cat-meta">5 articles</span>
     </div>
     <div class="grid">
       
-      <a href="/articles/climate-change-causes-effects-mitigation/" class="card">
+      <a href="/articles/climate-change-causes-effects-mitigation/" class="card" data-title="understanding climate change and its global impact" data-cat="Environment">
+        <div class="card-top">
+          <span class="card-cat">Environment</span>
+          
+        </div>
         <div class="card-title">Understanding Climate Change and Its Global Impact</div>
         <div class="card-meta">10 min read · 2026-06-06</div>
         <div class="card-cta">Read article →</div>
       </a>
       
-      <a href="/articles/carbon-capture-technology-solutions/" class="card">
+      <a href="/articles/carbon-capture-technology-solutions/" class="card" data-title="unlocking the future of carbon capture technology" data-cat="Environment">
+        <div class="card-top">
+          <span class="card-cat">Environment</span>
+          
+        </div>
         <div class="card-title">Unlocking the Future of Carbon Capture Technology</div>
         <div class="card-meta">10 min read · 2026-06-05</div>
         <div class="card-cta">Read article →</div>
       </a>
       
-      <a href="/articles/sustainable-living-practices/" class="card">
+      <a href="/articles/sustainable-living-practices/" class="card" data-title="embracing sustainable living: a path to a greener future" data-cat="Environment">
+        <div class="card-top">
+          <span class="card-cat">Environment</span>
+          
+        </div>
         <div class="card-title">Embracing Sustainable Living: A Path to a Greener Future</div>
         <div class="card-meta">8 min read · 2026-06-05</div>
         <div class="card-cta">Read article →</div>
       </a>
       
-      <a href="/articles/renewable-energy-sustainable-future/" class="card">
+      <a href="/articles/renewable-energy-sustainable-future/" class="card" data-title="renewable energy: sustainable future for a greener tomorrow" data-cat="Environment">
+        <div class="card-top">
+          <span class="card-cat">Environment</span>
+          
+        </div>
         <div class="card-title">Renewable Energy: Sustainable Future for a Greener Tomorrow</div>
         <div class="card-meta">10 min read · 2026-06-04</div>
         <div class="card-cta">Read article →</div>
       </a>
       
-      <a href="/articles/carbon-capture-technologies-reducing-global-emissions/" class="card">
+      <a href="/articles/carbon-capture-technologies-reducing-global-emissions/" class="card" data-title="carbon capture technologies revolutionizing global emissions reduction" data-cat="Environment">
+        <div class="card-top">
+          <span class="card-cat">Environment</span>
+          
+        </div>
         <div class="card-title">Carbon Capture Technologies Revolutionizing Global Emissions Reduction</div>
         <div class="card-meta">8 min read · 2026-06-03</div>
         <div class="card-cta">Read article →</div>
@@ -113,91 +153,48 @@
       
     </div>
   </div>
-
   
   
-  <div class="cat-section" id="technology">
+  <div class="cat-section" id="sports" data-cat="Sports">
     <div class="cat-hdr">
-      <h2>Technology</h2>
-      <span class="cat-count">8 articles</span>
+      <h2>Sports</h2>
+      <span class="cat-meta">1 article</span>
     </div>
     <div class="grid">
       
-      <a href="/articles/artificial-intelligence-key-concepts-applications/" class="card">
-        <div class="card-title">Unlocking the Potential of Artificial Intelligence</div>
-        <div class="card-meta">10 min read · 2026-06-05</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/virtual-reality/" class="card">
-        <div class="card-title">Unlocking the Power of Virtual Reality</div>
-        <div class="card-meta">10 min read · 2026-06-05</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/understanding-cryptocurrency/" class="card">
-        <div class="card-title">Understanding Cryptocurrency: A Comprehensive Guide</div>
-        <div class="card-meta">12 min read · 2026-06-05</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/cybersecurity-basics-for-a-safer-digital-world/" class="card">
-        <div class="card-title">Cybersecurity Essentials for a Safer Digital World</div>
-        <div class="card-meta">12 min read · 2026-06-04</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/5g-technology-revolutionizing-the-digital-age/" class="card">
-        <div class="card-title">Unlocking the Power of 5G Technology for a Faster Digital Age</div>
-        <div class="card-meta">8 min read · 2026-06-04</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/brain-computer-interface-technology/" class="card">
-        <div class="card-title">Unlocking Human Potential with Brain-Computer Interface Technology</div>
-        <div class="card-meta">10 min read · 2026-06-04</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/the-evolution-of-artificial-intelligence/" class="card">
-        <div class="card-title">Unlocking the Power of Artificial Intelligence</div>
-        <div class="card-meta">8 min read · 2026-06-04</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/virtual-reality-technology/" class="card">
-        <div class="card-title">Unlocking the Potential of Virtual Reality</div>
-        <div class="card-meta">10 min read · 2026-06-03</div>
+      <a href="/articles/caitlin-clark-angel-reese-final-box-score-stats-highlights/" class="card" data-title="caitlin clark, angel reese&#39;s final box score stats, highlights as fever beat dream with historic upset" data-cat="Sports">
+        <div class="card-top">
+          <span class="card-cat">Sports</span>
+          
+        </div>
+        <div class="card-title">Caitlin Clark, Angel Reese&#39;s Final Box Score Stats, Highlights as Fever Beat Dream with Historic Upset</div>
+        <div class="card-meta">7 min read · 2026-06-06</div>
         <div class="card-cta">Read article →</div>
       </a>
       
     </div>
   </div>
-
   
   
-  <div class="cat-section" id="business">
+  <div class="cat-section" id="law" data-cat="Law">
     <div class="cat-hdr">
-      <h2>Business</h2>
-      <span class="cat-count">2 articles</span>
+      <h2>Law</h2>
+      <span class="cat-meta">1 article</span>
     </div>
     <div class="grid">
       
-      <a href="/articles/remote-work-strategies-productivity/" class="card">
-        <div class="card-title">Unlocking Productivity with Remote Work Strategies</div>
-        <div class="card-meta">8 min read · 2026-06-04</div>
-        <div class="card-cta">Read article →</div>
-      </a>
-      
-      <a href="/articles/inflation-and-economy-causes-effects-management/" class="card">
-        <div class="card-title">Understanding Inflation and Economy: Causes, Effects, and Management</div>
-        <div class="card-meta">10 min read · 2026-06-04</div>
+      <a href="/articles/judge-dismisses-murder-charge-sheriff-nominee/" class="card" data-title="judge dismisses murder charge against sheriff nominee who killed daughter&#39;s alleged abuser: self-defense in the spotlight" data-cat="Law">
+        <div class="card-top">
+          <span class="card-cat">Law</span>
+          
+        </div>
+        <div class="card-title">Judge Dismisses Murder Charge Against Sheriff Nominee Who Killed Daughter&#39;s Alleged Abuser: Self-Defense in the Spotlight</div>
+        <div class="card-meta">7 min read · 2026-06-06</div>
         <div class="card-cta">Read article →</div>
       </a>
       
     </div>
   </div>
-
   
   <div class="ad-wrap">
     <span class="ad-label">Advertisement</span>
@@ -206,14 +203,212 @@
   </div>
   
   
-  <div class="cat-section" id="health">
+  <div class="cat-section" id="entertainment" data-cat="Entertainment">
     <div class="cat-hdr">
-      <h2>Health</h2>
-      <span class="cat-count">1 article</span>
+      <h2>Entertainment</h2>
+      <span class="cat-meta">1 article</span>
     </div>
     <div class="grid">
       
-      <a href="/articles/understanding-antibiotic-resistance-causes-and-consequences/" class="card">
+      <a href="/articles/anthony-head-insight/" class="card" data-title="anthony head: understanding the complexities of this enigmatic figure" data-cat="Entertainment">
+        <div class="card-top">
+          <span class="card-cat">Entertainment</span>
+          
+        </div>
+        <div class="card-title">Anthony Head: Understanding the Complexities of This Enigmatic Figure</div>
+        <div class="card-meta">10 min read · 2026-06-06</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+    </div>
+  </div>
+  
+  
+  <div class="cat-section" id="finance" data-cat="Finance">
+    <div class="cat-hdr">
+      <h2>Finance</h2>
+      <span class="cat-meta">1 article</span>
+    </div>
+    <div class="grid">
+      
+      <a href="/articles/stocks-plummet-5-percent/" class="card" data-title="stocks plummet 5% as tech giants follow ai-linked decline" data-cat="Finance">
+        <div class="card-top">
+          <span class="card-cat">Finance</span>
+          <span class="news-badge">BREAKING</span>
+        </div>
+        <div class="card-title">Stocks Plummet 5% as Tech Giants Follow AI-Linked Decline</div>
+        <div class="card-meta">5 min read · 2026-06-06</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+    </div>
+  </div>
+  
+  
+  <div class="cat-section" id="business" data-cat="Business">
+    <div class="cat-hdr">
+      <h2>Business</h2>
+      <span class="cat-meta">3 articles</span>
+    </div>
+    <div class="grid">
+      
+      <a href="/articles/elon-musk-spacex-ipo-retail-investors/" class="card" data-title="elon musk&#39;s spacex lines up retail investors for record ipo allocation: experts weigh in" data-cat="Business">
+        <div class="card-top">
+          <span class="card-cat">Business</span>
+          <span class="news-badge">BREAKING</span>
+        </div>
+        <div class="card-title">Elon Musk&#39;s SpaceX Lines Up Retail Investors for Record IPO Allocation: Experts Weigh In</div>
+        <div class="card-meta">5 min read · 2026-06-06</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/remote-work-strategies-productivity/" class="card" data-title="unlocking productivity with remote work strategies" data-cat="Business">
+        <div class="card-top">
+          <span class="card-cat">Business</span>
+          
+        </div>
+        <div class="card-title">Unlocking Productivity with Remote Work Strategies</div>
+        <div class="card-meta">8 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/inflation-and-economy-causes-effects-management/" class="card" data-title="understanding inflation and economy: causes, effects, and management" data-cat="Business">
+        <div class="card-top">
+          <span class="card-cat">Business</span>
+          
+        </div>
+        <div class="card-title">Understanding Inflation and Economy: Causes, Effects, and Management</div>
+        <div class="card-meta">10 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+    </div>
+  </div>
+  
+  
+  <div class="cat-section" id="technology" data-cat="Technology">
+    <div class="cat-hdr">
+      <h2>Technology</h2>
+      <span class="cat-meta">10 articles</span>
+    </div>
+    <div class="grid">
+      
+      <a href="/articles/sp-500-rejects-spacex-blocks-openai-anthropic-entry/" class="card" data-title="s&amp;p 500 rejects spacex in shocking move, blocks openai and anthropic entry" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          <span class="news-badge">BREAKING</span>
+        </div>
+        <div class="card-title">S&amp;P 500 Rejects SpaceX in Shocking Move, Blocks OpenAI and Anthropic Entry</div>
+        <div class="card-meta">5 min read · 2026-06-06</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/main-page-security-risks-exposed/" class="card" data-title="main page under fire: experts sound alarm as security risks mount" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          <span class="news-badge">BREAKING</span>
+        </div>
+        <div class="card-title">Main Page Under Fire: Experts Sound Alarm as Security Risks Mount</div>
+        <div class="card-meta">5 min read · 2026-06-06</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/artificial-intelligence-key-concepts-applications/" class="card" data-title="unlocking the potential of artificial intelligence" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking the Potential of Artificial Intelligence</div>
+        <div class="card-meta">10 min read · 2026-06-05</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/virtual-reality/" class="card" data-title="unlocking the power of virtual reality" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking the Power of Virtual Reality</div>
+        <div class="card-meta">10 min read · 2026-06-05</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/understanding-cryptocurrency/" class="card" data-title="understanding cryptocurrency: a comprehensive guide" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Understanding Cryptocurrency: A Comprehensive Guide</div>
+        <div class="card-meta">12 min read · 2026-06-05</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/cybersecurity-basics-for-a-safer-digital-world/" class="card" data-title="cybersecurity essentials for a safer digital world" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Cybersecurity Essentials for a Safer Digital World</div>
+        <div class="card-meta">12 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/5g-technology-revolutionizing-the-digital-age/" class="card" data-title="unlocking the power of 5g technology for a faster digital age" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking the Power of 5G Technology for a Faster Digital Age</div>
+        <div class="card-meta">8 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/brain-computer-interface-technology/" class="card" data-title="unlocking human potential with brain-computer interface technology" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking Human Potential with Brain-Computer Interface Technology</div>
+        <div class="card-meta">10 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/the-evolution-of-artificial-intelligence/" class="card" data-title="unlocking the power of artificial intelligence" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking the Power of Artificial Intelligence</div>
+        <div class="card-meta">8 min read · 2026-06-04</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+      <a href="/articles/virtual-reality-technology/" class="card" data-title="unlocking the potential of virtual reality" data-cat="Technology">
+        <div class="card-top">
+          <span class="card-cat">Technology</span>
+          
+        </div>
+        <div class="card-title">Unlocking the Potential of Virtual Reality</div>
+        <div class="card-meta">10 min read · 2026-06-03</div>
+        <div class="card-cta">Read article →</div>
+      </a>
+      
+    </div>
+  </div>
+  
+  
+  <div class="cat-section" id="health" data-cat="Health">
+    <div class="cat-hdr">
+      <h2>Health</h2>
+      <span class="cat-meta">1 article</span>
+    </div>
+    <div class="grid">
+      
+      <a href="/articles/understanding-antibiotic-resistance-causes-and-consequences/" class="card" data-title="understanding antibiotic resistance: causes and consequences" data-cat="Health">
+        <div class="card-top">
+          <span class="card-cat">Health</span>
+          
+        </div>
         <div class="card-title">Understanding Antibiotic Resistance: Causes and Consequences</div>
         <div class="card-meta">10 min read · 2026-06-04</div>
         <div class="card-cta">Read article →</div>
@@ -221,23 +416,30 @@
       
     </div>
   </div>
-
   
   
-  <div class="cat-section" id="science">
+  <div class="cat-section" id="science" data-cat="Science">
     <div class="cat-hdr">
       <h2>Science</h2>
-      <span class="cat-count">2 articles</span>
+      <span class="cat-meta">2 articles</span>
     </div>
     <div class="grid">
       
-      <a href="/articles/cancer-research-innovation-and-collaboration/" class="card">
+      <a href="/articles/cancer-research-innovation-and-collaboration/" class="card" data-title="unlocking the future of cancer research through innovation and collaboration" data-cat="Science">
+        <div class="card-top">
+          <span class="card-cat">Science</span>
+          
+        </div>
         <div class="card-title">Unlocking the Future of Cancer Research through Innovation and Collaboration</div>
         <div class="card-meta">9 min read · 2026-06-03</div>
         <div class="card-cta">Read article →</div>
       </a>
       
-      <a href="/articles/nuclear-fusion-energy/" class="card">
+      <a href="/articles/nuclear-fusion-energy/" class="card" data-title="unlocking the power of nuclear fusion: the future of clean energy" data-cat="Science">
+        <div class="card-top">
+          <span class="card-cat">Science</span>
+          
+        </div>
         <div class="card-title">Unlocking the Power of Nuclear Fusion: The Future of Clean Energy</div>
         <div class="card-meta">10 min read · 2026-06-03</div>
         <div class="card-cta">Read article →</div>
@@ -245,9 +447,10 @@
       
     </div>
   </div>
+  
+  
 
-  
-  
+  <div class="no-res" id="noRes"><h3>No articles found</h3><p>Try a different search term.</p></div>
 
   <div class="ad-wrap">
     <span class="ad-label">Advertisement</span>
@@ -255,15 +458,24 @@
     <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
   </div>
 </div>
-
 <footer class="footer">
   <a href="/" class="f-logo">Soon<em>Trend</em></a>
   <p>Trending topics from around the world, instantly explained.</p>
-  <div class="footer-links">
-    <a href="/">Home</a><a href="/topics/">Topics</a><a href="/sitemap.xml">Sitemap</a>
-    <a href="/privacy/">Privacy</a><a href="/terms/">Terms</a>
-  </div>
+  <div class="footer-links"><a href="/">Home</a><a href="/topics/">Topics</a><a href="/about/">About</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/contact/">Contact</a></div>
   <p class="footer-copy">© 2026 SoonTrend — Trending Topics, Instantly Explained</p>
 </footer>
+<script>
+function toggleDark(){const d=document.documentElement.getAttribute('data-theme')==='dark';document.documentElement.setAttribute('data-theme',d?'':'dark');document.getElementById('darkBtn').textContent=d?'🌙':'☀️';localStorage.setItem('st-theme',d?'light':'dark');}
+(function(){if(localStorage.getItem('st-theme')==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('darkBtn').textContent='☀️';}})();
+function filterTopics(q){
+  q=q.toLowerCase();
+  const cards=[...document.querySelectorAll('.card')];
+  const sections=[...document.querySelectorAll('.cat-section')];
+  let shown=0;
+  cards.forEach(c=>{const ok=!q||c.dataset.title.includes(q);c.style.display=ok?'':'none';if(ok)shown++;});
+  sections.forEach(s=>{const visible=s.querySelectorAll('.card:not([style*="display: none"])').length;s.style.display=visible?'':'none';});
+  document.getElementById('noRes').style.display=shown===0?'block':'none';
+}
+</script>
 </body>
 </html>

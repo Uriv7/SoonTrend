@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Contact SoonTrend</title>
+  <meta name="description" content="Get in touch with the SoonTrend editorial team. We welcome feedback, corrections, and partnership enquiries.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://soontrend.com/contact/">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Inter:wght@400;500;600&family=Sora:wght@900&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#111;--ink2:#333;--ink3:#555;--accent:#d63a0a;--border:#e8e6e0;--bg:#fff;--bg2:#f8f7f4}
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',system-ui,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+    .hdr{background:var(--ink);padding:.85rem 2rem;display:flex;align-items:center;justify-content:space-between}
+    .logo{font-family:'Sora',sans-serif;font-size:1.4rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.03em}
+    .logo em{color:var(--accent);font-style:normal}
+    .hdr-nav a{color:rgba(255,255,255,.6);text-decoration:none;font-size:.74rem;font-weight:600;margin-left:1.4rem;text-transform:uppercase;letter-spacing:.08em}
+    .hdr-nav a:hover{color:#fff}
+    .page-hdr{background:var(--bg2);border-bottom:1px solid var(--border);padding:3rem 2rem 2.5rem;text-align:center}
+    .page-hdr h1{font-family:'Lora',serif;font-size:2.2rem;font-weight:700;margin-bottom:.5rem}
+    .page-hdr p{color:var(--ink3);font-size:.92rem;max-width:450px;margin:0 auto}
+    .content{max-width:680px;margin:3.5rem auto;padding:0 1.5rem 6rem}
+    .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem}
+    @media(max-width:560px){.form-grid{grid-template-columns:1fr}}
+    .field{display:flex;flex-direction:column;gap:.4rem;margin-bottom:1.2rem}
+    .field label{font-size:.78rem;font-weight:600;color:var(--ink);text-transform:uppercase;letter-spacing:.06em}
+    .field input,.field select,.field textarea{width:100%;padding:.75rem 1rem;border:1.5px solid var(--border);border-radius:8px;font-size:.92rem;font-family:'Inter',sans-serif;color:var(--ink);background:var(--bg);outline:none;transition:border .2s}
+    .field input:focus,.field select:focus,.field textarea:focus{border-color:var(--accent)}
+    .field textarea{resize:vertical;min-height:140px;line-height:1.6}
+    .submit-btn{width:100%;padding:.9rem;background:var(--accent);color:#fff;border:none;border-radius:99px;font-size:.95rem;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;transition:background .18s}
+    .submit-btn:hover{background:#b02f07}
+    .success-msg{display:none;background:#f0fdf4;border:1px solid #a7f3d0;border-radius:10px;padding:1.5rem;text-align:center;margin-top:1.5rem}
+    .success-msg h3{color:#065f46;font-size:1.1rem;margin-bottom:.4rem}
+    .success-msg p{color:#047857;font-size:.88rem}
+    .info-boxes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem;margin-bottom:3rem}
+    @media(max-width:560px){.info-boxes{grid-template-columns:1fr}}
+    .info-box{background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:1.3rem;text-align:center}
+    .info-box .icon{font-size:1.5rem;margin-bottom:.5rem}
+    .info-box h3{font-size:.88rem;font-weight:600;margin-bottom:.3rem}
+    .info-box p{font-size:.78rem;color:var(--ink3)}
+    .footer{background:var(--ink);color:rgba(255,255,255,.5);text-align:center;padding:2rem;font-size:.75rem}
+    .footer a{color:rgba(255,255,255,.45);text-decoration:none;margin:0 .6rem}
+    .footer a:hover{color:#fff}
+  </style>
+</head>
+<body>
+<header class="hdr">
+  <a href="/" class="logo">Soon<em>Trend</em></a>
+  <nav class="hdr-nav"><a href="/">Home</a><a href="/topics/">Topics</a><a href="/about/">About</a></nav>
+</header>
+<div class="page-hdr">
+  <h1>Contact Us</h1>
+  <p>Questions, corrections, feedback, or partnership enquiries — we read every message.</p>
+</div>
+<div class="content">
+
+  <div class="info-boxes">
+    <div class="info-box"><div class="icon">✏️</div><h3>Editorial Feedback</h3><p>Found an error or want to suggest a topic?</p></div>
+    <div class="info-box"><div class="icon">🤝</div><h3>Partnerships</h3><p>Advertising or content partnership enquiries.</p></div>
+    <div class="info-box"><div class="icon">⚡</div><h3>Fast Response</h3><p>We aim to reply within 48 hours on business days.</p></div>
+  </div>
+
+  <form id="contactForm" action="https://formspree.io/f/YOURFORMID" method="POST">
+    <div class="form-grid">
+      <div class="field">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" name="name" placeholder="John Smith" required>
+      </div>
+      <div class="field">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" placeholder="john@example.com" required>
+      </div>
+    </div>
+    <div class="field">
+      <label for="subject">Subject</label>
+      <select id="subject" name="subject">
+        <option value="feedback">General Feedback</option>
+        <option value="correction">Content Correction</option>
+        <option value="topic">Topic Suggestion</option>
+        <option value="partnership">Partnership / Advertising</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" placeholder="Tell us what's on your mind..." required></textarea>
+    </div>
+    <button type="submit" class="submit-btn">Send Message</button>
+  </form>
+
+  <div class="success-msg" id="successMsg">
+    <h3>Message received! ✓</h3>
+    <p>Thank you for reaching out. We'll get back to you within 48 hours.</p>
+  </div>
+
+</div>
+<footer class="footer">
+  <div style="margin-bottom:.6rem"><a href="/">Home</a><a href="/topics/">Topics</a><a href="/about/">About</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div>
+  © 2026 SoonTrend
+</footer>
+<script>
+document.getElementById('contactForm').addEventListener('submit',async function(e){
+  e.preventDefault();
+  const btn=this.querySelector('.submit-btn');
+  btn.textContent='Sending...';btn.disabled=true;
+  try{
+    await fetch(this.action,{method:'POST',body:new FormData(this),headers:{'Accept':'application/json'}});
+    this.style.display='none';
+    document.getElementById('successMsg').style.display='block';
+  }catch(err){
+    btn.textContent='Send Message';btn.disabled=false;
+  }
+});
+</script>
+</body>
+</html>

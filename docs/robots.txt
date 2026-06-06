@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
 
+# Priority crawl paths
+Allow: /articles/
+Allow: /topics/
+Allow: /about/
+
+# Block non-content paths
+Disallow: /assets/
+Disallow: /*.json$
+
+# Sitemaps
 Sitemap: https://soontrend.com/sitemap.xml
+Sitemap: https://soontrend.com/sitemap-articles.xml
+Sitemap: https://soontrend.com/sitemap-static.xml
+
+# Crawl delay for bots other than Googlebot
+User-agent: *
+Crawl-delay: 1

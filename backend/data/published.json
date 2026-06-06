@@ -353,5 +353,147 @@
     "date": "2026-06-06",
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10
+  },
+  {
+    "topic": "Unpacking Caitlin Clark, Angel Reese's Final Box Score Stats, Highlights as Fever Beat Dream with a Historic Upset - What You Need to Know",
+    "slug": "caitlin-clark-angel-reese-final-box-score-stats-highlights",
+    "title": "Caitlin Clark, Angel Reese's Final Box Score Stats, Highlights as Fever Beat Dream with Historic Upset",
+    "category": "Sports",
+    "content_type": "article",
+    "tags": [
+      "Caitlin Clark",
+      "Angel Reese",
+      "Fever",
+      "Upset",
+      "Women's basketball",
+      "Box score analysis",
+      "Sports news",
+      "Historic upset",
+      "Final box score stats",
+      "Basketball highlights"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Caitlin Clark and Angel Reese's historic upset has sent shockwaves throughout the sports world, attracting new fans and attention to women's basketball. The key benefits of Caitlin Clark, Angel Reese's Final Box Score Stats, Highlights as Fever Beat Dream include the exposure of women's basketball to a wider audience, the inspiration of young athletes, and the promotion of teamwork and dedication in sports."
+  },
+  {
+    "topic": "The judge's decision highlights the complexities of self-defense and the need for a nuanced understanding of the law.",
+    "slug": "judge-dismisses-murder-charge-sheriff-nominee",
+    "title": "Judge Dismisses Murder Charge Against Sheriff Nominee Who Killed Daughter's Alleged Abuser: Self-Defense in the Spotlight",
+    "category": "Law",
+    "content_type": "article",
+    "tags": [
+      "self-defense",
+      "murder charges",
+      "alleged abuse",
+      "sheriff nominee",
+      "self-defense laws",
+      "complexities of self-defense",
+      "self-defense justification",
+      "murder charge"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "A judge dismisses a murder charge against a sheriff nominee who killed his daughter's alleged abuser, sparking a debate about self-defense and its complexities. This decision sheds light on the intricacies of the law and the circumstances under which self-defense can be justified."
+  },
+  {
+    "topic": "Unraveling the Mystique Surrounding Anthony Head: A Journey Through His Life and Legacy",
+    "slug": "anthony-head-insight",
+    "title": "Anthony Head: Understanding the Complexities of This Enigmatic Figure",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "actor",
+      "entertainment industry",
+      "celebrity culture",
+      "pop culture",
+      "Buffy the Vampire Slayer",
+      "Bones"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Discover the fascinating world of Anthony Head, exploring his life, career, and impact on popular culture. From his iconic roles in Buffy the Vampire Slayer and Bones to his continued presence in film and television, Anthony Head remains a beloved figure in the entertainment industry."
+  },
+  {
+    "topic": "Breaking: Stocks Fall 5% as Tech Heavyweights Follow AI-Linked Decline",
+    "slug": "stocks-plummet-5-percent",
+    "title": "Stocks Plummet 5% as Tech Giants Follow AI-Linked Decline",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "tech stocks",
+      "AI-linked names",
+      "Wall Street",
+      "market volatility"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "The stock market has experienced a significant decline, with South Korea stocks fall 5% as tech heavyweights follow plunge in Wall Street's AI-linked names. The decline in tech stocks has significant implications for investors and the market as a whole, and individuals must be prepared to navigate the changing landscape."
+  },
+  {
+    "topic": "SpaceX IPO: A Record-Breaking Opportunity for Retail Investors",
+    "slug": "elon-musk-spacex-ipo-retail-investors",
+    "title": "Elon Musk's SpaceX Lines Up Retail Investors for Record IPO Allocation: Experts Weigh In",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "Elon Musk",
+      "SpaceX",
+      "IPO",
+      "record retail investors",
+      "space exploration",
+      "private space industry",
+      "retail investor opportunities"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Elon Musk's SpaceX is preparing to go public with an IPO that could value the company at over $500 billion, with a record number of retail investors lining up to get in on the action. As the IPO approaches, investors will be closely watching to see how the company performs and whether it meets its ambitious goals."
+  },
+  {
+    "topic": "S&P 500 Rejects SpaceX in Shocking Move, Blocks OpenAI and Anthropic Entry",
+    "slug": "sp-500-rejects-spacex-blocks-openai-anthropic-entry",
+    "title": "S&P 500 Rejects SpaceX in Shocking Move, Blocks OpenAI and Anthropic Entry",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "tech news",
+      "business news",
+      "S&P 500",
+      "SpaceX",
+      "OpenAI",
+      "Anthropic",
+      "investment news"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The S&P 500 has rejected SpaceX, OpenAI, and Anthropic, blocking their entry into the prestigious index. The rejection sends shockwaves through the tech industry and raises questions about the future of these companies."
+  },
+  {
+    "topic": "Main Page Under Fire: Experts Warn of Imminent Security Threats",
+    "slug": "main-page-security-risks-exposed",
+    "title": "Main Page Under Fire: Experts Sound Alarm as Security Risks Mount",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page security risks",
+      "cyber attacks",
+      "data breaches",
+      "user protection",
+      "Main Page vulnerabilities",
+      "security protocols",
+      "user safety",
+      "cyber security"
+    ],
+    "date": "2026-06-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Main Page has been identified as a prime target for cyber attacks, with experts warning of imminent security threats to users. The company behind Main Page has acknowledged the issues, but has yet to provide a clear timeline for when the problems will be resolved."
   }
 ]
