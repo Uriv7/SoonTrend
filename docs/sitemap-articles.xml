@@ -128,6 +128,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/daisy-head-controversy/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Billionaire Businesswoman Daisy Head Embroiled in High-Stakes Controversy</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/doj-could-pay-jan-6-rioters/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -234,6 +248,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-update-2024/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Update Imminent</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/murder-charges-james-handys-death-paused/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -274,6 +302,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/pelvic-pain-relief-after-decades/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/police-halt-ai-use-court-statements/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -289,6 +323,12 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/pope-secularized-polarized-spain-complex-catholic-legacy/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/pope-to-find-secularized-society/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -317,6 +357,26 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/scientists-ejected-diabetes-conference/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/scientists-say-these-8-common-food-ingredients-are-linked-to-heart-disease-risk/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough Study Reveals Hidden Heart Disease Risks in Everyday Foods</news:title>
     </news:news>
   </url>
   <url>
@@ -406,6 +466,26 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tokenomics-business-growth/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ukraine-launches-scores-of-drones-on-final-day-of-major-russian-investment-forum/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Drones Launched Amid Chaos At Investment Forum, Stakes Soar</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ukraine-strikes-cargo-ships-and-admits-romania-drone-blast-as-putin-prepares-for-key-speech/</loc>
