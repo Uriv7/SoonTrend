@@ -26,10 +26,30 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/appalachian-trail-rite-of-passage/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/artificial-intelligence-key-concepts-applications/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bitcoin-wipeout-market-plunges-as-bitcoin-has-dumped-all-of-its-gains-since-trump-was-reelected-and-then-some/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Bitcoin Wipeout: Market Plunges as Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected-And Then Some</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/brain-computer-interface-technology/</loc>
@@ -94,10 +114,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/daisy-head-chaos-experts-warn-of-imminent-disruption/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Daisy Head Chaos: Experts Warn of Imminent Disruption</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/doj-could-pay-jan-6-rioters/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/doj-fund-halt-explained/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>DOJ Fund Halt: What You Need to Know Now</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/elon-musk-spacex-ipo-retail-investors/</loc>
@@ -173,7 +221,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -181,9 +229,15 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical Updates and Actionable Insights</news:title>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: A Global Cyberattack Unfolds</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/murder-charges-james-handys-death-paused/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/musk-spacex-ipo-retail-investors/</loc>
@@ -232,6 +286,12 @@
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>AI in Court Statements Halted: Urgent Order Issued</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/pope-secularized-polarized-spain-complex-catholic-legacy/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/remote-work-strategies-productivity/</loc>
