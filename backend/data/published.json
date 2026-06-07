@@ -1260,5 +1260,155 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "Daisy Head, the CEO of a global conglomerate, has been accused of embezzlement and insider trading, allegations that have sent shockwaves through the business world and left many wondering if her reputation can survive the scandal."
+  },
+  {
+    "topic": "Scores of Ukrainian drones have been reported to have targeted St Petersburg in an attack that Russia has dubbed unprecedented, raising significant concerns about military capabilities and civilian safety.",
+    "slug": "scores-of-ukrainian-drones-target-st-petersburg-in-attack-russia-calls-unprecedented",
+    "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "drone warfare",
+      "unprecedented attack",
+      "military escalation",
+      "Russia-Ukraine conflict",
+      "scores of Ukrainian drones target St Petersburg",
+      "attack Russia calls 'unprecedented'",
+      "civilian casualties",
+      "Ukrainian military capabilities"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9,
+    "excerpt": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented', highlighting the need for a more proactive approach to addressing the threat posed by drones. The use of drones in warfare has significant implications for military strategy, as these unmanned aircraft can be easily deployed in a variety of roles, from reconnaissance to combat."
+  },
+  {
+    "topic": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal: what's behind the chaos and how can we learn from it?",
+    "slug": "israeli-airstrikes-after-ceasefire-deal",
+    "title": "Israeli Airstrikes Kill 9 Including Lebanese Army Officers After Ceasefire Deal: Understanding the Crisis",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "military conflicts",
+      "ceasefire agreements",
+      "humanitarian consequences",
+      "effective communication",
+      "evidence-based approaches"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal, highlighting the importance of effective communication and negotiation in preventing or mitigating conflict escalation. The humanitarian consequences of airstrikes can be severe, with civilians and military personnel often bearing the brunt of the violence."
+  },
+  {
+    "topic": "What can you do after decades of pelvic pain and 100-plus doctor visits to finally find relief and start a new life without symptoms?",
+    "slug": "pelvic-pain-relief-after-decades",
+    "title": "After decades of pelvic pain and 100-plus doctor visits, one question changed it all for a new life without symptoms",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "pelvic pain",
+      "chronic pain",
+      "pelvic floor dysfunction",
+      "pain management",
+      "lifestyle changes",
+      "alternative therapies",
+      "medical treatments"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "After decades of pelvic pain and 100-plus doctor visits, one question changed it all for many people who suffer from chronic pain. What is the key to a new life without symptoms? By understanding the causes of pelvic pain and taking a holistic approach to managing the condition, individuals can find relief and start a new life without symptoms."
+  },
+  {
+    "topic": "As Spain has 3 upcoming eclipses, how to catch the first one this summer and make the most of this rare astronomical event.",
+    "slug": "catching-the-first-upcoming-eclipse",
+    "title": "Catching the First Upcoming Eclipse: Essential Tips and Preparation",
+    "category": "Science",
+    "content_type": "article",
+    "tags": [
+      "solar eclipse",
+      "total solar eclipse",
+      "annular solar eclipse",
+      "lunar eclipse",
+      "eclipse safety",
+      "eclipse preparation",
+      "Spain has 3 upcoming eclipses. How to catch the first one this summer"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Get ready to witness the awe-inspiring spectacle of a total solar eclipse, with expert advice on preparation and safety. Learn about the science behind this rare phenomenon and how to make the most of this once-in-a-lifetime experience. A Spain has 3 upcoming eclipses, this summer's first one is a rare opportunity to witness a total solar eclipse, so be prepared to take the necessary precautions and make the most of this celestial event."
+  },
+  {
+    "topic": "Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed: What You Need to Know",
+    "slug": "spacex-ipo-warning-retail-investors",
+    "title": "SpaceX IPO Warning: Retail Investors At Risk",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "retail investors",
+      "financial losses",
+      "investment risks"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "The SpaceX IPO is expected to be one of the largest in history, but experts are warning that Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed is a very real possibility. Investors are advised to exercise caution and carefully consider their investment decisions."
+  },
+  {
+    "topic": "The OnlyFans Economy of American AI: A Growing Concern",
+    "slug": "the-onlyfans-economy-of-american-ai-a-growing-concern",
+    "title": "The OnlyFans Economy of American AI: A Growing Concern",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI economy",
+      "OnlyFans",
+      "American AI",
+      "growing concern",
+      "digital content",
+      "AI-generated content"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The OnlyFans Economy of American AI is expanding rapidly, with estimates suggesting it could reach $1 trillion in value within the next two years, sparking concerns about its impact on individuals, businesses, and society as a whole."
+  },
+  {
+    "topic": "Justice Department Drops Bombshell: $1.8 Billion Payout Fund Is 'Not Going Forward'",
+    "slug": "justice-department-drops-bombshell-1-8-billion-payout-fund-not-going-forward",
+    "title": "Justice Department Drops Bombshell: $1.8 Billion Payout Fund Is 'Not Going Forward'",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "Justice Department",
+      "payout fund",
+      "financial landscape",
+      "economy",
+      "investors",
+      "businesses",
+      "recession",
+      "slowdown",
+      "growth"
+    ],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Justice Department has dropped a bombshell, informing the court that the $1.8 billion payout fund is 'not going forward'. What does this mean for individuals, businesses, and the economy?"
+  },
+  {
+    "topic": "Main Page Crisis Spreads Globally: Expert Analysis and Advice",
+    "slug": "main-page-crisis-spreads-globally",
+    "title": "Main Page Crisis Spreads Globally: Expert Analysis and Advice",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [],
+    "date": "2026-06-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": ""
   }
 ]

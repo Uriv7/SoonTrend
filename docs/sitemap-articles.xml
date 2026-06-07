@@ -102,6 +102,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/catching-the-first-upcoming-eclipse/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/climate-change-causes-effects-mitigation/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,6 +194,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/israeli-airstrikes-after-ceasefire-deal/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/james-handys-productivity-secrets/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -204,6 +216,34 @@
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/justice-department-drops-bombshell-1-8-billion-payout-fund-not-going-forward/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Justice Department Drops Bombshell: $1.8 Billion Payout Fund Is 'Not Going Forward'</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crisis-spreads-globally/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Spreads Globally: Expert Analysis and Advice</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
@@ -380,6 +420,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/scores-of-ukrainian-drones-target-st-petersburg-in-attack-russia-calls-unprecedented/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/south-korea-stocks-plummet-5-as-ai-linked-tech-giants-tank/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -442,6 +488,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spacex-ipo-warning-retail-investors/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>SpaceX IPO Warning: Retail Investors At Risk</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stocks-plummet-5-percent/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -466,6 +526,20 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/the-onlyfans-economy-of-american-ai-a-growing-concern/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
+      <news:title>The OnlyFans Economy of American AI: A Growing Concern</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/tokenomics-business-growth/</loc>
