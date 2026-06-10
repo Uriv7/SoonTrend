@@ -162,6 +162,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/brendan-sorsby-case-revelation-shocks-community/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Courtroom Connection Rattles Brendan Sorsby Case: A Stunning Revelation</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/buy-spacex-shares-ipo/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -376,6 +390,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/intelligence-decline-dark-truth-about-falling-iq-scores/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/israeli-airstrikes-after-ceasefire-deal/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -432,6 +452,12 @@
       <news:publication_date>2026-06-09T00:00:00Z</news:publication_date>
       <news:title>Last-Minute Lawsuit Seeks to Halt Historic White House UFC Event</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/live-updates-trump-immigration-actions-policy-continuity/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/magnetoelectric-antennas-communication/</loc>
@@ -614,6 +640,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/new-research-links-even-low-alcohol-consumption-to-cancer-heart-disease-and-premature-death/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Alarming Study Reveals Hidden Dangers of Low Alcohol Consumption</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/news-s-p-500-rejects-spacex-openai-anthropic/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -756,6 +796,18 @@
   <url>
     <loc>https://soontrend.com/articles/scores-of-ukrainian-drones-target-st-petersburg-in-attack-russia-calls-unprecedented/</loc>
     <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/siri-ai-apple-intelligence-ios-27-wwdc-2026/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/social-security-funds-depletion/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1036,10 +1088,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ways-and-means-chair-wont-support-next-reconciliation-bill-without-tax-provisions/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Ways and Means Chair Warns He Won't Support Next Reconciliation Bill Without Tax Provisions</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/what-to-expect-from-apple-s-ai-siri-and-ios-27-launch-at-wwdc-2026/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/world-first-cell-regeneration-therapy-given-to-person/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough Therapy Makes Cells Young Again: World-first Given to Person</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/xai-datacentre-reit/</loc>
