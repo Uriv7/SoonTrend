@@ -2415,5 +2415,168 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "A critical flaw in the Main Page system has been discovered, allowing hackers to access sensitive user data. The Main Page team is working to resolve the issue as quickly as possible, but experts warn that the situation is more complex than initially thought."
+  },
+  {
+    "topic": "The German Ruling that Exposes Google's Liability for False Answers in AI Overviews: What You Need to Know",
+    "slug": "google-liable-for-false-answers-in-ai-overviews",
+    "title": "Google Liable for False Answers in AI Overviews: A Game-Changer for Transparency",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "AI overviews",
+      "Google liable",
+      "AI transparency",
+      "AI accountability",
+      "artificial intelligence ethics",
+      "machine learning safety",
+      "AI-powered responses",
+      "AI misinformation"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "A German ruling declares Google liable for false answers in AI overviews, highlighting the need for greater transparency and accountability in AI-powered responses. This has significant implications for the way we use AI, from search engines to social media platforms."
+  },
+  {
+    "topic": "Unlock a New Era of Underwater Robotics with Magnetoelectric Antennas: Enhanced Communication and Efficiency",
+    "slug": "magnetoelectric-antennas-communication",
+    "title": "Magnetoelectric Antennas Revolutionize Underwater Robotics with Enhanced Communication",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Magnetoelectric antennas",
+      "Underwater robots",
+      "Advanced communication systems",
+      "Efficient data transmission",
+      "Robust communication protocols",
+      "Underwater robotics",
+      "Improved navigation systems",
+      "Magnetic sensing",
+      "Electromagnetic communication",
+      "Autonomous exploration"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Magnetoelectric antennas could transform how underwater robots talk by providing a reliable and efficient means of communication. This advanced technology has the potential to enhance the efficiency and accuracy of underwater robotics, making it an essential component of any underwater exploration or research mission."
+  },
+  {
+    "topic": "The Rise of AI-Generated Synthetic Performers in Ads: What You Need to Know",
+    "slug": "ads-label-ai-generated-synthetic-performers",
+    "title": "Ads Must Label AI-Generated Synthetic Performers: Compliance Guide",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "AI-generated synthetic media",
+      "ads in New York",
+      "labeling AI-generated content",
+      "transparency in digital advertising",
+      "consumer protection",
+      "advertising regulations"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Ads in New York must now label AI-generated ‘synthetic performers’ to ensure that consumers are aware of the origin of the content they are viewing. This new regulation is part of a broader effort to promote transparency and accountability in digital advertising. By labeling AI-generated synthetic performers, advertisers can build trust with their target audience and promote a more transparent and accountable advertising industry."
+  },
+  {
+    "topic": "How to Buy SpaceX Shares as its Blockbuster IPO Readies for Liftoff: A Comprehensive Guide",
+    "slug": "buy-spacex-shares-ipo",
+    "title": "How to Buy SpaceX Shares Before IPO Launch",
+    "category": "Business",
+    "content_type": "article",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "stock market",
+      "investing",
+      "private space industry",
+      "space technology",
+      "Elon Musk"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "How to buy SpaceX shares as its blockbuster IPO readies for liftoff is a question on many investors' minds. With a potential valuation of over $100 billion, SpaceX is expected to be one of the largest IPOs in history, offering a unique opportunity for investors to be a part of the private space industry. To buy SpaceX shares as its blockbuster IPO readies for liftoff, investors will need to understand the IPO process and the benefits of investing in SpaceX stock."
+  },
+  {
+    "topic": "Stock Market Today: Dow Futures Plummet Amid Global Market Volatility",
+    "slug": "stock-market-today-dow-futures-volatility",
+    "title": "Stock Market Today: Dow Futures Plummet Amid Global Market Volatility",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "Dow futures",
+      "stock market volatility",
+      "investor concerns",
+      "portfolio implications",
+      "market uncertainty"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Dow futures have plummeted in recent hours, sparking concerns among investors about the potential impact on their portfolios. Investors who have seen their portfolio value decline may be left feeling anxious and uncertain about their financial future."
+  },
+  {
+    "topic": "GLP-1s Shield Against Cancer: Researchers Left Puzzled",
+    "slug": "glp-1s-shield-against-cancer-researchers-left-puzzled",
+    "title": "GLP-1s Shield Against Cancer: Researchers Left Puzzled",
+    "category": "Science",
+    "content_type": "news",
+    "tags": [
+      "GLP-1s",
+      "cancer",
+      "research",
+      "treatment",
+      "breakthrough",
+      "medicine",
+      "biotechnology",
+      "health"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "A recent study has made a startling discovery: GLP-1s appear to protect against cancer. Researchers are trying to figure out how this happens, but the exact mechanism remains unclear."
+  },
+  {
+    "topic": "Market Maelstrom: CNBC Daily Open Achieves Hat Trick of Tech IPOs with OpenAI Filing",
+    "slug": "cnbc-daily-open-hat-trick-tech-ipos-complete-openai-filing",
+    "title": "CNBC Daily Open: Hat trick of tech IPOs complete with OpenAI filing sparks market frenzy",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "tech IPOs",
+      "OpenAI filing",
+      "market frenzy",
+      "investor uncertainty",
+      "fintech news",
+      "AI breakthroughs",
+      "mergers and acquisitions",
+      "stock exchange listings"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The CNBC Daily Open has achieved a historic hat trick of tech IPOs, culminating with the highly anticipated filing of OpenAI, sending shockwaves through the market and leaving investors scrambling to adapt their portfolios. As the market continues to navigate this uncharted territory, there are several key dates and milestones to watch."
+  },
+  {
+    "topic": "Asia Stocks Bounce Back Amid AI Recovery, Israel-Iran Deescalation: What's Next?",
+    "slug": "asia-stocks-rise-gingerly-on-ai-recovery-israel-iran-deescalation",
+    "title": "Asia Stocks Rise Gingerly on AI Recovery, Israel-Iran Deescalation: What's Behind the Bounce?",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "AI recovery",
+      "Israel-Iran deescalation",
+      "Asia stocks",
+      "global economy",
+      "investors",
+      "business owners",
+      "consumers"
+    ],
+    "date": "2026-06-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Asia stocks are rising gingerly on Thursday as AI recovery and Israel-Iran deescalation ease market fears, but investors are still cautious as the global economy remains uncertain."
   }
 ]

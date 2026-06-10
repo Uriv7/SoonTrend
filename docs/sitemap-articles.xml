@@ -20,6 +20,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ads-label-ai-generated-synthetic-performers/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/anthony-head-creative-potential/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,6 +94,20 @@
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asia-stocks-rise-gingerly-on-ai-recovery-israel-iran-deescalation/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Asia Stocks Rise Gingerly on AI Recovery, Israel-Iran Deescalation: What's Behind the Bounce?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/backrooms-film-explained/</loc>
@@ -190,6 +210,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cnbc-daily-open-hat-trick-tech-ipos-complete-openai-filing/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>CNBC Daily Open: Hat trick of tech IPOs complete with OpenAI filing sparks market frenzy</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cybersecurity-basics-for-a-safer-digital-world/</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -272,6 +306,26 @@
   <url>
     <loc>https://soontrend.com/articles/flavio-cobolli-technology-innovation/</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/glp-1s-shield-against-cancer-researchers-left-puzzled/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>GLP-1s Shield Against Cancer: Researchers Left Puzzled</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/google-liable-for-false-answers-in-ai-overviews/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -378,6 +432,12 @@
       <news:publication_date>2026-06-09T00:00:00Z</news:publication_date>
       <news:title>Last-Minute Lawsuit Seeks to Halt Historic White House UFC Event</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/magnetoelectric-antennas-communication/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-spreads-globally/</loc>
@@ -829,6 +889,20 @@
       </news:publication>
       <news:publication_date>2026-06-09T00:00:00Z</news:publication_date>
       <news:title>Dow Futures Plummet: What This Means for Your Portfolio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-today-dow-futures-volatility/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
+      <news:title>Stock Market Today: Dow Futures Plummet Amid Global Market Volatility</news:title>
     </news:news>
   </url>
   <url>
