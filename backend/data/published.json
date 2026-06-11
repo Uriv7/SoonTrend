@@ -3045,5 +3045,123 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "Cybersecurity researchers are expressing concerns over the guardrails on Anthropic's Fable, a highly anticipated AI model that promises to revolutionize the field of artificial intelligence. The guardrails, designed to prevent the AI from causing harm, are insufficient and may not adequately address the risks associated with the model."
+  },
+  {
+    "topic": "Trump Says 'I Love the Inflation' Because 'We Are Taking' Iranian Oil: What Does It Mean?",
+    "slug": "trump-says-i-love-inflation",
+    "title": "Trump Says 'I Love Inflation' Due to Oil - Expert Insights",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Trump",
+      "inflation",
+      "oil production",
+      "energy market",
+      "trade policies",
+      "geopolitical tensions",
+      "economic growth",
+      "energy security"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Trump says 'I love the inflation' because 'we are taking' Iranian oil, sparking controversy and debate. Learn the truth behind this statement and its implications for the energy market and the global economy. Discover the facts and understand the context behind Trump's statement."
+  },
+  {
+    "topic": "Get ready for a government shutdown: Republicans' decision to fund ICE without Democrats' input sparks concern",
+    "slug": "capital-agenda-ice-funding-shutdown-watch",
+    "title": "Capital Agenda: Cue Shutdown Watch After Republicans Go It Alone on ICE Funding - Expert Analysis",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Government shutdown",
+      "ICE funding",
+      "Immigration policy",
+      "Border security",
+      "Capital agenda",
+      "Special interest groups"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "The capital agenda is a complex process that involves the interaction of various stakeholders, including lawmakers, interest groups, and government agencies. The decision by Republicans to fund ICE without Democrats' input is a clear indication of the capital agenda's failures. Get ready for a government shutdown: Republicans' decision to fund ICE without Democrats' input sparks concern."
+  },
+  {
+    "topic": "Dow, Nasdaq Plunge as Inflation Hits 4.2% — Live Stock Market Updates",
+    "slug": "stock-market-plunges-as-inflation-surges-to-4-2",
+    "title": "Stock Market Plunges as Inflation Surges to 4.2% — Dow, Nasdaq in Free Fall",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "inflation",
+      "Dow Jones",
+      "Nasdaq",
+      "market crash"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The US stock market has opened lower, with the Dow Jones and Nasdaq experiencing a significant drop as inflation rises to 4.2%. This marks a worrying trend for investors and consumers alike, as the cost of living continues to soar."
+  },
+  {
+    "topic": "Pokémon Go Scans Trained Military Drones' Navigation Tech: What This Means for Global Security",
+    "slug": "pokemon-go-scans-trained-military-drones-navigation-tech",
+    "title": "Pokémon Go Scans Trained Military Drones' Navigation Tech: What This Means for Global Security",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Pokémon Go Scans",
+      "military drones",
+      "navigation tech",
+      "autonomous warfare",
+      "mass surveillance",
+      "national security",
+      "global security",
+      "civilian safety"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Pokémon Go Scans have been repurposed to train military drones' navigation tech, raising concerns about mass surveillance and national security risks. This could lead to a new era of autonomous warfare, where drones are used to target and engage enemy forces without human intervention."
+  },
+  {
+    "topic": "Breaking: Trump's Unprecedented Praise for Inflation Rates as CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran Takes the World by Storm",
+    "slug": "trump-cnbc-daily-open-inflation-iran",
+    "title": "Trump's Shocking Reaction to Inflation and Iran - What's Behind the CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran?",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Trump",
+      "inflation rate",
+      "US economy",
+      "CNBC Daily Open",
+      "Iran",
+      "politics",
+      "economy"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "US President Trump has expressed his 'love' for the latest inflation print and anger towards Iran, sparking a heated debate and sending shockwaves across the globe. The CNBC Daily Open has been reporting on this story in real-time, providing updates and analysis as the situation unfolds."
+  },
+  {
+    "topic": "Main Page Under Siege: Experts Warn of Catastrophic Consequences",
+    "slug": "main-page-under-siege",
+    "title": "Main Page Under Siege: Experts Warn of Catastrophic Consequences",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page",
+      "security breach",
+      "sensitive information",
+      "expert warnings",
+      "catastrophic consequences",
+      "online security"
+    ],
+    "date": "2026-06-11",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Main Page has been compromised due to a sophisticated security breach, putting sensitive information at risk. Experts warn that the consequences of this breach could be catastrophic and users need to take steps to protect their personal data."
   }
 ]
