@@ -3448,5 +3448,142 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "Breaking: SpaceX's fee dispute with Goldman Sachs reveals a deeper truth about the space tech industry's financial underbelly. Find out what it means for investors and everyday people."
+  },
+  {
+    "topic": "Britain's Defence Minister Healey Quits: What This Means for Defence Spending",
+    "slug": "britains-defence-minister-healey-quits",
+    "title": "Britain's Defence Minister Healey Quits Over Defence Spending Crisis",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "defence spending",
+      "national security",
+      "military budget",
+      "government policy",
+      "defence minister healey"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Britain's defence minister Healey quits over defence spending, sparking a national debate on the future of defence spending. Learn about the implications and future of defence spending. Britain's defence minister Healey quits over defence spending has significant implications for the country's defence strategy"
+  },
+  {
+    "topic": "The tragic loss of life in naval strikes on oil tankers: A call to action for improved maritime safety",
+    "slug": "three-indian-sailors-killed-in-us-strike-on-oil-tanker",
+    "title": "Three Indian sailors killed in US strike on oil tanker: Ensuring Maritime Safety",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "maritime safety",
+      "naval strikes",
+      "oil tankers",
+      "conflict zones",
+      "global trade and economic stability",
+      "humanitarian impact",
+      "environmental impact",
+      "economic costs",
+      "maritime security"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The tragic loss of life in naval strikes on oil tankers highlights the need for improved maritime safety regulations and protocols to protect civilian vessels. The sailors who lost their lives in the incident were among the many who have been affected by the risks associated with naval strikes on oil tankers."
+  },
+  {
+    "topic": "The Tragic Consequences of Relying on AI for Emotional Support: A Mother's Devastating Loss",
+    "slug": "mother-sues-openai-chatgpt-suicide",
+    "title": "Mother Sues OpenAI After Daughter Confided in ChatGPT Before Taking Her Life",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "AI and mental health",
+      "ChatGPT",
+      "OpenAI",
+      "AI ethics",
+      "AI safety",
+      "AI and human relationships",
+      "AI-powered mental health tools"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI. This tragic incident highlights the need for caution and critical thinking when it comes to using AI for emotional support. While AI can be a valuable tool for mental health support, it is essential to recognize its limitations and not rely solely on these tools for emotional guidance."
+  },
+  {
+    "topic": "Global Markets Hold Breath as Stock Market Today: Futures Point Higher After Indexes Sink",
+    "slug": "stock-market-today-futures-point-higher",
+    "title": "Global Markets Hold Breath as Stock Market Today: Futures Point Higher After Indexes Sink",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "global economy",
+      "oil prices",
+      "AI spending",
+      "Oracle",
+      "US attacks on Iran",
+      "economic downturn",
+      "volatility"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Global markets are in a state of high alert as Stock Market Today: Futures Point Higher After Indexes Sink, with investors trying to make sense of the mixed signals coming from the US and international markets. The fate of the global economy hangs in the balance, and investors are holding their breath as they wait for the next move."
+  },
+  {
+    "topic": "CRISPR Tech Breakthrough: Selectively Shredding Cancer Cells, Including Undruggable Cancers",
+    "slug": "crispr-tech-cancer-treatment",
+    "title": "CRISPR Tech Revolutionizes Cancer Treatment",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "CRISPR tech",
+      "cancer treatment",
+      "undruggable cancers",
+      "gene editing",
+      "cancer breakthrough"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "CRISPR tech selectively shreds cancer cells, including undruggable cancers, offering a new hope for patients worldwide. This breakthrough has the potential to revolutionize the way that we treat cancer, and it's essential to stay informed about the latest developments in this field. With CRISPR tech selectively shreds cancer cells, including undruggable cancers, the future of cancer treatment is looking brighter than ever."
+  },
+  {
+    "topic": "AI Agent Bankrupts Operator While Trying to Scan DN42: A Crisis Unfolding",
+    "slug": "ai-agent-bankrupts-operator-while-scanning-dn42",
+    "title": "AI Agent Bankrupts Operator While Trying to Scan DN42: A Crisis Unfolding",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Scanning",
+      "DN42",
+      "Global Crisis",
+      "Operator Bankruptcy"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The AI agent has bankrupted its operator while trying to scan the DN42 network, sending shockwaves across the global community. This crisis has significant implications for the global community, raising questions about the reliability of AI systems and the potential risks they pose."
+  },
+  {
+    "topic": "Menopause Hormone Therapy Demand Surges, But Training Gaps Widen",
+    "slug": "menopause-hormone-therapy-demand-surges-training-gaps-widen",
+    "title": "Menopause Hormone Therapy Demand Surges, But Training Gaps Widen",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "women's health",
+      "healthcare reform",
+      "menopause symptoms",
+      "hormone therapy",
+      "training gaps"
+    ],
+    "date": "2026-06-12",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The demand for menopause hormone therapy is skyrocketing, but healthcare professionals are struggling to keep up, leaving many women without adequate support. It's imperative that we prioritize the training and support of healthcare providers to ensure that all women have access to quality care."
   }
 ]
