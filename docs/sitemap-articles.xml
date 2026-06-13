@@ -268,6 +268,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/californian-dies-from-rare-disease-after-trapping-rats-in-rv/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cancer-research-innovation-and-collaboration/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,7 +325,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/crispr-tech-cancer-treatment/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -327,7 +333,7 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-12T00:00:00Z</news:publication_date>
+      <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
       <news:title>CRISPR Tech Revolutionizes Cancer Treatment</news:title>
     </news:news>
   </url>
@@ -1184,6 +1190,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spacex-ipo-draws-more-than-70-billion-in-retail-orders/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
+      <news:title>Billion-Dollar Boom: SpaceX IPO Draws More Than $70 Billion in Retail Orders</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spacex-ipo-is-a-referendum-on-musk/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -1216,6 +1236,20 @@
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/spacex-soon-to-be-millionaires-unleash-luxury-spending-spree/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
+      <news:title>SpaceX Soon-to-be Millionaires Unleash Luxury Spending Spree</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/stock-futures-plunge-amid-fragile-ceasefire/</loc>
@@ -1271,6 +1305,20 @@
       </news:publication>
       <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
       <news:title>Stock Market Today: Dow Futures Plummet Amid Global Market Volatility</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-today-futures-point-higher-after-indexes-sink-oil-slips/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
+      <news:title>Markets Shift into High Gear: Futures Soar as Indexes Recover from Rollercoaster Ride</news:title>
     </news:news>
   </url>
   <url>
@@ -1364,6 +1412,12 @@
   <url>
     <loc>https://soontrend.com/articles/three-indian-sailors-killed-in-us-strike-on-oil-tanker/</loc>
     <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/three-indian-sailors-killed-us-strike-oil-tanker/</loc>
+    <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1472,6 +1526,12 @@
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>Breaking: Senate OKs $70B Immigration Bill After Rejecting Trump Settlement Fund Ban</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/vermont-not-participating-in-trump-fair/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/victor-wembanyama-next-generation-basketball-superstars/</loc>
