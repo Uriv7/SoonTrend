@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://soontrend.com/articles/20-years-of-intel-macs/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup-experience/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -36,7 +42,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
-      <news:title>BREAKING: 2026 Rio de Janeiro Mid-Air Collision Sparks Global Concerns</news:title>
+      <news:title>Breaking: Chaos Unfolds as 2026 Rio de Janeiro Mid-Air Collision Claims Lives</news:title>
     </news:news>
   </url>
   <url>
@@ -125,6 +131,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Aiemann Zahabi Breaks New Ground in the World of Sports</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/aiemann-zahabi-record-feat/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
+      <news:title>Aiemann Zahabi Breaks Ground in Unprecedented Feat</news:title>
     </news:news>
   </url>
   <url>
@@ -1107,7 +1127,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -1115,8 +1135,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-15T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Imminent System Failure</news:title>
+      <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Systems Down, Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -1374,6 +1394,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/oliver-tree-singer/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/openai-files-confidentially-for-ipo-as-ai-companies-rush-to-wall-st/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -1596,6 +1622,20 @@
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/sorsby-not-playing-texas-tech/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Sorsby's Eligibility Fight Ends, No College Football for Him This Season</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/south-korea-stocks-plummet-5-as-ai-linked-tech-giants-tank/</loc>
@@ -2244,6 +2284,12 @@
   <url>
     <loc>https://soontrend.com/articles/what-to-expect-from-apple-s-ai-siri-and-ios-27-launch-at-wwdc-2026/</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/white-house-praises-ufc-fighters-victory/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
