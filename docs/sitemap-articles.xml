@@ -510,6 +510,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/covid-vaccine-breakthrough-groundbreaking-study-reveals-far-reaching-benefits/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
+      <news:title>Covid Vaccine Breakthrough: Groundbreaking Study Reveals Far-Reaching Benefits</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/crispr-breakthrough-targets-undruggable-cancers/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
@@ -632,6 +646,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/eight-people-killed-b-52-bomber-crash/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/elon-musk-spacex-ipo-retail-investors/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -647,6 +667,12 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/eu-ukraine-start-formal-accession-talks-orban-delay/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fbi-arrests-5-people-white-house-ufc-freedom-250-event/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -698,6 +724,12 @@
   <url>
     <loc>https://soontrend.com/articles/folarin-balogun-youth-soccer-potential/</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/g7-allies-scramble-ukraine-trump-agenda/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +898,12 @@
       <news:publication_date>2026-06-12T00:00:00Z</news:publication_date>
       <news:title>iOS 27: All the New Health and Fitness Features Just Launched – What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/iran-team-forced-to-leave-u-s-immediately-after-world-cup-draw-amid-protests-against-tehran/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/israeli-airstrikes-after-ceasefire-deal/</loc>
@@ -2010,6 +2048,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stock-market-today-spacex-set-to-overtake-amazon-by-market-cap/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
+      <news:title>Stock Market Today: SpaceX Set to Overtake Amazon by Market Cap in Historic Shift</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stock-market-turmoil-key-stocks-plunge/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -2084,6 +2136,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/texas-tech-nil-money-decision/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Texas Tech NIL Money Decision Made</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/texas-tech-nil-money-recovery-bid-brendan-sorsby/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -2154,6 +2220,20 @@
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-admin-blocks-clean-air-lawsuit-xai-gas-turbines/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
+      <news:title>Trump Admin's Shocking Move to Block Clean Air Act Lawsuit Over xAI's Gas Turbines Sparks Fury</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-claims-iran-deal-reached-tehran-says-no-final-decision/</loc>
