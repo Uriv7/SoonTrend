@@ -5718,5 +5718,145 @@
     "ai_provider": "Groq/llama-3.3-70b-versatile",
     "read_time": 5,
     "excerpt": "The Main Page crisis is a critical issue affecting millions, with significant implications for anyone who relies on Main Page for information and services. As the Main Page recovery efforts progress, users are advised to stay informed and to explore alternative options, with the Main Page team committed to providing transparency and support throughout the process. The goal is to restore Main Page to full functionality as quickly as possible, while ensuring that the solution is sustainable and prevents similar issues from arising in the future."
+  },
+  {
+    "topic": "Struggling JetBlue Shuts Down Key Airports As Operating Costs Continue To Rise",
+    "slug": "jetblue-airspace-operating-costs-soar",
+    "title": "Struggling JetBlue Shuts Down Key Airports As Operating Costs Soar",
+    "category": "Business",
+    "content_type": "article",
+    "tags": [
+      "airline industry",
+      "airport operations",
+      "cost management",
+      "operational efficiency",
+      "airline profits",
+      "airport experience",
+      "passenger satisfaction"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 15,
+    "excerpt": "Struggling JetBlue shuts down key Newark, LaGuardia operations as New York airport costs soar. Learn how airline industry struggles with rising costs and shrinking profits, and what it means for the future of air travel."
+  },
+  {
+    "topic": "The Controversial Claims of Pauline Hanson: Has Multiculturalism Really Failed?",
+    "slug": "australian-right-wing-leader-pauline-hanson-says-multiculturalism-has-failed",
+    "title": "Australian Right-Wing Leader Pauline Hanson Says Multiculturalism Has Failed: Understanding the Impact",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "multiculturalism",
+      "diversity",
+      "inclusion",
+      "social cohesion",
+      "education",
+      "employment",
+      "social mobility"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Australian right-wing leader Pauline Hanson says multiculturalism has failed, but this may be a narrow view of the complex issue at hand. By promoting education and inclusivity, we can create a more vibrant and dynamic society that values the contributions of all its members."
+  },
+  {
+    "topic": "Rick Jackson's Historic Victory: How a Billionaire's Leadership Style Will Shape the Future of Governance",
+    "slug": "billionaire-rick-jackson-defeats-trump-backed-burt-jones",
+    "title": "Billionaire Rick Jackson Defeats Trump-Backed Burt Jones: A New Era for Governance",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "politics",
+      "leadership",
+      "governance",
+      "elections",
+      "Georgia",
+      "Rick Jackson",
+      "Burt Jones",
+      "Trump",
+      "billionaires",
+      "politics"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Billionaire Rick Jackson's victory in the Georgia governor election marks a significant shift in the state's politics. His leadership style will be a departure from the traditional approach of his predecessor, and it will be interesting to see how he navigates the complexities of governance in Georgia."
+  },
+  {
+    "topic": "The UN Chief's Visit to Haiti: A New International Force to Combat Gangs",
+    "slug": "un-chief-visits-haiti",
+    "title": "UN Chief Visits Haiti To Deploy Force Against Gangs",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "UN chief visits Haiti",
+      "new international force",
+      "gang violence",
+      "crime prevention",
+      "global governance",
+      "conflict resolution"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "The UN chief visits Haiti, where a new international force will be deployed to help fight gangs, marking a significant step towards restoring stability in the region. The deployment of a new international force to help fight gangs is expected to be a significant step towards reducing crime and improving security in the region."
+  },
+  {
+    "topic": "Oil Prices Plummet Amid US-Iran Deal Uncertainty",
+    "slug": "oil-prices-plummet-amid-us-iran-deal-uncertainty",
+    "title": "Oil Prices Plummet Amid US-Iran Deal Uncertainty",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "US-Iran deal",
+      "oil prices",
+      "global energy markets",
+      "Strait of Hormuz",
+      "energy crisis",
+      "US-Iran negotiations",
+      "deal uncertainty"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Oil prices are wavering as investors await a US-Iran deal to reopen the Strait of Hormuz, a critical waterway that supplies a significant portion of the world's oil. The uncertainty surrounding the deal has significant implications for global energy markets, with prices plummeting in response."
+  },
+  {
+    "topic": "Midjourney Medical in Crisis: Experts Sound Alarm on Patient Safety",
+    "slug": "midjourney-medical-in-crisis-experts-sound-alarm-on-patient-safety",
+    "title": "Midjourney Medical in Crisis: Experts Sound Alarm on Patient Safety",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "healthcare",
+      "patient safety",
+      "midjourney medical",
+      "crisis",
+      "systemic malpractice"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The crisis at Midjourney Medical has sent shockwaves through the healthcare industry, highlighting the urgent need for greater transparency and accountability. The company's failings have put patients' lives at risk, and the consequences could be catastrophic."
+  },
+  {
+    "topic": "AI Compute Extensions (ACE) Specification Unleashes New Era of AI Computing",
+    "slug": "ai-compute-extensions-specification-sparks-frenzy",
+    "title": "AI Compute Extensions (ACE) Specification Sparks Frenzy in Tech Industry",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI computing",
+      "job displacement",
+      "data security",
+      "tech industry",
+      "AI applications",
+      "AI services",
+      "artificial intelligence"
+    ],
+    "date": "2026-06-18",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The AI Compute Extensions (ACE) Specification, a new standard for AI computing, has been officially released, marking a significant milestone in the evolution of artificial intelligence. The specification has far-reaching implications for the tech industry, from developers to businesses and individuals, as it enables the creation of new AI applications and services."
   }
 ]
