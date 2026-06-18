@@ -646,6 +646,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/deepseek-introduces-vision/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/disclosure-day-slug/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -900,6 +906,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/hospitals-repurposing-drugs-at-lower-cost/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T00:00:00Z</news:publication_date>
+      <news:title>Hospitals Repurpose Drugs at 90% Lower Cost</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ice-stop-reporting-deaths-newly-released-detainees/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -910,6 +930,20 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/inflation-and-kevin-warsh-take-center-stage-at-federal-reserve-meeting/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T00:00:00Z</news:publication_date>
+      <news:title>Inflation and Kevin Warsh Take Center Stage at Federal Reserve Meeting: What's at Stake</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/intelligence-decline-dark-truth-about-falling-iq-scores/</loc>
@@ -1030,6 +1064,12 @@
   <url>
     <loc>https://soontrend.com/articles/live-updates-trump-immigration-actions-policy-continuity/</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/local-qwen-different-tool/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1351,6 +1391,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Mid-Air Collision Rocks Global Aviation: 2026 Rio de Janeiro Incident</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/midjourney-medical-controversy/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T00:00:00Z</news:publication_date>
+      <news:title>Midjourney Medical Crumbles Amid Controversy</news:title>
     </news:news>
   </url>
   <url>
@@ -2330,6 +2384,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/towards-autonomous-medical-artificial-intelligence-agents-make-major-leap-forward/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T00:00:00Z</news:publication_date>
+      <news:title>Autonomous Medical AI Agents Take Major Leap Forward</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/toy-story-5-first-reactions-praise-pixar-sequel/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2440,6 +2508,12 @@
   <url>
     <loc>https://soontrend.com/articles/ukraine-strikes-cargo-ships-and-admits-romania-drone-blast-as-putin-prepares-for-key-speech/</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/un-chief-visits-haiti-new-international-force/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
