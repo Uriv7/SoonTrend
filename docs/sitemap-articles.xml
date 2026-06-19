@@ -1104,6 +1104,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jelly-roll-hospital-treatment-bunnie-xo-divorce/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jetblue-airspace-operating-costs-soar/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1321,6 +1327,20 @@
       </news:publication>
       <news:publication_date>2026-06-15T00:00:00Z</news:publication_date>
       <news:title>Main Page Under Siege: Critical System Failure Looms</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-cybersecurity-threat/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Cybersecurity Threat Uncovered</news:title>
     </news:news>
   </url>
   <url>
@@ -1628,6 +1648,20 @@
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mortgage-rates-dropped-this-week-as-iran-peace-deal-took-shape/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
+      <news:title>Rates Tumble: Mortgage Rates Dropped This Week As Iran Peace Deal Took Shape - June 18</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/mother-sues-openai-chatgpt-suicide/</loc>
@@ -2503,6 +2537,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Supreme Court Rejects Former Trump Adviser Carter Page's Bid to Revive James Comey Lawsuit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/supreme-court-sides-with-texas-man-in-landmark-gun-rights-ruling/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
+      <news:title>Supreme Court Sides with Texas Man in Landmark Gun Rights Ruling</news:title>
     </news:news>
   </url>
   <url>
