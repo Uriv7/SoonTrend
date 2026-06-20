@@ -346,6 +346,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/asia-markets-fall-u-s-iran-peace-deal/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T00:00:00Z</news:publication_date>
+      <news:title>Asia Markets Fall As Investors Assess Durability of U.S.-Iran Peace Deal: What's At Stake?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/asia-stocks-rise-gingerly-on-ai-recovery-israel-iran-deescalation/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
@@ -396,6 +410,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/billionaire-tax-backers-offer-to-slash-tax-in-exchange-for-newsoms-support/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T00:00:00Z</news:publication_date>
+      <news:title>Billionaire Tax Backers Offer to Slash Tax in Exchange for Newsom's Support</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/billionaire-tax-officially-enough-signatures-california-ballot/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -436,6 +464,12 @@
       <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
       <news:title>Bitcoin Wipeout: Market Plunges as Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected-And Then Some</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/blue-paint-peeling-reflecting-pool/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/boosting-unsubstantiated-claims-politics-democracy/</loc>
@@ -624,6 +658,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cocktail-2-chaos-unfolds/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T00:00:00Z</news:publication_date>
+      <news:title>Cocktail 2 Chaos Unfolds: Experts Warn of Widespread Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cocktail-2-surge-in-popularity/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -762,6 +810,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/democrat-hannah-pingree-maga-ally/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/disclosure-day-slug/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -828,6 +882,12 @@
   <url>
     <loc>https://soontrend.com/articles/everything-you-need-to-know-state-of-unreal-2026-unreal-engine-6-unreal-engine-5-8/</loc>
     <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/family-burger-chains-beating-mcdonalds-and-burger-king/</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1378,6 +1438,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-glitch-exposed/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Scrutiny: Critical Glitch Exposed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-outage/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>daily</changefreq>
@@ -1844,6 +1918,12 @@
   <url>
     <loc>https://soontrend.com/articles/oil-gas-supplies-crisis/</loc>
     <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/oil-prices-falling-stocks-up-traders-worry/</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
