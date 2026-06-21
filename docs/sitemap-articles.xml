@@ -734,6 +734,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cocktail-2-critical-mass-experts-warn/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Cocktail 2 Hits Critical Mass: Experts Warn of Widespread Impact</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cocktail-2-outbreak-unfolds/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -950,6 +964,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/dua-lipa-reveals-her-main-wedding-dress-chanel-haute-couture/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/eight-people-killed-b-52-bomber-crash/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -982,6 +1002,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/faa-investigates-close-call-at-boston-airport/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>FAA Probes Shocking Near-Miss at Busy Airport</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/family-burger-chains-beating-mcdonalds-and-burger-king/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1006,6 +1040,18 @@
       <news:publication_date>2026-06-15T00:00:00Z</news:publication_date>
       <news:title>FBI Simulates Cyberattacks in Secret Town - Your Security at Risk?</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fed-chair-kevin-warsh-sentiments-data-over-party/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/feds-warsh-era-new-vibe-investors/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/fifa-world-cup-2026-unite-football-fans/</loc>
@@ -1440,6 +1486,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/luigi-mangione-change-of-heart-psyche-defense-overruled/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Luigi Mangione's Shocking Reversal: 'Change of Heart' Sets Off Alarms</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/magnetoelectric-antennas-communication/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -1555,6 +1615,20 @@
       </news:publication>
       <news:publication_date>2026-06-15T00:00:00Z</news:publication_date>
       <news:title>Main Page Under Siege: Critical System Failure Looms</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-critical-updates/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Updates and What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
@@ -2940,6 +3014,12 @@
       <news:publication_date>2026-06-07T00:00:00Z</news:publication_date>
       <news:title>The OnlyFans Economy of American AI: A Growing Concern</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/the-real-love-company-made-her-feel-whole-then-daddy-said-to-strip-naked/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-smallest-brain-you-can-build-a-perceptron-in-python/</loc>
