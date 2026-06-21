@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -193,6 +193,20 @@
       </news:publication>
       <news:publication_date>2026-06-15T00:00:00Z</news:publication_date>
       <news:title>Airborne Emergency Unfolds: 2026 Rio de Janeiro Mid-Air Collision Claims Lives</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/aircraft-narrowly-avoid-collision-at-intersection-of-runways/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Aircraft Narrowly Avoid Collision at Intersection of Runways</news:title>
     </news:news>
   </url>
   <url>
@@ -400,6 +414,12 @@
   <url>
     <loc>https://soontrend.com/articles/backrooms-film/</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bedford-train-crash-importance-of-railway-safety/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -700,6 +720,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cocktail-2-containment-crisis/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Cocktail 2 Erupts in Global Containment Crisis</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cocktail-2-outbreak-unfolds/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -856,6 +890,20 @@
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/delta-american-flights-close-call-faa-investigation/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
+      <news:title>Delta, American Flights in Close Call: FAA Investigation Underway</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/democrat-hannah-pingree-maga-ally/</loc>
@@ -1632,7 +1680,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
+      <news:title>Main Page Under Siege: Critical Issues Emerge</news:title>
     </news:news>
   </url>
   <url>
@@ -1884,6 +1932,12 @@
       <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
       <news:title>Rates Tumble: Mortgage Rates Dropped This Week As Iran Peace Deal Took Shape - June 18</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/moscow-oil-refinery-attack-russia-war-ukraine-closer-home/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/mother-sues-openai-chatgpt-suicide/</loc>
@@ -2160,6 +2214,12 @@
   <url>
     <loc>https://soontrend.com/articles/pope-to-find-secularized-society/</loc>
     <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/popping-a-cocktail-of-supplements/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
