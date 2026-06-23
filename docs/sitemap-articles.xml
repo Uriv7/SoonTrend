@@ -1574,6 +1574,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/lausd-superintendent-alberto-carvalho-resigns-amid-fbi-investigation/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lionel-messi/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1885,7 +1891,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -1893,8 +1899,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-22T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical Updates Emerge</news:title>
+      <news:publication_date>2026-06-23T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Imminent System Crash</news:title>
     </news:news>
   </url>
   <url>
@@ -2092,6 +2098,12 @@
       <news:publication_date>2026-06-12T00:00:00Z</news:publication_date>
       <news:title>Menopause Hormone Therapy Demand Surges, But Training Gaps Widen</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/meta-pauses-ai-training-program-after-data-leak-employee-ire/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/micron-technology-stock-alert-up-174-year-to-date/</loc>
@@ -2350,6 +2362,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/openai-daybreak-gpt-5-5-cyber-sparks-global-fears/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T00:00:00Z</news:publication_date>
+      <news:title>AI Uprising: OpenAI DayBreak – GPT-5.5-Cyber Sparks Global Fears</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/openai-daybreak-gpt-55-cyber-breach-alert/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -2459,6 +2485,20 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>AI in Court Statements Halted: Urgent Order Issued</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/polymarket-deceptive-videos/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T00:00:00Z</news:publication_date>
+      <news:title>Deceptive Videos Flood Social Media</news:title>
     </news:news>
   </url>
   <url>
@@ -3522,6 +3562,20 @@
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/voicemails-for-isabelle-unidentified-messages-flood-users-phones/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T00:00:00Z</news:publication_date>
+      <news:title>Voicemails for Isabelle: Unidentified Messages Flood Users' Phones</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/voicemails-for-isabelle-unleash-chaos-experts-warn-of-catastrophic-consequences/</loc>
