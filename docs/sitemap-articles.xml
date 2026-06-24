@@ -614,6 +614,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cancer-death-rate-plunge-disparities-report/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Cancer Death Rate Plunge Hides Alarming Disparities, Experts Warn</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cancer-research-innovation-and-collaboration/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1044,6 +1058,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/disease-breaks-out-in-wild-rabbit-population-experts-warn-of-possible-human-spread/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Disease Breaks Out in Wild Rabbit Population: Experts Warn of Possible Human Spread</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/doe-announces-17-5-billion-loans-nuclear-reactor-supply-chain/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>daily</changefreq>
@@ -1374,6 +1402,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/haystack-open-source-ai-framework/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hepatitis-b-cure-vaccine-breakthrough/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
@@ -1556,6 +1590,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/judge-rules-against-immigration-arrests-at-us-courthouses/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Immigration Arrests at US Courthouses Blocked by Judge</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/judge-rules-swear-trumps-weaponization-fund-dead-to-kill-lawsuit/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
@@ -1610,6 +1658,12 @@
   <url>
     <loc>https://soontrend.com/articles/knicks-sports-dartboard-envy-unifying-city/</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/krea-2-sota-open-weights-12b-image-model/</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2222,6 +2276,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/microsoft-quantum-leap-challenged/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Quantum Leap Under Fire</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/mid-air-collision-2026-rio-de-janeiro-incident/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>daily</changefreq>
@@ -2454,6 +2522,12 @@
   <url>
     <loc>https://soontrend.com/articles/oliver-tree-singer/</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/open-source-ai-way-forward/</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
