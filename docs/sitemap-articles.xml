@@ -1024,6 +1024,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/developmental-issues-kids-moms-key-health-issue/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>62% Surge in Developmental Issues in Kids Linked to Moms' Key Health Issue: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/disclosure-day-slug/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1070,6 +1084,12 @@
   <url>
     <loc>https://soontrend.com/articles/eight-people-killed-b-52-bomber-crash/</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/elizabeth-banks-rebooting-beloved-family-adventure-franchise/</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2078,6 +2098,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/market-plunge-s-p-500-futures-little-changed-after-tech-sell-off/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Market Plunge: S&P 500 Futures Little Changed After Tech Sell-Off</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/markets-triple-threat-war-ai-bubble-fed-rates/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
@@ -2614,6 +2648,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ransom-note-claimed-nancy-guthrie-died-after-abduction/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/reagan-national-airport-july-4th-flight-schedule/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2734,6 +2774,20 @@
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/senate-passes-housing-bill-to-boost-affordability/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Housing Crisis Ignites: Senate Passes Bill to Boost Affordability</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/show-hn-paca-revolution/</loc>
@@ -3230,6 +3284,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/study-finds-90s-babies-aging-faster/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/supreme-court-bars-rastafarian-man-from-suing-prison-guards-for-shaving-his-dreadlocks/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/supreme-court-rejects-carter-page-james-comey-lawsuit/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>daily</changefreq>
@@ -3488,6 +3554,20 @@
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-threatens-lawsuits-against-abc-over-reflecting-pool-reporting/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Trump Threatens Lawsuits Against ABC Over Reflection Pool Reporting</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ufc-freedom-250-ratings-explained/</loc>
