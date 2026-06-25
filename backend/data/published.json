@@ -8923,5 +8923,125 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 12,
     "excerpt": "Mysterious voicemail messages addressed to 'Isabelle' are flooding inboxes worldwide, sparking concerns about personal safety and security. Users are advised to remain vigilant and report any suspicious activity to the relevant authorities, taking proactive steps to protect themselves and their loved ones."
+  },
+  {
+    "topic": "The Alarming Trend of Medical Students Using Popular Research Tools to Produce Misleading Studies",
+    "slug": "medical-students-misusing-research-tools",
+    "title": "Medical Students Misusing Research Tools: A Growing Concern",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "medical research",
+      "research tools",
+      "medical students",
+      "research ethics",
+      "academic integrity",
+      "medical research misconduct",
+      "research methodology"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Medical students are using popular research tool to pump out misleading studies, a trend that has significant implications for the validity and reliability of medical research. It is essential to address this issue to ensure the credibility and validity of medical research."
+  },
+  {
+    "topic": "Court filings reveal a shocking connection between President Trump and a Live Nation CEO, raising questions about dealmaking and antitrust cases.",
+    "slug": "court-filing-live-nation-ceo-antitrust-case",
+    "title": "Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled: Insider dealmaking",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "insider dealmaking",
+      "antitrust cases",
+      "Live Nation CEO",
+      "President Trump",
+      "court filing",
+      "business implications",
+      "dealmaking",
+      "politics",
+      "business",
+      "antitrust"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "The recent court filing has revealed a previously unknown connection between President Trump and a Live Nation CEO, raising questions about the role of politics in business dealmaking and the potential for insider influence. Insider dealmaking refers to the practice of using personal connections and relationships to influence business decisions, often using political connections, friendships, or other personal relationships to gain an advantage in negotiations or to secure favorable treatment."
+  },
+  {
+    "topic": "Stock Market in Chaos: S&P 500, Nasdaq Hit Pause After Tech Rout with Micron in Focus",
+    "slug": "stock-market-in-chaos-sp-500-nasdaq-hit-pause-after-tech-rout-with-micron-in-focus",
+    "title": "Stock Market in Chaos: S&P 500, Nasdaq Hit Pause After Tech Rout with Micron in Focus",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "S&P 500",
+      "Nasdaq",
+      "tech rout",
+      "Micron",
+      "investors",
+      "economy"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9,
+    "excerpt": "The S&P 500 and Nasdaq have hit pause after a tech rout, with Micron at the center of attention. The sudden decline has sent shockwaves through the financial markets, leaving investors scrambling for answers."
+  },
+  {
+    "topic": "Billionaire's Billion-Dollar Blunder: What Does Elon Musk's Loss of Trillionaire Status Mean for You?",
+    "slug": "elon-musk-trillionaire-status-spacex-stock-crashes",
+    "title": "Trillionaire Turmoil: Elon Musk Loses Status as SpaceX Stock Crashes",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "business",
+      "finance",
+      "economy",
+      "space exploration",
+      "Elon Musk",
+      "SpaceX",
+      "trillionaire status"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Elon Musk loses his trillionaire status as SpaceX's stock price takes a sharp dive, wiping out billions of dollars in market value. The implications of this sudden change are far-reaching and multifaceted, and only time will tell what the ultimate consequences will be."
+  },
+  {
+    "topic": "Air Canada Flight Diverts in Crisis: Captain's Medical Emergency Sparks Chaos",
+    "slug": "air-canada-flight-diverts-captains-medical-emergency",
+    "title": "Air Canada Flight Diverts in Crisis: Captain's Medical Emergency Sparks Chaos",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "Air Canada",
+      "captain's medical emergency",
+      "aviation safety",
+      "health risks",
+      "airline safety procedures",
+      "medical emergencies at high altitudes"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Air Canada flight diverted to Boston after captain's medical emergency, raising concerns about aviation safety. Passengers on board the flight are affected, and airlines are being urged to review their medical emergency procedures and protocols."
+  },
+  {
+    "topic": "Main Page Mainframe Collapse: The World Held Hostage",
+    "slug": "main-page-global-crisis",
+    "title": "Main Page Under Siege: A Global Crisis Unfolds",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page",
+      "online infrastructure",
+      "information blackout",
+      "main page failure",
+      "digital crisis"
+    ],
+    "date": "2026-06-25",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The main page has suffered a catastrophic collapse, leaving users without access to critical information and services. The main page's main developers are working around the clock to resolve the issue, but progress has been slow."
   }
 ]
