@@ -9483,5 +9483,137 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "A mysterious phenomenon of voicemails for Isabelle is sweeping the globe, leaving experts baffled and users concerned. The situation highlights the importance of data security and privacy in the digital age, and the need for greater transparency and accountability in the digital realm."
+  },
+  {
+    "topic": "The Supreme Court's Impact on Immigration Policy and Trump's Agenda: A Game-Changer for Border Security",
+    "slug": "supreme-court-immigration-agenda-trump",
+    "title": "Supreme Court Hands Trump Major Victories on Immigration Agenda and Boosts Border Security",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "immigration policy",
+      "border security",
+      "Trump administration",
+      "Supreme Court decision",
+      "comprehensive immigration reform"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "The Supreme Court hands Trump major victories on his immigration agenda, significantly boosting border security and impacting millions of lives. This landmark decision has far-reaching implications for immigration policy, shaping the future of the country's borders."
+  },
+  {
+    "topic": "Unlock the Secrets to a Healthy Aging: Why Doctor Says People Who Stay Healthy As They Get Older Avoid Getting Too Comfortable",
+    "slug": "doctor-says-people-who-stay-healthy-as-they-get-older-avoid-getting-too-comfortable",
+    "title": "Doctor Says People Who Stay Healthy As They Get Older Avoid Getting Too Comfortable – Unlock Longevity",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "health",
+      "wellness",
+      "aging",
+      "longevity",
+      "self-care",
+      "healthy living"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Doctor says people who stay healthy as they get older avoid getting too comfortable, but what does this really mean? By prioritizing your health and well-being, you can experience a range of benefits, including improved physical and mental health, increased energy and vitality, and a greater sense of purpose and fulfillment in your life."
+  },
+  {
+    "topic": "The PCE Report: What You Need to Know About the Fed's Preferred Inflation Measure",
+    "slug": "pce-report-rate-hike",
+    "title": "PCE Report: Fed's Preferred Inflation Measure Hits 3-Year High, Keeping Rate Hike in Play",
+    "category": "Finance",
+    "content_type": "article",
+    "tags": [
+      "PCE report",
+      "Federal Reserve",
+      "interest rates",
+      "inflation",
+      "monetary policy"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "The PCE report has hit a 3-year high, sparking renewed speculation about a possible rate hike. The report provides a comprehensive picture of inflation trends, which is essential for policymakers and investors alike."
+  },
+  {
+    "topic": "BREAKING: Supreme Court Blocks Thousands of Suits Claiming Roundup Causes Cancer",
+    "slug": "supreme-court-blocks-roundup-cancer-lawsuits",
+    "title": "Supreme Court Blocks Thousands of Suits Claiming Roundup Causes Cancer: What's Next",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "glyphosate",
+      "Roundup",
+      "non-Hodgkin's lymphoma",
+      "chemical industry",
+      "regulation",
+      "science",
+      "health"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Supreme Court has blocked thousands of lawsuits claiming that Roundup causes cancer, citing a lack of evidence linking the herbicide to non-Hodgkin's lymphoma. The decision has significant implications for consumers, farmers, and the environment, making it a major victory for Monsanto and a devastating blow for plaintiffs."
+  },
+  {
+    "topic": "California Billionaire Tax on Brink of Historic Ballot Battle: What This Means for Your Finances",
+    "slug": "california-billionaire-tax-ballot-battle",
+    "title": "California Billionaire Tax on Brink of Historic Ballot Battle",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "California politics",
+      "billionaire tax",
+      "wealth inequality",
+      "financial landscape",
+      "ballot battle"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "A proposed California billionaire tax headed for ballot despite top Democrats' opposition is poised to ignite a historic battle over wealth distribution and potentially reshape the financial landscape for millions of Americans. If passed, it would be the first state-level wealth tax in the US and could pave the way for similar measures in other states."
+  },
+  {
+    "topic": "Billionaire Tax Proposal to Hit November Ballot: What to Expect",
+    "slug": "billionaire-tax-proposal-november-ballot",
+    "title": "Billionaire Tax Proposal Set for November Ballot: What Does It Mean for You?",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "politics",
+      "economy",
+      "individual wealth",
+      "tax reform",
+      "income inequality"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "A highly contested proposal to impose a tax on billionaires will appear on the November ballot, raising questions about its impact on the economy and individual wealth. The proposal aims to tax individuals with a net worth exceeding $100 million, and it will be put to a vote in November."
+  },
+  {
+    "topic": "Supreme Court Allows Trump to Remove Protections for Thousands of Haitian and Syrian Immigrants",
+    "slug": "supreme-court-decision-rocks-immigrant-communities",
+    "title": "Supreme Court Decision Rocks Immigrant Communities: Protections Removed for Thousands",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Immigration",
+      "Politics",
+      "Supreme Court",
+      "Trump administration",
+      "Haitian immigrants",
+      "Syrian immigrants",
+      "Immigrant rights",
+      "Immigration law"
+    ],
+    "date": "2026-06-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Supreme Court has allowed the Trump administration to remove protections for thousands of Haitian and Syrian immigrants, sparking widespread concerns and uncertainty about the fate of these vulnerable communities. The decision is seen as a major setback for immigrant communities and a significant blow to the efforts of immigrant rights advocates."
   }
 ]
