@@ -9615,5 +9615,151 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "The Supreme Court has allowed the Trump administration to remove protections for thousands of Haitian and Syrian immigrants, sparking widespread concerns and uncertainty about the fate of these vulnerable communities. The decision is seen as a major setback for immigrant communities and a significant blow to the efforts of immigrant rights advocates."
+  },
+  {
+    "topic": "Iran's aggressive actions in the Strait of Hormuz have significant implications for global trade and economic stability.",
+    "slug": "iran-strikes-cargo-ship-un-backed-route-strait-hormuz-global-trade-implications",
+    "title": "Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz: Global Trade Implications",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Iran",
+      "Strait of Hormuz",
+      "global trade",
+      "maritime security",
+      "U.N.-backed shipping routes",
+      "oil trade",
+      "security risks",
+      "global economy",
+      "instability",
+      "maritime security measures"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz, causing major disruptions to global trade and economic stability. The incident highlights the ongoing security risks in the region and the need for robust maritime security measures to protect global trade."
+  },
+  {
+    "topic": "What's changing for King Charles and the British monarchy, thanks to taxes and royal duties?",
+    "slug": "king-charles-buckingham-palace-taxes",
+    "title": "King Charles won't live in Buckingham Palace, reveals taxes and royal duties",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "politics",
+      "monarchy",
+      "taxes",
+      "royal duties",
+      "financial struggles",
+      "Buckingham Palace",
+      "renovations",
+      "long-term viability"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "King Charles won't live in Buckingham Palace, reveals taxes that will significantly impact royal duties and the monarchy's future, causing many to question the long-term viability of the institution. The decision to abandon Buckingham Palace is a significant move, but it is only the beginning of a broader conversation about the monarchy's financial struggles and its ability to adapt to a changing world."
+  },
+  {
+    "topic": "Uncovering the Quadratic Relationship Between Kinetic Energy and Speed",
+    "slug": "kinetic-energy-increase-quadratic",
+    "title": "Kinetic Energy Increase: Quadratic Not Linear Speed Benefit",
+    "category": "Science",
+    "content_type": "article",
+    "tags": [
+      "kinetic energy",
+      "quadratic relationship",
+      "speed",
+      "energy",
+      "motion",
+      "physics",
+      "engineering",
+      "technology"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "The kinetic energy of an object increases quadratically with its speed, and understanding this relationship is essential for making accurate predictions and optimizing system performance. Learn more about the quadratic relationship between kinetic energy and speed, and discover the benefits and implications of this fundamental principle, including the question of why does kinetic energy increase quadratically, not linearly, with speed? (2011)."
+  },
+  {
+    "topic": "California billionaire tax headed for ballot despite top Democrats' opposition: What you need to know",
+    "slug": "california-billionaire-tax-ballot-opposition",
+    "title": "California billionaire tax headed for ballot despite top Democrats' opposition: What happens next?",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "tax reform",
+      "income inequality",
+      "wealthy individuals",
+      "ballot initiative",
+      "billionaire income tax",
+      "economic impact",
+      "California billionaire tax"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "A proposed tax on billionaires is heading for the ballot, defying opposition from top Democrats. The measure, which would impose a 95% tax on income above $50 million, has sparked a heated debate about the role of the wealthy in the economy."
+  },
+  {
+    "topic": "Supreme Court Allows Trump to End Protected Status for Migrants: What This Means for You",
+    "slug": "supreme-court-allows-trump-to-end-protected-status-for-migrants",
+    "title": "Supreme Court Allows Trump to End Protected Status for Migrants: What This Means for You",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Supreme Court",
+      "Trump immigration policy",
+      "Haitian migrants",
+      "Syrian migrants",
+      "temporary protected status",
+      "immigration policy"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Supreme Court has allowed former President Trump to end protected status for Haitian and Syrian migrants, impacting thousands of individuals worldwide. The decision raises questions about the responsibility of the United States to protect refugees and asylum seekers."
+  },
+  {
+    "topic": "Luigi Mangione's Lawyers Discredit Report of Guilty Plea Deal Talks Amidst Ongoing Speculation",
+    "slug": "luigi-mangione-lawyers-discredit-guilty-plea-deal-talks",
+    "title": "Luigi Mangione's Lawyers Discredit Report of Guilty Plea Deal Talks",
+    "category": "Law",
+    "content_type": "news",
+    "tags": [
+      "Luigi Mangione",
+      "Law",
+      "Guilty Plea",
+      "Plea Deal",
+      "Lawyers",
+      "Discredit",
+      "Report",
+      "Controversy",
+      "Speculation"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "Luigi Mangione's lawyers have discredited a report claiming the possibility of guilty plea deal talks, sparking a wave of confusion and debate. The implications of Luigi Mangione's Lawyers Discredit Report of Guilty Plea Deal Talks are far-reaching, potentially impacting the broader community, and it is essential to stay informed and up-to-date on the latest developments."
+  },
+  {
+    "topic": "Main Page Under Siege: Urgent Changes Ahead",
+    "slug": "main-page-under-siege",
+    "title": "Main Page Under Siege: Urgent Changes Ahead",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page disruptions",
+      "digital ecosystem",
+      "critical services",
+      "data breaches",
+      "recovery and rebuilding",
+      "comprehensive plan",
+      "timeline for full recovery"
+    ],
+    "date": "2026-06-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Main Page is experiencing unprecedented changes, with reports of outages and disruptions flooding social media. The consequences of these disruptions are far-reaching, with millions of users affected worldwide. Learn what this means for you and what to watch for next."
   }
 ]

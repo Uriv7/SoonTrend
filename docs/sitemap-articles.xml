@@ -656,6 +656,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/california-billionaire-tax-ballot-opposition/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
+      <news:title>California billionaire tax headed for ballot despite top Democrats' opposition: What happens next?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/californian-dies-from-rare-disease-after-trapping-rats-in-rv/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1634,6 +1648,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/iran-strikes-cargo-ship-un-backed-route-strait-hormuz-global-trade-implications/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/iran-team-forced-to-leave-u-s-immediately-after-world-cup-draw-amid-protests-against-tehran/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1768,6 +1788,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/kinetic-energy-increase-quadratic/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/king-charles-buckingham-palace-taxes/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/knicks-sports-dartboard-envy-unifying-city/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -1841,6 +1873,20 @@
       </news:publication>
       <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
       <news:title>Luigi Mangione's Shocking Reversal: 'Change of Heart' Sets Off Alarms</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/luigi-mangione-lawyers-discredit-guilty-plea-deal-talks/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
+      <news:title>Luigi Mangione's Lawyers Discredit Report of Guilty Plea Deal Talks</news:title>
     </news:news>
   </url>
   <url>
@@ -2159,7 +2205,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2167,8 +2213,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-26T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical Updates as Crisis Unfolds</news:title>
+      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Urgent Changes Ahead</news:title>
     </news:news>
   </url>
   <url>
@@ -3682,6 +3728,20 @@
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/supreme-court-allows-trump-to-end-protected-status-for-migrants/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
+      <news:title>Supreme Court Allows Trump to End Protected Status for Migrants: What This Means for You</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/supreme-court-bars-rastafarian-man-from-suing-prison-guards-for-shaving-his-dreadlocks/</loc>
