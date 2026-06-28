@@ -10043,5 +10043,143 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "The Main Page is experiencing a critical failure, leaving millions worldwide without access to critical information. Experts warn of catastrophic consequences, highlighting the need for greater investment in infrastructure and cybersecurity. Users should take steps to prepare for the worst, including setting up a backup plan for accessing critical information and reviewing their digital footprint."
+  },
+  {
+    "topic": "The End of Putin's Regime: How War Spending Chaos Will Bring It Down",
+    "slug": "putin-regime-end-war-spending",
+    "title": "Putin's Regime End: War Spending Chaos Looms — Expert",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "war spending",
+      "regime change",
+      "economic instability",
+      "humanitarian crisis",
+      "international pressure",
+      "political opposition"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "The end of Putin's regime will spring from war spending chaos, former central bank advisor says, and this is a scenario that is becoming increasingly plausible. With the economy in shambles, it is likely that the regime will struggle to maintain its grip on power."
+  },
+  {
+    "topic": "Understanding the 'Packed to the Brim' Trump Rally with 45K Guests",
+    "slug": "trump-rally-attendance-45k-guests",
+    "title": "Trump Rally Attendance: 'Packed to the Brim' with 45K Guests",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Trump",
+      "rally",
+      "attendance",
+      "Great American State Fair",
+      "political events",
+      "crowd size",
+      "event management",
+      "public gatherings"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "The 'Packed to the Brim': Trump says 45K guests attend Great American State Fair rally event was a highly attended event that was held at the Great American State Fair, with an estimated 45,000 guests in attendance. The event was a platform for Trump to address his supporters and share his vision for the future, and it promoted civic engagement and provided a sense of community and connection among attendees."
+  },
+  {
+    "topic": "A revolutionary blood test has been developed to detect 90% of aggressive prostate cancer cases, outperforming traditional screenings and giving men a second chance at life.",
+    "slug": "blood-test-detects-aggressive-prostate-cancer",
+    "title": "Breakthrough Blood Test Detects 90% of Aggressive Prostate Cancer Cases",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "prostate cancer",
+      "blood test",
+      "cancer detection",
+      "early detection",
+      "aggressive prostate cancer",
+      "prostate cancer screening",
+      "cancer treatment",
+      "prostate cancer diagnosis"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "A blood test has been developed to detect 90% of aggressive prostate cancer cases, a significant improvement over traditional screenings. By detecting cancer earlier, men can receive treatment and enjoy a better quality of life."
+  },
+  {
+    "topic": "Stock Market in Turmoil: S&P 500, Nasdaq Snap 2-Week Win Streak Amid AI Jitters",
+    "slug": "stock-market-turmoil-sp-500-nasdaq-2-week-win-streak-snapped-ai-jitters",
+    "title": "Stock Market in Turmoil: S&P 500, Nasdaq Snap 2-Week Win Streak Amid AI Jitters",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "S&P 500",
+      "Nasdaq",
+      "AI jitters",
+      "tech stocks",
+      "market analysis",
+      "economic news"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The S&P 500 and Nasdaq have snapped their 2-week win streak, plunging into uncertain territory as AI jitters pressure tech stocks. Investors are left scrambling for answers, and experts are warning of potential long-term consequences."
+  },
+  {
+    "topic": "Ancient Tablets Show Markets Worked 4,000 Years Before Economists Explained Them: A Paradigm Shift in Global Economics",
+    "slug": "ancient-tablets-show-markets-worked-4k-years-before-economists-explained-them",
+    "title": "Market Revolution Uncovered: Ancient Tablets Reveal 4,000-Year-Old Trading Secrets",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "Ancient Tablets",
+      "4,000-Year-Old Market System",
+      "Global Economics",
+      "Economic Theories",
+      "Financial Community"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Ancient tablets uncovered in a hidden archaeological site have revealed a 4,000-year-old market system, challenging conventional economic theories and sending shockwaves through the global financial community. The implications of this discovery are far-reaching and will be felt for generations to come."
+  },
+  {
+    "topic": "OpenAI Limits Its Latest ChatGPT Product to Trump-Approved Customers During Cybersecurity Review",
+    "slug": "openai-limits-chatgpt-trump-approved-customers-cybersecurity-review",
+    "title": "OpenAI Limits ChatGPT to Trump-Approved Customers Amid Cybersecurity Review",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "cybersecurity",
+      "AI",
+      "tech",
+      "Trump"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "OpenAI has restricted access to ChatGPT to users vetted by Trump during a cybersecurity review, sparking widespread concern over the potential risks of AI technology."
+  },
+  {
+    "topic": "Main Page Under Siege: Critical Vulnerability Exposed",
+    "slug": "main-page-under-siege-critical-vulnerability-exposed",
+    "title": "Main Page Under Siege: Critical Vulnerability Exposed",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page",
+      "vulnerability",
+      "cybersecurity",
+      "security",
+      "data breach",
+      "threat",
+      "risk"
+    ],
+    "date": "2026-06-28",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Main Page faces unprecedented threat as critical vulnerability is exposed, posing significant risk to users worldwide. Users should exercise extreme caution when accessing Main Page and report any suspicious activity to the authorities."
   }
 ]
