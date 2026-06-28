@@ -466,6 +466,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/avatar-the-last-airbender-2024-tv-series-return/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
+      <news:title>Avatar: The Last Airbender (2024 TV series) Makes Shattering Return to Small Screens</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/b-52-crash-tragedy/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -482,6 +496,20 @@
     <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bayer-supreme-court-victory-cancer-patients/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
+      <news:title>Bayer's Supreme Court Victory Sparks Outrage: 'No One Is Standing Up For Cancer Patients'</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/bedford-train-crash-importance-of-railway-safety/</loc>
@@ -738,6 +766,12 @@
   <url>
     <loc>https://soontrend.com/articles/cape-verde-discovery/</loc>
     <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cape-verde-island/</loc>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1403,7 +1437,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/fifa-world-cup-2026/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2063,7 +2097,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2071,8 +2105,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-26T00:00:00Z</news:publication_date>
-      <news:title>Breaking: Main Page Crisis Unfolds</news:title>
+      <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Experts Warn of Unprecedented Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -3250,6 +3284,12 @@
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/saks-emerges-from-bankruptcy-with-reduced-debt/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/saks-reduces-debt-new-name/</loc>
@@ -4527,7 +4567,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/voicemails-for-isabelle/</loc>
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4535,8 +4575,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
-      <news:title>Voicemails for Isabelle: A Mystery Unfolds</news:title>
+      <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
+      <news:title>Voicemails for Isabelle: A Mysterious Shift in Communication Patterns</news:title>
     </news:news>
   </url>
   <url>
