@@ -45,7 +45,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup/</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -523,6 +523,20 @@
       </news:publication>
       <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
       <news:title>Avatar: The Last Airbender (2024 TV series) Makes Shattering Return to Small Screens</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/avatar-the-last-airbender-2024-tv-series-revolutionizes-the-future-of-storytelling/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T00:00:00Z</news:publication_date>
+      <news:title>Avatar: The Last Airbender (2024 TV series) Revolutionizes the Future of Storytelling</news:title>
     </news:news>
   </url>
   <url>
@@ -2000,6 +2014,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/landmark-obesity-drug-coverage-for-seniors/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/last-minute-lawsuit-halts-ufc-white-house-event/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>daily</changefreq>
@@ -2444,7 +2464,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-29T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: A Critical Inflection Point for the Digital Age</news:title>
+      <news:title>Main Page Under Siege: Unprecedented Hack Exposes Vulnerabilities</news:title>
     </news:news>
   </url>
   <url>
@@ -4306,6 +4326,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/tidal-ai-policy-sparks-global-controversy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T00:00:00Z</news:publication_date>
+      <news:title>Tidal AI Policy Sparks Global Controversy: Experts Warn of Unintended Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/tokenomics-business-growth/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -4328,6 +4362,12 @@
   <url>
     <loc>https://soontrend.com/articles/toy-story-5-first-reactions-praise-pixar-sequel/</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tpain-debuts-unreleased-oliver-tree-song/</loc>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4685,6 +4725,20 @@
       </news:publication>
       <news:publication_date>2026-06-29T00:00:00Z</news:publication_date>
       <news:title>Voicemails for Isabelle Mysteriously Disappear Without Notice</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/voicemails-for-isabelle-surge-inboxes-worldwide/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T00:00:00Z</news:publication_date>
+      <news:title>Voicemails for Isabelle: Mysterious Messages Flood Inboxes Worldwide</news:title>
     </news:news>
   </url>
   <url>
