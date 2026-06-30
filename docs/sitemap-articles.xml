@@ -45,7 +45,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup/</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -296,6 +296,12 @@
   <url>
     <loc>https://soontrend.com/articles/american-airlines-flight-aborts-takeoff/</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/amid-steam-machine-performance-scrutiny/</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2518,7 +2524,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
+      <news:title>Main Page Under Siege: Experts Warn of Widespread Impact</news:title>
     </news:news>
   </url>
   <url>
@@ -3030,6 +3036,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/news-self-hosting-domain-launched/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
+      <news:title>New Domain '.self' Revolutionizes Self-Hosting: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/newsom-double-standard-billionaires-tax/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -3152,7 +3172,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
-      <news:title>Breaking: Open Source Low Tech Revolution Gains Momentum</news:title>
+      <news:title>Open Source Low Tech Revolution Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -4250,6 +4270,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/supreme-court-allows-states-to-count-late-mail-in-ballots/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
+      <news:title>Court Ruling Opens Floodgates for Late Mail-in Ballots</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/supreme-court-allows-trump-to-end-protected-status-for-migrants/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -4354,6 +4388,12 @@
   <url>
     <loc>https://soontrend.com/articles/targeting-cancer-specific-mutations-with-rna-triggered-chromatin-shredding/</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tarp-covered-kennedy-center-hosts-mark-twain-prize-event-as-comedians-poke-fun-at-trump/</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4748,6 +4788,12 @@
   <url>
     <loc>https://soontrend.com/articles/victor-wembanyama-next-generation-basketball-superstars/</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/violence-as-disease/</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
