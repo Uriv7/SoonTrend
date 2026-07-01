@@ -268,6 +268,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/alzheimers-spreads-through-brain/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/amazon-drops-sam-altman-movie-openai/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -461,6 +467,20 @@
       </news:publication>
       <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
       <news:title>Asia Stocks Rise Gingerly on AI Recovery, Israel-Iran Deescalation: What's Behind the Bounce?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asia-stocks-soar-china-pmi-surges-tech-fuels-record-quarter/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Asia Stocks Soar as China PMI Surges, Tech Fuels Record Quarter</news:title>
     </news:news>
   </url>
   <url>
@@ -1928,6 +1948,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ismael-saibari-scandal-rocks-global-community/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Ismael Saibari Scandal Rocks Global Community with Shocking Revelations</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/israeli-airstrikes-after-ceasefire-deal/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2146,6 +2180,12 @@
   <url>
     <loc>https://soontrend.com/articles/local-qwen-different-tool/</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/louis-c-k-ridiculous-netflix-special-review/</loc>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2555,7 +2595,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2563,8 +2603,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Widespread Impact</news:title>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -3274,6 +3314,12 @@
       <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
       <news:title>OpenAI Limits ChatGPT to Trump-Approved Customers Amid Cybersecurity Review</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/paraguay-shock-win-germany-world-cup-upsets/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/pce-report-rate-hike/</loc>
@@ -4101,6 +4147,20 @@
       </news:publication>
       <news:publication_date>2026-06-25T00:00:00Z</news:publication_date>
       <news:title>Stock Market in Chaos: S&P 500, Nasdaq Hit Pause After Tech Rout with Micron in Focus</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-on-high-alert/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Stock Market On High Alert: Dow, S&P 500, Nasdaq Futures Steady After Record-Setting Session</news:title>
     </news:news>
   </url>
   <url>
