@@ -928,6 +928,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/china-factory-activity-tech-export-demand/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/christian-pulisic-profile/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1458,6 +1464,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/erling-haaland-performance/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/eu-ukraine-start-formal-accession-talks-orban-delay/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1902,6 +1914,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ismael-saibari-disappearance/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Ismael Saibari's Mysterious Disappearance Sets Off Global Panic</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/israeli-airstrikes-after-ceasefire-deal/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1937,6 +1963,20 @@
       </news:publication>
       <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
       <news:title>How Japan's Railways Stood Firm in the Face of Chaos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/japan-stocks-yen-hits-40-year-low-markets-wrap/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Markets in Turmoil: Japan Stocks Set to Climb as Yen Hits 40-Year Low: Markets Wrap</news:title>
     </news:news>
   </url>
   <url>
@@ -2417,7 +2457,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-system-failure/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2425,8 +2465,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical System Failure Threatens Global Access</news:title>
+      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Unprecedented System Failure - What This Means for You</news:title>
     </news:news>
   </url>
   <url>
