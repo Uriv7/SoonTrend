@@ -1278,6 +1278,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cyclosporiasis-outbreak-cdc-investigation-prevention-methods/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/daisy-head-chaos-experts-warn-of-imminent-disruption/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>daily</changefreq>
@@ -1446,6 +1452,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/doj-probes-gallego-for-campaign-finance-violations/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
+      <news:title>DOJ Probes Gallego for Campaign Finance Violations: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/dow-jumps-600-points-hits-fresh-record-on-potential-iran-deal/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1537,6 +1557,12 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/explosion-in-monaco-reportedly-wounds-ukrainian-tycoon-with-ties-to-russia/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/explosion-in-monaco-ukrainian-tycoon/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2355,7 +2381,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-experts-warn/</loc>
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2363,8 +2389,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
-      <news:title>Main Page in Crisis: Experts Warn of Catastrophic Consequences</news:title>
+      <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
+      <news:title>Main Page in Crisis: Experts Warn of Imminent System Failure</news:title>
     </news:news>
   </url>
   <url>
@@ -3142,6 +3168,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/nasa-space-telescope-rendezvous/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
+      <news:title>NASA's Desperate Bid to Save a Sinking Space Telescope</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/new-research-links-even-low-alcohol-consumption-to-cancer-heart-disease-and-premature-death/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
@@ -3688,6 +3728,12 @@
   <url>
     <loc>https://soontrend.com/articles/russia-ukraine-conflict-crimea-fuel-cuts/</loc>
     <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/russian-ballistic-missiles-slam-kyiv-as-ukraine-braces-for-unprecedented-mass-attack/</loc>
+    <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4588,6 +4634,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/supreme-court-strikes-down-finance-rules/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
+      <news:title>Supreme Court Strikes Down Finance Rules</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/supreme-court-strikes-down-hawaii-vampire-rule-gun-owners/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -4622,6 +4682,12 @@
   <url>
     <loc>https://soontrend.com/articles/tarp-covered-kennedy-center-hosts-mark-twain-prize-event-as-comedians-poke-fun-at-trump/</loc>
     <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/taylor-swift-wedding-nda-details-leak/</loc>
+    <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
