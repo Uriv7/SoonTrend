@@ -12055,5 +12055,104 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "Main Page experiencing critical system failure, with multiple servers crashing and data loss reported. Experts warn of widespread disruption, economic losses, and decreased trust in institutions if not addressed soon."
+  },
+  {
+    "topic": "Uncovering the Truth About Taylor Swift's Wedding NDA and Celebrity NDAs: Separating Fact from Fiction",
+    "slug": "taylor-swift-wedding-nda-details-leak",
+    "title": "Taylor Swift Wedding NDA Details Leak After Report She Cut Out an Attendee Who Can’t Be Trusted: The Ultimate Guide",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "Taylor Swift",
+      "Celebrity weddings",
+      "Non-disclosure agreements",
+      "Wedding planning",
+      "Celebrity relationships",
+      "Wedding secrets",
+      "Celebrity gossip"
+    ],
+    "date": "2026-07-02",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Taylor Swift wedding NDA details leak after report she cut out attendee who can't be trusted. Learn the latest on celebrity NDAs and their impact on weddings."
+  },
+  {
+    "topic": "DOJ Investigating Gallego for Campaign Finance Violations: What's Next?",
+    "slug": "gallego-campaign-finance-investigation",
+    "title": "Gallego Embroiled in Campaign Finance Scandal: DOJ Launches Investigation",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Gallego",
+      "DOJ",
+      "campaign finance",
+      "election",
+      "integrity"
+    ],
+    "date": "2026-07-02",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The US Department of Justice is investigating Gallego for campaign finance violations, potentially impacting the outcome of the election and highlighting the need for greater transparency and accountability in campaign finance practices."
+  },
+  {
+    "topic": "Landmark AI Patent Ruling: A New Era in Intellectual Property",
+    "slug": "ai-patent-ruling-top-court-landmark-decision",
+    "title": "AI Patent Ruling: Top Court's Landmark Decision",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "intellectual property",
+      "innovation",
+      "progress",
+      "tech industry",
+      "patents",
+      "inventions",
+      "companies",
+      "individuals",
+      "law"
+    ],
+    "date": "2026-07-02",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "In a landmark decision, Japan's top court has ruled that AI cannot be listed as inventor on patent applications, marking a significant shift in intellectual property law. The ruling has major implications for the tech industry, and may limit the ability of companies to obtain patents for AI-generated inventions."
+  },
+  {
+    "topic": "NASA Aims to Save Sinking Space Telescope in Desperate Orbits",
+    "slug": "nasa-saves-space-telescope-rendezvous-orbit",
+    "title": "NASA Aims to Save Sinking Space Telescope in Desperate Orbits",
+    "category": "Science",
+    "content_type": "news",
+    "tags": [
+      "NASA",
+      "space telescope",
+      "space exploration",
+      "space debris",
+      "orbital trajectories",
+      "Hail Mary pass",
+      "legacy of space exploration"
+    ],
+    "date": "2026-07-02",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "NASA aims to save a sinking space telescope with a rendezvous in orbit, a desperate bid to salvage a $10 billion investment that could have far-reaching consequences for the future of space exploration."
+  },
+  {
+    "topic": "Supreme Court Strikes Down Long-Standing Campaign Finance Restrictions: What This Means for You",
+    "slug": "supreme-court-strikes-down-long-standing-campaign-finance-restrictions",
+    "title": "Supreme Court Strikes Down Long-Standing Campaign Finance Restrictions",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Supreme Court",
+      "campaign finance reform",
+      "money in politics",
+      "elections",
+      "politics"
+    ],
+    "date": "2026-07-02",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Supreme Court has struck down long-standing campaign finance restrictions, paving the way for corporate and individual donors to pour millions into elections. The influx of money into politics will likely lead to a greater emphasis on fundraising and a more professionalized campaign apparatus."
   }
 ]
