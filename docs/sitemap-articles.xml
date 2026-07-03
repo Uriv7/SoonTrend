@@ -942,6 +942,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/carplay-is-additive/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/catching-the-first-upcoming-eclipse/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1246,6 +1252,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/crustc-entirety-of-rustc-translated-to-c/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/curacao-island/</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1496,6 +1508,20 @@
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/egg-producers-pay-3-3-million-price-fixing-lawsuit/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
+      <news:title>Egg Producers Face $3.3 Million Fine Over Alleged Price-Fixing</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/eight-people-killed-b-52-bomber-crash/</loc>
@@ -3738,6 +3764,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/reality-has-a-surprising-amount-of-detail-2017/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
+      <news:title>Reality's Stunning Reveal: 'A Surprising Amount of Detail' Exposed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/realitys-hidden-layers/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
@@ -3852,6 +3892,12 @@
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>S&P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/safari-mcp-server-web-developers/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/saks-emerges-from-bankruptcy-with-reduced-debt/</loc>
@@ -4055,6 +4101,20 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:00Z</news:publication_date>
       <news:title>Market Turmoil: Stocks Plummet 5% as AI-Linked Tech Giants Tank</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
+      <news:title>Global Market Chaos: South Korean Stocks Tumble 6% as AI Jitters Hurt Chipmakers</news:title>
     </news:news>
   </url>
   <url>
@@ -4782,6 +4842,20 @@
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/swift-kelce-donate-to-food-bank-childrens-mercy/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Swift, Kelce Donate to Food Bank, Children's Mercy - A Beacon of Hope Amidst Crisis</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/swift-space-telescope-rescue-mission/</loc>
