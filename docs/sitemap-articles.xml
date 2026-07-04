@@ -404,6 +404,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/apple-responds-to-youtube-lawsuit-with-shocking-counterclaim/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
+      <news:title>Apple Responds to Lawsuit Filed by Three YouTube Channels with Shocking Counterclaim</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/apple-third-generation-foundation-models/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -628,6 +642,12 @@
   <url>
     <loc>https://soontrend.com/articles/bedford-train-crash-importance-of-railway-safety/</loc>
     <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bessent-trump-crypto-earnings/</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -914,6 +934,12 @@
   <url>
     <loc>https://soontrend.com/articles/cape-verde-island/</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cape-verde-paradise-found/</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1328,6 +1354,12 @@
       <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
       <news:title>Cyclosporiasis Outbreak: Know the Signs and Prevention</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cyclosporiasis-outbreak-prevention-management/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/daisy-head-chaos-experts-warn-of-imminent-disruption/</loc>
@@ -2848,6 +2880,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-undergoes-cataclysmic-overhaul/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Cataclysmic Overhaul: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-undergoes-catastrophic-system-failure/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
@@ -3846,6 +3892,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-news/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary Film Update</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/prostate-cancer-radiotherapy-breakthrough/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -4193,6 +4253,20 @@
       </news:publication>
       <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
       <news:title>Society of Saint Pius X Crisis Rocks Conservative Catholic Community</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/society-of-saint-pius-x-faces-critical-juncture/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
+      <news:title>Society of Saint Pius X Faces Critical Juncture Amid Internal Power Struggle</news:title>
     </news:news>
   </url>
   <url>
@@ -4994,6 +5068,12 @@
   <url>
     <loc>https://soontrend.com/articles/swift-space-telescope-rescue-mission/</loc>
     <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/synthetic-life-milestone/</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
