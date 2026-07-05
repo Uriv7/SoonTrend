@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup-experience/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -986,6 +986,12 @@
   <url>
     <loc>https://soontrend.com/articles/cape-verde-tourism/</loc>
     <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cape-verde-tropical-paradise/</loc>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2994,6 +3000,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-update-alert/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Main Page Alert: Critical Updates Unfold</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-update-concerns/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -3999,7 +4019,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-news/</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4007,8 +4027,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
-      <news:title>Project Hail Mary Film Update</news:title>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary Film Sparks Global Interest</news:title>
     </news:news>
   </url>
   <url>
@@ -5008,6 +5028,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/sugar-shock-10-deceptively-healthy-foods/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Sugar Shock: 10 Foods Deceptively High in Sugar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/supergirl-2026-film-benefits/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -5574,6 +5608,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ultratraditionalists-rebellion-pope-leo-vatican/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/un-chief-visits-haiti-new-international-force/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -5860,6 +5900,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/vozinha-benefits-communication/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/waffle-house-smoking-employees-lawsuit/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
@@ -5913,6 +5959,20 @@
       </news:publication>
       <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
       <news:title>Ways and Means Chair Warns He Won't Support Next Reconciliation Bill Without Tax Provisions</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/web-based-cryptography-is-always-snake-oil/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Web-based cryptography is always snake oil - Experts Warn of Looming Cybersecurity Threat</news:title>
     </news:news>
   </url>
   <url>
