@@ -540,6 +540,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/atomic-force-microscope-revolution/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Atomic Force Microscope Revolution</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/australian-right-wing-leader-pauline-hanson-says-multiculturalism-has-failed/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -948,6 +962,12 @@
   <url>
     <loc>https://soontrend.com/articles/cape-verde-island/</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cape-verde-national-football-team/</loc>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2376,6 +2396,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/kylian-mbappe-football/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/landmark-obesity-drug-coverage-for-seniors/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2420,6 +2446,12 @@
       <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
       <news:title>Legionnaires' Disease Outbreak in 2 NYC Neighborhoods Has Health Officials on High Alert</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/lionel-messi-greatest-footballer-all-time/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/lionel-messi/</loc>
@@ -2907,7 +2939,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2915,8 +2947,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Unprecedented Downtime Sparks Global Concern</news:title>
     </news:news>
   </url>
   <url>
@@ -3356,6 +3388,20 @@
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mouse-precision-editing-tools-for-ai-coding-agents/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>AI Coding Revolution: Mouse Precision Editing Tools Unveiled</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/murder-charges-james-handys-death-paused/</loc>
@@ -3938,6 +3984,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-new-trailer-released/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
+      <news:title>New Trailer Released for Project Hail Mary (film), Leaving Fans Breathless</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-news/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
@@ -4256,6 +4316,12 @@
       <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
       <news:title>Revolutionary Tool Unveiled: Show HN: Paca</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/sidny-lopes-cabral-transformation/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/sign-in-with-apple-hide-my-email-new-email-domain/</loc>
