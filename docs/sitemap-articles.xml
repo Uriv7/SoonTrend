@@ -44,6 +44,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/2026-fifa-world-cup-preview/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup-spectacle/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1696,6 +1702,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/erling-haaland-football-forward/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/erling-haaland-performance/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2481,7 +2493,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-nyc-neighborhoods/</loc>
-    <lastmod>2026-07-03</lastmod>
+    <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -2489,8 +2501,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
-      <news:title>Legionnaires' Disease Outbreak in 2 NYC Neighborhoods Has Health Officials on High Alert</news:title>
+      <news:publication_date>2026-07-06T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Disease Outbreak Skyrockets to 14 Cases in 2 NYC Neighborhoods: Experts Warn of Growing Threat</news:title>
     </news:news>
   </url>
   <url>
@@ -3054,6 +3066,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-undergoes-sudden-changes/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Sudden, Unprecedented Changes: Experts Baffled</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-update-2024/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>daily</changefreq>
@@ -3538,6 +3564,12 @@
       <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
       <news:title>Musk's SpaceX Surges Past Amazon in Market Cap</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/naomi-osaka-tennis-star/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/nasa-rescue-mission-swift-space-telescope/</loc>
@@ -4125,6 +4157,20 @@
       </news:publication>
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Project Hail Mary Film Sparks Global Interest</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-release/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary Film Release Sparks Curiosity</news:title>
     </news:news>
   </url>
   <url>
@@ -5388,7 +5434,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-06T00:00:00Z</news:publication_date>
-      <news:title>Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs Break the Internet</news:title>
+      <news:title>BREAKING: Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs Unveiled</news:title>
     </news:news>
   </url>
   <url>
