@@ -14373,5 +14373,149 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "The Main Page has undergone a sudden and unexpected change in search algorithms, causing widespread confusion and changes to how we browse the internet. You may need to rethink your online habits and adapt to a new way of navigating the web."
+  },
+  {
+    "topic": "Will Prince Harry's Court Loss Crush His and Meghan Markle's Finances and Upend Their Lives?",
+    "slug": "prince-harry-court-loss-finances",
+    "title": "Prince Harry's Court Loss Could Devastate His and Meghan Markle's Finances Forever",
+    "category": "Finance",
+    "content_type": "article",
+    "tags": [
+      "Royal Family finances",
+      "Prince Harry court case",
+      "Meghan Markle's financial struggles",
+      "Royal family expenses",
+      "Financial implications of a royal court case",
+      "Prince Harry and Meghan Markle's court loss",
+      "Royal court losses and their financial consequences",
+      "Prince Harry and Meghan Markle's future financial security"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9,
+    "excerpt": "Prince Harry's court loss could devastate his and Meghan Markle's finances, leaving them with significant financial burdens and uncertain futures. The couple's financial struggles have been well-documented, with reports suggesting that they have struggled to maintain their luxurious lifestyle on their royal salaries. With their court loss, they may be facing an even greater financial challenge, one that could have a lasting impact on their future security."
+  },
+  {
+    "topic": "What's Behind SpaceX's Nasdaq Debut and What Does It Mean for the Future of Space Exploration?",
+    "slug": "space-x-nasdaq-debut-wall-street-reveals",
+    "title": "SpaceX Makes Nasdaq Debut As Wall Street Reveals What It Really Thinks: Unlocking the Future of Space Exploration",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "SpaceX",
+      "Nasdaq",
+      "private space industry",
+      "space exploration",
+      "Elon Musk",
+      "rocket technology"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9,
+    "excerpt": "SpaceX Makes Nasdaq Debut As Wall Street Reveals What It Really Thinks: Stay ahead of the curve in the rapidly evolving space industry with the latest insights and analysis. SpaceX's Nasdaq debut has provided the company with much-needed funding, which will be used to further develop its rocket technology and pursue its ambitious plans for space exploration."
+  },
+  {
+    "topic": "What Does Platner's Senate Bid Decision Mean for American Politics?",
+    "slug": "platner-senate-bid-benefits",
+    "title": "Platner Says He's Taking Time to Consider Future of Senate Bid Benefits",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "politics",
+      "governance",
+      "voter engagement",
+      "election strategy",
+      "campaign finance",
+      "Senate election process",
+      "candidate decision-making",
+      "political benefits",
+      "governance impact"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Platner says he's taking time to consider future of Maine Senate bid, a decision that will require careful consideration of the pros and cons. A Senate bid can have numerous benefits for politicians, including the opportunity to shape the country's laws and policies, as well as the chance to hold a leadership position in the Senate."
+  },
+  {
+    "topic": "AI Stocks in Free Fall: Experts Warn of Further Contraction",
+    "slug": "ai-stocks-resume-their-drops-and-drag-markets-lower-worldwide",
+    "title": "AI Stocks Resume Their Drops, Drag Markets Lower Worldwide: What's Next?",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "AI stocks",
+      "market contraction",
+      "investor concerns",
+      "global economy",
+      "regulatory frameworks",
+      "emerging technologies"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "AI stocks have resumed their downward trajectory, dragging markets lower worldwide. Experts warn of potential consequences for the global economy, making this a critical moment for investors and policymakers alike."
+  },
+  {
+    "topic": "Breaking: Stein Signs GOP-Proposed Budget, Lower Taxes and Raises for State Employees",
+    "slug": "stein-signs-gop-proposed-budget-lower-taxes-raises",
+    "title": "Stein Signs GOP-Proposed Budget, Lower Taxes and Raises for Employees Ahead",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Stein signs GOP-proposed NC budget",
+      "lower taxes",
+      "raises for state employees",
+      "governance news",
+      "economic growth",
+      "job creation",
+      "Republican Party",
+      "Stein signs budget",
+      "budget news"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Stein has signed the GOP-proposed NC budget, paving the way for lower taxes and raises for state employees, a move that is expected to boost economic growth and improve the quality of life for citizens."
+  },
+  {
+    "topic": "Main Page Emergency: What You Need to Know Immediately",
+    "slug": "main-page-crisis",
+    "title": "Breaking: Main Page Crisis Unfolds",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page",
+      "crisis",
+      "recovery",
+      "stability",
+      "access point",
+      "services",
+      "information"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "The Main Page, a critical access point for millions, is facing an unprecedented crisis. Stay updated on the latest developments and what this means for you, as experts work to resolve the issue and restore functionality. The situation is complex, but with the right approach, the Main Page can recover and return to its central role."
+  },
+  {
+    "topic": "Elaine Chao Scandal Rocks Washington: What You Need to Know",
+    "slug": "elaine-chao-scandal-implications-for-you",
+    "title": "Elaine Chao Embroiled in Scandal: What It Means for You",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Elaine Chao",
+      "scandal",
+      "misuse of funds",
+      "Trump administration",
+      "government spending",
+      "transparency and accountability",
+      "politics",
+      "government"
+    ],
+    "date": "2026-07-08",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Elaine Chao, former US Secretary of Transportation, is at the center of a growing scandal surrounding alleged misuse of funds. The scandal has significant implications for American citizens and raises questions about the integrity of the Trump administration."
   }
 ]
