@@ -15591,5 +15591,155 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "The Main Page is undergoing a major overhaul, with a focus on improving user experience and enhancing content discovery. This transformation is set to have a significant impact on how users engage with online content, making it easier than ever for users to find and share relevant information."
+  },
+  {
+    "topic": "Florida's West Palm Beach Airport Renamed After Trump: What Does it Mean for Travelers?",
+    "slug": "florida-west-palm-beach-airport-renamed-after-trump-but-flyers-still-see-pbi-code",
+    "title": "Florida's West Palm Beach Airport Renamed After Trump, But Flyers Still See PBI Code - What's Next?",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "airport renaming",
+      "Trump airport",
+      "PBI airport code",
+      "airport naming controversy",
+      "traveler impact"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Florida's West Palm Beach airport is now named after Trump, but flyers will still see the PBI airport code – for now. The renaming decision was made in a bid to attract more business and tourism to the area, but it has sparked controversy among some locals. As the airport continues to operate under its new name, travelers can expect to see the PBI code remain unchanged."
+  },
+  {
+    "topic": "What happens when Trump says he'll ask Supreme Court to rehear birthright citizenship case?",
+    "slug": "trump-supreme-court-birthright-citizenship-case",
+    "title": "Trump Says He'll Ask Supreme Court to Rehear Birthright Citizenship Case: Explained",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "birthright citizenship",
+      "Trump immigration policy",
+      "Supreme Court birthright citizenship",
+      "birthright citizenship news",
+      "birthright citizenship case"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Trump says he'll ask Supreme Court to rehear birthright citizenship case, potentially challenging a fundamental right that has been upheld by the Supreme Court. Learn the details and implications of this decision."
+  },
+  {
+    "topic": "Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75, leaving behind a legacy of timeless hits and unforgettable performances.",
+    "slug": "bonnie-tyler-total-eclipse-heart-dies-75",
+    "title": "Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75: A Legendary Voice Lost",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "Bonnie Tyler",
+      "Total Eclipse of the Heart",
+      "80s music",
+      "legendary singers",
+      "music icons",
+      "rock music",
+      "pop culture"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Bonnie Tyler, the iconic Welsh singer famed for her powerful voice and hit songs like ‘Total Eclipse of the Heart,’ has passed away at the age of 75, leaving behind a legacy of unforgettable music and performances that will continue to inspire and entertain fans for generations to come. Her music has been praised for its emotional depth, memorable melodies, and soaring vocals, creating a timeless sound that has captivated audiences for decades."
+  },
+  {
+    "topic": "What Happens When Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One?",
+    "slug": "trump-switches-back-to-qatari-plane",
+    "title": "Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One: Benefits and Risks",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Trump",
+      "Qatari plane",
+      "Air Force One",
+      "presidential travel",
+      "transportation"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Trump switches back to Qatari plane after leaving Turkey on old Air Force One. The Qatari plane offers a range of benefits, including improved fuel efficiency and reduced maintenance costs."
+  },
+  {
+    "topic": "Oil prices and stock markets worldwide hold steadier as AI stocks climb: A game-changer for investors",
+    "slug": "oil-prices-stock-markets-ai-stocks-climb",
+    "title": "Oil prices and stock markets worldwide hold steadier as AI stocks climb: A game-changer for investors",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "stocks",
+      "economy",
+      "investors",
+      "business",
+      "technology"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Oil prices and stock markets worldwide are holding steadier as AI stocks continue to surge, a trend that is sending shockwaves through the financial community. Global investors are closely watching as the AI sector continues to grow, with many experts predicting a significant shift in the global economy."
+  },
+  {
+    "topic": "The Computation Revolution: A New Era of Innovation and Transformation",
+    "slug": "computation-tipping-point-revolution",
+    "title": "Computation's Tipping Point: A Revolution in the Making",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "computation",
+      "artificial intelligence",
+      "machine learning",
+      "data science",
+      "innovation",
+      "transformation"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Computation has reached a tipping point, with far-reaching implications for industries and individuals alike. The integration of artificial intelligence, machine learning, and data science has created new opportunities for innovation and transformation, with the potential to unlock new levels of efficiency, productivity, and innovation."
+  },
+  {
+    "topic": "Main Page Crashes: A Wake-Up Call for the Digital Age",
+    "slug": "main-page-chaos-experts-warn-of-catastrophic-consequences",
+    "title": "Main Page Chaos: Experts Warn of Catastrophic Consequences",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page crash",
+      "digital age",
+      "catastrophic consequences",
+      "information access",
+      "infrastructure",
+      "preparedness"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Main Page has crashed, leaving millions without access to critical information. Experts say this is a wake-up call for the digital age, reminding us of the need for greater investment in infrastructure and the importance of being prepared for the unexpected."
+  },
+  {
+    "topic": "Total Eclipse of the Heart: How This Unprecedented Event Will Affect Us All",
+    "slug": "total-eclipse-of-the-heart",
+    "title": "Total Eclipse of the Heart: Global Phenomenon Reaches Critical Mass",
+    "category": "Science",
+    "content_type": "news",
+    "tags": [
+      "Total Eclipse of the Heart",
+      "global phenomenon",
+      "science",
+      "sociology",
+      "psychology",
+      "emotional intelligence"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "A Total Eclipse of the Heart has reached critical mass, affecting millions of people worldwide and sparking widespread concern about its implications for individuals and societies. The phenomenon is expected to continue for several weeks, with some experts predicting a peak in intensity in the next few days."
   }
 ]
