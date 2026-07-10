@@ -15435,5 +15435,161 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "New York City health officials are racing against time to identify the source of a Legionnaires' disease outbreak that has infected 36 people in the Upper East Side. Residents are urged to take precautions to protect themselves and their families from the outbreak."
+  },
+  {
+    "topic": "Get the inside scoop from an Apple Silicon Exec on Mac Mini AI Demand and On-Device Future",
+    "slug": "apple-silicon-exec-explains-mac-mini-ai-demand-and-on-device-future-benefits",
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future Benefits",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Apple Silicon",
+      "Mac Mini",
+      "AI",
+      "Machine Learning",
+      "On-Device Processing",
+      "Neural Engine",
+      "M1 Pro",
+      "M1 Max",
+      "Global AI Chip Market"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Get the inside scoop from an Apple Silicon Exec on Mac Mini AI Demand and On-Device Future, and learn how Apple is empowering users to unlock the full potential of AI and machine learning."
+  },
+  {
+    "topic": "Fidji Simo's Decision to Leave OpenAI's AGI Project Leaves Industry Leaders Wondering",
+    "slug": "fidji-simo-openai-agi-work-departure",
+    "title": "Fidji Simo's Departure from OpenAI's AGI Work Impacts AI Research",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Artificial General Intelligence",
+      "AGI Research",
+      "Fidji Simo OpenAI",
+      "AI Development",
+      "AGI Departure"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Fidji Simo's departure from OpenAI’s AGI work due to illness marks a significant shift in the AI research landscape, highlighting the challenges facing AGI researchers and the need for a multidisciplinary approach to AGI development."
+  },
+  {
+    "topic": "Uncovering Biased World Cup Referee Decisions: The Egypt Argentina Controversy",
+    "slug": "egypt-complains-officials-biased-world-cup-loss-argentina",
+    "title": "Egypt Complains Officials Were Biased in World Cup Loss to Argentina - Uncovering the Truth",
+    "category": "Sports",
+    "content_type": "article",
+    "tags": [
+      "biased refereeing",
+      "fair refereeing",
+      "international sports competitions",
+      "World Cup",
+      "Egypt",
+      "Argentina",
+      "corruption in sports",
+      "unfair game play"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Egypt complains officials were biased in World Cup loss to Argentina, sparking debate about the fairness of refereeing decisions in international sports competitions. Biased refereeing can have serious consequences for the integrity of the game, including damage to the reputation of the sport, loss of fan trust, and financial losses for teams and sponsors."
+  },
+  {
+    "topic": "E. Jean Carroll's $5 million award win from Trump suit: A landmark victory for accountability and justice.",
+    "slug": "e-jean-carroll-trump-suit-award",
+    "title": "E. Jean Carroll must be paid $5 million award from Trump suit, judge says - Accountability Ensured",
+    "category": "Law",
+    "content_type": "article",
+    "tags": [
+      "Trump lawsuit",
+      "E. Jean Carroll",
+      "Accountability",
+      "Justice",
+      "Harassment",
+      "Landmark court decision",
+      "Politics",
+      "Law"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "E. Jean Carroll's $5 million award from Trump suit: A landmark victory for accountability and justice. The $5 million award is a testament to the power of the justice system in holding perpetrators accountable and providing relief to victims."
+  },
+  {
+    "topic": "Chip Shortage Chaos: $250 Billion Investment Unleashed Amid Crisis",
+    "slug": "micron-ceo-details-250-billion-us-investment-amid-chip-memory-shortage",
+    "title": "Chip Shortage Chaos: $250 Billion Investment Unleashed Amid Crisis",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "chip shortage",
+      "memory crisis",
+      "Micron CEO",
+      "$250 billion investment",
+      "global impact"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Micron CEO has revealed plans to invest $250 billion in the US to combat the ongoing chip and memory shortage, sparking widespread concern and excitement among industries and individuals worldwide, with experts warning of a potential perfect storm for global economies."
+  },
+  {
+    "topic": "Ukraine's Drone Playbook Sparks a New Era of Warfare",
+    "slug": "ukraine-drone-playbook-russia-nato",
+    "title": "Ukraine's Drone Playbook Sparks a New Era of Warfare",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Ukraine",
+      "Russia",
+      "NATO",
+      "drone warfare",
+      "global security"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Ukraine's drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest, forcing a major rethink of defense planning. The stakes are high, with Ukraine's military facing off against a powerful and well-equipped adversary."
+  },
+  {
+    "topic": "Justin Baldoni Breaks Silence on 'It Ends With Us' Legal Battle with Blake Lively: 'Painful Things'",
+    "slug": "justin-baldoni-breaks-silence-on-it-ends-with-us-legal-battle",
+    "title": "Justin Baldoni Breaks Silence on 'It Ends With Us' Legal Battle with Blake Lively: 'Painful Things'",
+    "category": "Entertainment",
+    "content_type": "news",
+    "tags": [
+      "Justin Baldoni",
+      "Blake Lively",
+      "It Ends With Us",
+      "legal battle",
+      "controversy",
+      "film production",
+      "creative control"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Justin Baldoni breaks silence on 'It Ends With Us' legal battle with Blake Lively, revealing 'so many painful things' in the wake of the controversy. The outcome of the dispute will set a precedent for future productions."
+  },
+  {
+    "topic": "Main Page Overhaul: A Revolutionary Change That Will Redefine Your Online Experience",
+    "slug": "main-page-overhaul",
+    "title": "Main Page Undergoing Unprecedented Overhaul - What You Need to Know",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page",
+      "user experience",
+      "content discovery",
+      "online engagement",
+      "digital transformation"
+    ],
+    "date": "2026-07-10",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Main Page is undergoing a major overhaul, with a focus on improving user experience and enhancing content discovery. This transformation is set to have a significant impact on how users engage with online content, making it easier than ever for users to find and share relevant information."
   }
 ]
