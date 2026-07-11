@@ -2672,6 +2672,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/japans-experimental-reusable-rocket-safely-returns/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jelly-roll-daughter-bunnie-xo-divorce/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -3213,7 +3219,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
-    <lastmod>2026-07-07</lastmod>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -3221,8 +3227,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-07T00:00:00Z</news:publication_date>
-      <news:title>Main Page Crisis Unfolds: What You Need to Know Now</news:title>
+      <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Experts Warn of Widespread Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -4550,6 +4556,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/parents-of-nolan-wells-thorough-investigation/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/pce-report-rate-hike/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -5864,6 +5876,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stock-market-today-dow-futures-edge-up-ahead-of-sk-hynix-debut/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
+      <news:title>Dow Futures Surge as SK Hynix Readies for Historic Debut</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stock-market-today-dow-futures-volatility/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
@@ -6414,6 +6440,26 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/they-met-while-being-treated-for-brain-injuries-now-theyre-getting-married/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/thibaut-courtois-injury-world-cup/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
+      <news:title>Thibaut Courtois' Shocking Injury: Will It Affect the World Cup?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/three-indian-sailors-killed-in-us-strike-on-oil-tanker/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -6659,6 +6705,20 @@
       </news:publication>
       <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
       <news:title>Breaking: Trump Threatens Lawsuits Against ABC Over Reflection Pool Reporting</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-touts-micron-investment-250b-trump-effect/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
+      <news:title>Trump Touts $250B Micron Investment as 'The Trump Effect': What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
