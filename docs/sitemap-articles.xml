@@ -1176,6 +1176,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cbs-matt-gutman-phone-fraudster/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cervical-cancer-deaths-fall-to-zero-in-young-women-given-vaccine/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -2129,6 +2135,20 @@
       </news:publication>
       <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
       <news:title>FAA Probes Close Call at Private Airport: Low-Flying Plane Almost Hits Runway</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/facebook-billionaire-activist-funding-breakfast-prices/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Facebook Billionaire's Activist Funding Sends Breakfast Prices Soaring</news:title>
     </news:news>
   </url>
   <url>
@@ -3332,6 +3352,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-critical-issues-emerge/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Issues Emerge</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-critical-system-failure/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>daily</changefreq>
@@ -3878,6 +3912,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/maine-democrats-replace-graham-platner/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/marjorie-taylor-greene-bayer-supreme-court-roundup-victory/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -3966,6 +4006,20 @@
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mcgregor-makes-weight-ahead-of-ufc-329-bout-against-holloway/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>McGregor Makes Weight Ahead of UFC 329 Bout Against Holloway: A Tense Showdown Looms</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/medical-journal-retracts-study-claiming-cancer-therapy-is-more-effective-when-given-in-the-morning/</loc>
@@ -6626,6 +6680,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/tiny-glp-1-implant-breakthrough/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Tiny GLP-1 Implant Breakthrough: Revolutionizing Weight Loss</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/tokenomics-business-growth/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -6918,6 +6986,12 @@
   <url>
     <loc>https://soontrend.com/articles/ukraine-strikes-cargo-ships-and-admits-romania-drone-blast-as-putin-prepares-for-key-speech/</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ukraine-war-briefing-zelenskyy-decries-housing-weapons-civilian-areas/</loc>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
