@@ -1176,6 +1176,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/charles-hosted-prince-harry-family-years-repairing-family-rift/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/china-factory-activity-tech-export-demand/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -1698,6 +1704,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/devastating-evidence-charlie-kirk-murder-suspect/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Murder Suspect's Fate Hangs in Balance as 'Devastating' Evidence Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/developmental-issues-kids-moms-key-health-issue/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>daily</changefreq>
@@ -1972,6 +1992,12 @@
   <url>
     <loc>https://soontrend.com/articles/erling-haaland-football-forward/</loc>
     <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/erling-haaland-football-sensation/</loc>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3555,7 +3581,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -3563,8 +3589,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-08T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: A Critical Inflection Point</news:title>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: A Global Crisis Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -4504,6 +4530,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/openai-engineer-lol-moment-apple-legal-fight/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Apple vs. OpenAI: Engineer's 'LOL' Moment Triggers High-Stakes Legal Battle</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/openai-files-confidentially-for-ipo-as-ai-companies-rush-to-wall-st/</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -4558,6 +4598,12 @@
   <url>
     <loc>https://soontrend.com/articles/parents-of-nolan-wells-thorough-investigation/</loc>
     <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/patriot-missile-deal-trumps-praise-put-pressure/</loc>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4787,6 +4833,20 @@
       </news:publication>
       <news:publication_date>2026-07-04T00:00:00Z</news:publication_date>
       <news:title>Project Hail Mary Film Adaptation Confirmed</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-breaks-hollywood/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Breaking: 'Project Hail Mary (film)' Rocks Hollywood with Shocking Twist</news:title>
     </news:news>
   </url>
   <url>
