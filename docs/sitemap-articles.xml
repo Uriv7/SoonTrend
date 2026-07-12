@@ -530,6 +530,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/apple-vs-openai-tech-showdown/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Apple vs. OpenAI: A Tech Showdown That Will Change Everything</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/apple-wwdc-ai-demos-250m-false-ad-settlement/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
@@ -1176,10 +1190,30 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/charles-hosted-prince-harry-family-first-time-years-repair-family-rift/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/charles-hosted-prince-harry-family-years-repairing-family-rift/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/charlie-kirk-murder-suspect-court-evidence/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Charlie Kirk Murder Suspect Faces Devastating Evidence in Court</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/china-factory-activity-tech-export-demand/</loc>
@@ -2004,6 +2038,12 @@
   <url>
     <loc>https://soontrend.com/articles/erling-haaland-performance/</loc>
     <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/erling-haaland-superstar-striker/</loc>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2918,6 +2958,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/la-supermarket-shocking-incident/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Shocking LA Supermarket Act Exposed After Shopper Drops Dead in Aisle</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/landmark-obesity-drug-coverage-for-seniors/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3004,6 +3058,12 @@
       <news:publication_date>2026-07-07T00:00:00Z</news:publication_date>
       <news:title>Legionnaires' Outbreak Grows in Central Park, NYC Health Officials Warn</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/legionnaires-outbreak-prevention/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/lionel-messi-greatest-footballer-all-time/</loc>
@@ -3325,6 +3385,20 @@
       </news:publication>
       <news:publication_date>2026-06-19T00:00:00Z</news:publication_date>
       <news:title>Main Page Under Siege: Critical Cybersecurity Threat Uncovered</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-downtime-implications/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Catastrophic Downtime - What's Next for Users?</news:title>
     </news:news>
   </url>
   <url>
@@ -4066,6 +4140,12 @@
   <url>
     <loc>https://soontrend.com/articles/mike-johnson-defends-trump-inflation-comments/</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mikel-merino-world-cup-quarterfinals/</loc>
+    <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
