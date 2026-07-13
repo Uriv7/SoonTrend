@@ -134,6 +134,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/africa-renewable-energy-institutions/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-agent-bankrupted-operator-dn42/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -818,6 +824,20 @@
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/benoit-saint-denis-breakthrough/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Benoît Saint Denis: Groundbreaking Discovery Sparks Global Frenzy</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/benoit-saint-denis-scandal/</loc>
@@ -3120,6 +3140,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/legionnaires-outbreak-guggenheim-museum-among-nyc-buildings/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Outbreak Spreads to Guggenheim Museum among NYC Buildings</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/legionnaires-outbreak-prevention/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -3888,6 +3922,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-update/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoing Critical System Update</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-updates-and-analysis/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -4124,6 +4172,12 @@
   <url>
     <loc>https://soontrend.com/articles/meta-pauses-ai-training-program-after-data-leak-employee-ire/</loc>
     <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mexico-us-relations-worsening/</loc>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5139,6 +5193,20 @@
       </news:publication>
       <news:publication_date>2026-07-09T00:00:00Z</news:publication_date>
       <news:title>Project Hail Mary Film Release Imminent</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-space-exploration-cinema/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Project Hail Mary (film) Sets New Standard in Space Exploration Cinema</news:title>
     </news:news>
   </url>
   <url>
@@ -7142,6 +7210,12 @@
   <url>
     <loc>https://soontrend.com/articles/us-allows-anthropic-to-release-mythos-ai/</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz/</loc>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
