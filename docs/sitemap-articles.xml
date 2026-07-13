@@ -672,6 +672,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ask-hn-add-flag-for-ai-generated-articles/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Ask HN: Add Flag for AI-Generated Articles Sparks Urgent Debate</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/atomic-force-microscope-revolution/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
@@ -804,6 +818,20 @@
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/benoit-saint-denis-scandal/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Benoît Saint Denis Under Scrutiny After Shocking Revelations Emerge</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/bessent-trump-crypto-earnings/</loc>
@@ -2730,6 +2758,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jannik-sinner-tennis-prodigy/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/japan-railways-split-apart/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>daily</changefreq>
@@ -2798,6 +2832,12 @@
   <url>
     <loc>https://soontrend.com/articles/jordan-henderson-wrist-surgery-world-cup-injury/</loc>
     <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/jude-bellingham-football-talent/</loc>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3086,6 +3126,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/lindsey-graham-bio/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lionel-messi-greatest-footballer-all-time/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3251,6 +3297,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Main Page Crash Sparks Global Panic: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crash-threatens-global-stability/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Unprecedented Crash Threatens Global Stability</news:title>
     </news:news>
   </url>
   <url>
@@ -5026,6 +5086,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-major-milestone/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary (film) Hits Major Milestone: What it Means for Entertainment and Beyond</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-new-trailer-released/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
@@ -6758,6 +6832,12 @@
       <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
       <news:title>Trump Admin's Shocking Move to Block Clean Air Act Lawsuit Over xAI's Gas Turbines Sparks Fury</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-administration-subpoenas-new-york-times-reporters-after-air-force-one-reporting/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates/</loc>
