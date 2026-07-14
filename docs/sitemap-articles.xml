@@ -530,6 +530,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/apple-sues-openai-over-the-6-wildest-claims/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Apple Sues OpenAI Over 'The 6 Wildest Claims'</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/apple-sues-openai-trade-secrets/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2360,6 +2374,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/fundamentals-of-wireless-communication-2005-breakthrough/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough in Wireless Communication Technology Revealed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/g7-allies-scramble-ukraine-trump-agenda/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -3942,6 +3970,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-update-now/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Urgent Update Needed Now</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-update-sparks-concerns/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -4738,6 +4780,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/oil-prices-plummet-amid-us-iran-deal-uncertainty/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -5496,6 +5544,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/sam-neill-biography/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/save-ukraines-holiest-site-from-russian-strike/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -6152,6 +6206,20 @@
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-futures-plunge-amid-escalating-global-tensions/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Stock Futures Plunge Amid Escalating Global Tensions</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/stock-futures-plunge-amid-fragile-ceasefire/</loc>

@@ -17104,5 +17104,124 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "Benoît Saint Denis's reputation is under intense scrutiny as shocking allegations surface, sparking widespread concern about the implications for accountability and the consequences of his actions."
+  },
+  {
+    "topic": "As tensions rise between the US and Iran, oil prices are skyrocketing, threatening a global energy crisis.",
+    "slug": "oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz",
+    "title": "Oil Prices Jump as US and Iran Trade Attacks Over Strait of Hormuz: A Global Energy Crisis Looms",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "strait of hormuz",
+      "oil prices",
+      "iran us conflict",
+      "global energy crisis",
+      "oil price volatility",
+      "middle east oil supply",
+      "geopolitics of oil",
+      "iran us trade tensions"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz, sparking concerns of a global energy crisis. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to shipping traffic can have a significant impact on oil prices."
+  },
+  {
+    "topic": "Getting to Know Sam Neill: The Acclaimed Actor's Life and Career",
+    "slug": "sam-neill-biography",
+    "title": "Sam Neill Biography and Filmography — Explore His Life",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "sam neill",
+      "actor",
+      "entertainment",
+      "film",
+      "television",
+      "winemaking",
+      "entrepreneur"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Sam Neill is a renowned actor known for his versatile roles in film and television. With a career spanning over four decades, Sam Neill has appeared in a wide range of genres, from drama and comedy to science fiction and action. Discover his biography and filmography now and get inspired by his journey."
+  },
+  {
+    "topic": "Apple's Explosive Lawsuit Against OpenAI: What You Need to Know",
+    "slug": "apple-sues-openai-over-the-6-wildest-claims",
+    "title": "Apple Sues OpenAI Over 'The 6 Wildest Claims'",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Technology",
+      "OpenAI",
+      "Apple",
+      "AI development",
+      "artificial intelligence",
+      "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "OpenAI technology",
+      "Apple intellectual property"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Apple has filed a lawsuit against OpenAI, alleging that the AI company's technology infringes on its intellectual property. The lawsuit claims that OpenAI's technology is based on Apple's proprietary algorithms, and that the AI company has been using them without permission."
+  },
+  {
+    "topic": "Fundamentals of Wireless Communication (2005): A Revolution in Wireless Communication",
+    "slug": "fundamentals-of-wireless-communication-2005-breakthrough",
+    "title": "Breakthrough in Wireless Communication Technology Revealed",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "wireless communication",
+      "Fundamentals of Wireless Communication (2005)",
+      "wireless technology",
+      "5G",
+      "IoT"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The release of Fundamentals of Wireless Communication (2005) marks a significant milestone in the field of wireless communication, offering a comprehensive guide to the principles and concepts of wireless communication. The book's comprehensive coverage of wireless communication principles and concepts will enable readers to design and develop more effective wireless communication systems."
+  },
+  {
+    "topic": "Stock Futures Plunge Amid Escalating Global Tensions",
+    "slug": "stock-futures-plunge-amid-escalating-global-tensions",
+    "title": "Stock Futures Plunge Amid Escalating Global Tensions",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "stock futures",
+      "global tensions",
+      "market volatility",
+      "Kospi",
+      "U.S.-Iran conflict"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Stock futures slipped sharply after the U.S. and Iran exchanged airstrikes again, sending shockwaves through global markets. The Kospi, South Korea's benchmark stock index, plummeted 7% in early trading."
+  },
+  {
+    "topic": "Main Page Update: Critical Issue Requires Immediate Action",
+    "slug": "main-page-update-now",
+    "title": "Main Page Under Siege: Urgent Update Needed Now",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page",
+      "online security",
+      "online presence",
+      "critical issue",
+      "urgent update",
+      "glitch",
+      "online listing protection",
+      "main page resolution"
+    ],
+    "date": "2026-07-14",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Main Page is experiencing a critical issue that demands immediate attention. Take action now to protect your online listings and avoid potential losses."
   }
 ]
