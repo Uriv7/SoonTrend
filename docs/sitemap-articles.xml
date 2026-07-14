@@ -2168,6 +2168,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/european-anduril-rival-helsing-raises-1-8-billion-at-18-billion-valuation/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/everything-you-need-to-know-state-of-unreal-2026-unreal-engine-6-unreal-engine-5-8/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2358,6 +2364,20 @@
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/free-electricity-alert-energy-retailers-must-provide-3-hours-a-day/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Free Electricity Alert: Energy Retailers Must Provide 3 Hours a Day</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ftc-secures-right-to-repair-settlement-with-john-deere/</loc>
@@ -3228,6 +3248,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/lindsey-graham-politics/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lionel-messi-greatest-footballer-all-time/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3379,6 +3405,20 @@
       </news:publication>
       <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
       <news:title>The Main Page Conundrum: A Global Crisis Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crash-2024/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Main Page Alert: Global Chaos Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -4112,6 +4152,12 @@
   <url>
     <loc>https://soontrend.com/articles/maine-democrats-replace-graham-platner/</loc>
     <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/man-45-diagnosed-colorectal-cancer-first-symptom/</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5225,6 +5271,20 @@
       </news:publication>
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Breaking: 'Project Hail Mary (film)' Sets New Standard for Space Exploration</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-hollywood-gamble/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Hollywood's $100m Gamble on Project Hail Mary (film): What's at Stake</news:title>
     </news:news>
   </url>
   <url>
@@ -7743,6 +7803,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Why I Email Complete Strangers: The Surprising Truth Revealed</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/wireless-communication-revolution-now/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Wireless Communication Revolution: What You Need to Know Now</news:title>
     </news:news>
   </url>
   <url>
