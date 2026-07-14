@@ -470,6 +470,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/aortic-disease-awareness/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/appalachian-trail-rite-of-passage/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -898,6 +904,20 @@
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/big-banks-booming-revenue-spacex-iran/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Big Banks on Brink of Booming Revenue Surge</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/billionaire-rick-jackson-defeats-trump-backed-burt-jones/</loc>
@@ -2380,6 +2400,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/free-electricity-alert/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Free Electricity Alert: Daytime Power Shifts for Millions</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ftc-secures-right-to-repair-settlement-with-john-deere/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>daily</changefreq>
@@ -3629,6 +3663,20 @@
       </news:publication>
       <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
       <news:title>Main Page Undergoes Catastrophic Downtime - What's Next for Users?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-emergency-overhaul/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoing Emergency Overhaul</news:title>
     </news:news>
   </url>
   <url>
@@ -4986,6 +5034,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/paramount-warner-bros-merger-is-challenged-in-court/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/parents-of-nolan-wells-thorough-investigation/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -5790,6 +5844,20 @@
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/sk-hynix-stock-drops-amid-resurging-ai-fears/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
+      <news:title>SK Hynix Stock Drops 15% Amid Resurging AI Fears</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/social-security-funds-depletion/</loc>
@@ -7224,6 +7292,12 @@
   <url>
     <loc>https://soontrend.com/articles/trump-speech-attendance-fact-check/</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-strait-hormuz-shipping-risk/</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
