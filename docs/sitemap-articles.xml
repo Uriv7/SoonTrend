@@ -2318,6 +2318,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/fed-rate-hike-bets-mount-before-inflation-data-warsh-testimony/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/feds-warsh-era-new-vibe-investors/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2384,6 +2390,20 @@
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/france-spain-football-rivalry-ignites-global-attention/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Rivalries Reaching Boiling Point: France–Spain Football Frenzy Ignites Global Attention</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/free-electricity-alert-energy-retailers-must-provide-3-hours-a-day/</loc>
@@ -3300,6 +3320,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/live-updates-ice-involved-shooting-maine-kills-one-person/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/live-updates-trump-immigration-actions-policy-continuity/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -3569,7 +3595,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -3577,8 +3603,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-09T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: A Global Crisis Unfolds</news:title>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Breaking News: Main Page Crisis Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -6244,6 +6270,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spain-national-football-team-shocking-upset-what-next/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Spain National Football Team Stunned by Shocking Upset: What's Next</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spanish-national-football-team-upset/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>daily</changefreq>
@@ -6668,6 +6708,12 @@
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Sugar Shock: 10 Foods Deceptively High in Sugar</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/sully-sullenberger-miracle-on-the-hudson-pilot-discovers-alzheimers/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/supergirl-2026-film-benefits/</loc>
@@ -7354,6 +7400,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/u-s-space-force-is-learning-to-scramble-rocket-launches-like-fighter-jets/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -7450,6 +7502,20 @@
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/unai-simon-crisis-deepens-global-sports-community-reels/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Unai Simón Crisis Deepens: Global Sports Community Reels</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/understanding-antibiotic-resistance-causes-and-consequences/</loc>
