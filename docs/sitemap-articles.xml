@@ -818,6 +818,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/bank-earnings-live-updates-jpmorgan-bofa-goldman-citi-wells-fargo/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/bayer-supreme-court-roundup-victory-cancer-patients/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>daily</changefreq>
@@ -2734,6 +2740,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/hundreds-protest-in-maine-after-deadly-ice-shooting/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hunting-a-16-year-old-sqlite-wal-bug-with-tla/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -3245,6 +3257,20 @@
       </news:publication>
       <news:publication_date>2026-07-06T00:00:00Z</news:publication_date>
       <news:title>Battling the Outbreak: Legionnaires' Disease Cases Surge to 14</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-rocks-government-office/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Disease Outbreak Rocks Government Office: What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
@@ -4934,6 +4960,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/oil-prices-surge-inflation-fears/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Oil Prices Surge: Inflation Fears Rise</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/oliver-tree-music/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -5987,6 +6027,20 @@
       </news:publication>
       <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
       <news:title>Global Market Chaos: South Korean Stocks Tumble 6% as AI Jitters Hurt Chipmakers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/southern-california-cancer-cluster-sparks-urgent-investigation/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Southern California Cancer Cluster Sparks Urgent Investigation</news:title>
     </news:news>
   </url>
   <url>
@@ -7400,10 +7454,30 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh-permitted-root-access/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tyler-perry-claims-male-sexual-assault-accuser-proposed-multi-million-dollar-settlement/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Tyler Perry Claims Male Sexual Assault Accuser Proposed Multi-Million Dollar Settlement</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/u-s-space-force-is-learning-to-scramble-rocket-launches-like-fighter-jets/</loc>
@@ -7962,6 +8036,12 @@
   <url>
     <loc>https://soontrend.com/articles/world-cup-daily-argentina-messi-produce-late-magic/</loc>
     <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/world-cup-favorites-france-unravel-as-spain-book-spot-in-final-with-ease/</loc>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
