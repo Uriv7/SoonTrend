@@ -704,6 +704,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/asian-stocks-poised-to-track-us-gains-on-soft-cpi-markets-wrap/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T00:00:00Z</news:publication_date>
+      <news:title>Asian Stocks Poised to Track US Gains on Soft CPI: Markets Wrap in Turmoil</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ask-hn-add-flag-for-ai-generated-articles/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
@@ -2342,6 +2356,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/federal-funding-changes-slow-cancer-disparities-research/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T00:00:00Z</news:publication_date>
+      <news:title>Cancer Disparities Research Ground to a Halt Amid Federal Funding Changes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/feds-warsh-era-new-vibe-investors/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2506,6 +2534,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/gibraltar-ushers-in-a-new-era-as-british-territorys-border-fence-with-spain-is-removed/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/giovanni-reyna-soccer-star/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2582,6 +2616,20 @@
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/governments-companies-nonprofits-should-invest-in-free-open-source-ai-now/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T00:00:00Z</news:publication_date>
+      <news:title>The AI Revolution: Governments, Companies, Nonprofits Must Invest in Free, Open Source AI Now</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/graham-platner-damage-control-senate-campaign/</loc>
@@ -2694,6 +2742,12 @@
   <url>
     <loc>https://soontrend.com/articles/half-baked-products-revolutionize-innovation/</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/hamilton-county-cyclosporiasis-outbreak/</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4808,6 +4862,12 @@
       <news:publication_date>2026-06-30T00:00:00Z</news:publication_date>
       <news:title>New .self Domain Revolutionizes Self-Hosting</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/new-york-ai-data-center-pause-raising-concerns/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/new-york-city-legionnaires-outbreak-update/</loc>
