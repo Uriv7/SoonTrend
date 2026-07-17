@@ -250,6 +250,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-meets-cryptography-2-openvm-zkvm-breakthrough/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T00:00:00Z</news:publication_date>
+      <news:title>AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM Sparks Global Alert</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-patent-ruling-top-court-landmark-decision/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
@@ -568,6 +582,20 @@
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/apple-targets-openai-employees-with-legal-letters/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T00:00:00Z</news:publication_date>
+      <news:title>Apple Targets Dozens of OpenAI Employees with Mysterious Legal Letters</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/apple-third-generation-foundation-models/</loc>
@@ -4858,6 +4886,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/multi-primary-color-display-next-gen-color-reproduction/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/murder-charges-james-handys-death-paused/</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -5404,6 +5438,20 @@
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/pennylane-open-source-quantum-software-platform/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T00:00:00Z</news:publication_date>
+      <news:title>Quantum Leap: PennyLane is an open-source quantum software platform for quantum</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/people-at-central-pennsylvania-courthouse-exposed-to-measles/</loc>
@@ -7010,6 +7058,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stock-market-today-nasdaq-set-to-open-lower-as-chip-stocks-come-under-pressure-live-updates/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T00:00:00Z</news:publication_date>
+      <news:title>Stock Market in Turmoil: Nasdaq Set to Open Lower as Chip Stocks Come Under Pressure — Live Updates</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stock-market-today-nasdaq-sp-500-inch-up-after-two/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>daily</changefreq>
@@ -7096,6 +7158,12 @@
   <url>
     <loc>https://soontrend.com/articles/stop-killing-games-fails-to-secure-eu-law-despite-1.3m-signatures/</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/strait-of-hormuz-us-impact-on-global-energy-market/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7892,6 +7960,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/uk-fifa-investigate-argentina-falklands-banner-world-cup/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/uk-joins-global-investment-bank/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
@@ -8016,6 +8090,12 @@
       <news:publication_date>2026-07-10T00:00:00Z</news:publication_date>
       <news:title>United Airlines Sued Over 'Windowless' Window Seats: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/unitedhealth-surpasses-expectations/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/unlock-disclosure-day/</loc>
