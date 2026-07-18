@@ -466,6 +466,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/andy-burnham-labour-party-leadership/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/anthony-head-creative-potential/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -3084,6 +3090,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/iran-u-s-strikes-syria-bahrain/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/is-spacex-stock-a-millionaire-maker-there-are-2-things-that-will-define-that-answer/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -4291,7 +4303,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege-experts-warn-of-catastrophic-consequences/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4299,7 +4311,7 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-22T00:00:00Z</news:publication_date>
+      <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
       <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
@@ -5372,6 +5384,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/one-person-dies-amid-legionnaires-disease-outbreak/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
+      <news:title>One Person Dies Amid Legionnaires' Disease Outbreak: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/open-source-ai-way-forward/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -5917,6 +5943,20 @@
       </news:publication>
       <news:publication_date>2026-07-07T00:00:00Z</news:publication_date>
       <news:title>Project Hail Mary (film) Sparks Global Concern: Here's What You Need to Know Now</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-update/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary Film Sparks Global Interest</news:title>
     </news:news>
   </url>
   <url>
@@ -7828,6 +7868,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-abc-nbc-licenses-revoked-election-integrity/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trump-account-millionaire/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -8813,6 +8859,20 @@
       </news:publication>
       <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
       <news:title>Xi Jinping Spearheads China's AI Push: What It Means for the Future of Work</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/xi-promises-ai-for-all-in-debut-at-china-s-top-tech-summit/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
+      <news:title>Xi Promises AI for All in Debut at China’s Top Tech Summit: The Future of Technology Unfolds</news:title>
     </news:news>
   </url>
   <url>
