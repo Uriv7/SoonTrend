@@ -2532,6 +2532,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/feeding-our-future-fraud-ring-alleged-no-2-court-arrest/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/fidji-simo-openai-agi-work-departure/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2990,6 +2996,12 @@
   <url>
     <loc>https://soontrend.com/articles/ibm-stock-plummets-25-q2-earnings/</loc>
     <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ice-shared-medicaid-data-palantir/</loc>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4190,6 +4202,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-security-threat/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Cybersecurity Experts Warn of Imminent Threat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-suffers-unprecedented-downtime/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
@@ -4689,6 +4715,20 @@
       </news:publication>
       <news:publication_date>2026-06-14T00:00:00Z</news:publication_date>
       <news:title>Mary-Kate and Ashley's Hair Evolution Explodes: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mayor-mamdani-ai-images-advertise-landlords/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Landlords Scramble as Mayor Mamdani Says AI Images to Advertise Are Off-Limits</news:title>
     </news:news>
   </url>
   <url>
@@ -5947,7 +5987,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-update/</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5955,8 +5995,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
-      <news:title>Project Hail Mary Film Sparks Global Interest</news:title>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary (film) Update: NASA's Mysterious Mission Takes Center Stage</news:title>
     </news:news>
   </url>
   <url>
@@ -6074,6 +6114,20 @@
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/retro-macintosh-software-catalog-discovered/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Retro Macintosh Software Catalog Discovered in Abandoned Archive</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/reverse-blindness-breakthrough-therapy/</loc>
@@ -7892,6 +7946,12 @@
       <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
       <news:title>Trump Admin's Shocking Move to Block Clean Air Act Lawsuit Over xAI's Gas Turbines Sparks Fury</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-administration-claim-250k-non-citizens-registered-vote/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-administration-subpoenas-new-york-times-reporters-after-air-force-one-reporting/</loc>
