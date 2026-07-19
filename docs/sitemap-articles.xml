@@ -1308,6 +1308,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/canadian-forest-fires-air-quality-concerns/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cancer-cases-worldwide-soar/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2366,6 +2372,12 @@
       <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
       <news:title>Ex-First Lady Jailed Over Bribes From Robot Dog Maker in Shocking Turn of Events</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ex-wife-ice-agent-racist-violent-tendencies/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/exapunks-2018-game/</loc>
@@ -4357,7 +4369,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4365,8 +4377,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-12T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: A Global Crisis Unfolds</news:title>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Widespread Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -4626,6 +4638,20 @@
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/making-software-how-to-make-a-font/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Fonts Under Siege: How to Make a Font in a Changing World</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/man-45-diagnosed-colorectal-cancer-first-symptom/</loc>
@@ -5832,6 +5858,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/project-hail-mary-film-breaks-box-office-records/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary (film) Breaks Box Office Records: What's Behind the Frenzy?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-breaks-hollywood/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>daily</changefreq>
@@ -6024,6 +6064,20 @@
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/qwen3-8-launches-open-weight-soon/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
+      <news:title>Qwen3.8 Launches, Poised to Shake Industry with Open-Weight Soon</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ranked-choice-voting-maine-governor-primary/</loc>
@@ -8026,6 +8080,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-election-fraud-claims-debunked/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trump-immediately-fires-new-court-appointed-prosecutor-in-seattle/</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -8396,6 +8456,12 @@
   <url>
     <loc>https://soontrend.com/articles/vermont-not-participating-in-trump-fair/</loc>
     <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/vertu-ai-agent-value/</loc>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
