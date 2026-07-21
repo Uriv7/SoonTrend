@@ -20388,5 +20388,122 @@
     "ai_provider": "Groq/llama-3.3-70b-versatile",
     "read_time": 5,
     "excerpt": "The Spain national football team is facing a major crisis after a shocking loss, the team's future is uncertain and the coaching staff is under pressure to make changes, the Spain national football team's fans are eagerly awaiting the team's next move."
+  },
+  {
+    "topic": "Gas prices have spiked to $4 a gallon once more, as tensions between the US and Iran escalate, leaving consumers scrambling to find affordable alternatives.",
+    "slug": "us-gas-prices-hit-average-4-gallon-again-us-iran-launch-attacks",
+    "title": "US Gas Prices Hit an Average of $4 a Gallon Again as US and Iran Launch Attacks: Expert Insights",
+    "category": "Business",
+    "content_type": "article",
+    "tags": [
+      "gas prices",
+      "oil market",
+      "economy",
+      "environment",
+      "electric vehicles",
+      "sustainable energy",
+      "climate change",
+      "geopolitics"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The current average price of gas in the US is $4 a gallon, with a significant increase in oil prices leading to a corresponding increase in gas prices. The impact of gas prices on the economy is significant, with a 10% increase in gas prices leading to a 2% decrease in economic growth."
+  },
+  {
+    "topic": "Trump Says New Air Force One Will Be Sent to Get ‘Maxed Out’ for Upgrades: What You Need to Know",
+    "slug": "trump-new-air-force-one-upgrades",
+    "title": "Trump Says New Air Force One Will Be Sent to Get ‘Maxed Out’ for Upgrades",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Air Force One",
+      "presidential aircraft",
+      "Trump administration",
+      "aviation technology",
+      "military aircraft",
+      "aircraft maintenance",
+      "presidential travel",
+      "aircraft security"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Trump says new Air Force One will be sent to get ‘maxed out’ for upgrades, which will improve the aircraft's safety and security, as well as its fuel efficiency and environmental impact. The new Air Force One is expected to feature advanced communication systems, including satellite communications and secure data links."
+  },
+  {
+    "topic": "3rd Person Dies from Legionnaires' Disease in New York City: What You Need to Know",
+    "slug": "legionnaires-disease-outbreak",
+    "title": "Legionnaires' Disease Outbreak Claims 3rd Life",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "Legionnaires' disease",
+      "waterborne illness",
+      "public health",
+      "outbreak",
+      "infection"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "A third person has died from Legionnaires' disease in New York City, marking a devastating escalation of the outbreak, as 3rd person dies from Legionnaires' disease in New York City. The situation is being closely monitored, and updates will be provided as more information becomes available, regarding 3rd person dies from Legionnaires' disease in New York City."
+  },
+  {
+    "topic": "Main Page Update Causes Widespread Panic: What You Need to Know",
+    "slug": "main-page-alert-spreading-chaos",
+    "title": "Main Page Alert: Critical Update Spreads Chaos",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page crisis",
+      "global users",
+      "unpredictable consequences",
+      "critical update",
+      "main page alert",
+      "spreading chaos",
+      "main page update",
+      "main page reliability",
+      "main page alternatives"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "A Main Page crisis has been unleashed, sending shockwaves around the world and leaving millions of users in a state of uncertainty. The sudden update has caused widespread panic, with many struggling to make sense of the situation."
+  },
+  {
+    "topic": "Spain National Football Team in Crisis Mode: What's Next?",
+    "slug": "spain-national-football-team-in-crisis-mode",
+    "title": "Spain National Football Team in Crisis Mode: What's Next?",
+    "category": "Sports",
+    "content_type": "news",
+    "tags": [
+      "Spain national football team",
+      "football team crisis",
+      "soccer team drama",
+      "international football news",
+      "Spain national football team news"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Spain national football team is in crisis mode after a string of disappointing performances, raising questions about the team's future and the impact on fans worldwide."
+  },
+  {
+    "topic": "Unai Simón Crisis: Global Consequences Unfolding",
+    "slug": "unai-simon-crisis-unfolds",
+    "title": "Unai Simón Crisis: Global Consequences Unfolding",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Unai Simón",
+      "global crisis",
+      "international relations",
+      "global governance"
+    ],
+    "date": "2026-07-21",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Unai Simón, a key player in global affairs, is embroiled in a high-stakes controversy that has sent shockwaves around the globe. The situation is rapidly evolving, with key developments unfolding by the hour."
   }
 ]
