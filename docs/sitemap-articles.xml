@@ -716,6 +716,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/asia-stocks-plummet-amid-ai-bet-reevaluation/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Asia Stocks Plummet Amid AI Bet Reevaluation</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/asia-stocks-rise-gingerly-on-ai-recovery-israel-iran-deescalation/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
@@ -3052,6 +3066,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/hugging-face-ai-security-breach-detection/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hundreds-protest-in-maine-after-deadly-ice-shooting/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3330,6 +3350,12 @@
   <url>
     <loc>https://soontrend.com/articles/jetblue-airspace-operating-costs-soar/</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/jetblue-spirit-airlines-slots/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3855,6 +3881,20 @@
       </news:publication>
       <news:publication_date>2026-07-01T00:00:00Z</news:publication_date>
       <news:title>Main Page Alert: Critical Changes Ahead</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-change-implications/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Sudden, Unprecedented Change: What This Means for Your Digital Experience</news:title>
     </news:news>
   </url>
   <url>
@@ -4724,6 +4764,12 @@
       <news:publication_date>2026-06-22T00:00:00Z</news:publication_date>
       <news:title>Main Vaapas Aaunga: Shocking Truth Revealed</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/maine-democrats-rally-around-logger-troy-jackson/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/maine-democrats-replace-graham-platner/</loc>
@@ -7120,6 +7166,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spain-national-football-team-crisis/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Spain National Football Team in Crisis</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spain-national-football-team-roster-changes/</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
@@ -7944,6 +8004,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/tech-giants-opaque-funding-crisis/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Tech Giants' Opaque Funding Crisis: $1.65T Hidden Debts Exposed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/tech-layoffs-ai-concerns/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
@@ -8610,6 +8684,12 @@
       <news:publication_date>2026-07-10T00:00:00Z</news:publication_date>
       <news:title>United Airlines Sued Over 'Windowless' Window Seats: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/united-investigates-ice-threat/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/unitedhealth-surpasses-expectations/</loc>
