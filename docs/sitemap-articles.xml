@@ -896,6 +896,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/avengers-doomsday-trailer-robert-downey-jr/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/aws-billing-data-miscalculation/</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2006,6 +2012,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/deadly-legionnaires-outbreak-manhattan/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Deadly Legionnaires' Outbreak Spreads in Manhattan: Fourth Person Dies</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/deepseek-introduces-vision/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2676,6 +2696,20 @@
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fourth-death-confirmed-in-nyc-legionnaires-disease-outbreak/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Mysterious Outbreak Claims Fourth Victim, Leaving Many Concerned</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/france-spain-football-rivalry-ignites-global-attention/</loc>
@@ -3376,6 +3410,12 @@
   <url>
     <loc>https://soontrend.com/articles/jordan-henderson-wrist-surgery-world-cup-injury/</loc>
     <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/jubilation-as-la-roja-beat-argentina-to-win-second-world-cup-title/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7440,6 +7480,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stock-futures-surge-oil-reverses-gains-chipmakers-lead/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Stock Futures Surge, Oil Reverses Gains as Chipmakers Lead the Charge</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stock-futures-tick-higher-as-wall-street-gears-up-for-spacexs-historic-ipo/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
@@ -8462,6 +8516,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-qaatar-gifted-air-force-one-security-issues/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trump-rally-attendance-45k-guests/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -8792,6 +8852,12 @@
   <url>
     <loc>https://soontrend.com/articles/us-launches-ninth-night-of-iran-strikes-as-strait-of-hormuz-standoff-sees-oil-price-pass-90-a-barrel/</loc>
     <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-military-identifies-2-soldiers-killed-in-iranian-attack-on-jordan-as-from-texas-and-hawaii/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9143,6 +9209,20 @@
       </news:publication>
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Web-based cryptography is always snake oil - Experts Warn of Looming Cybersecurity Threat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/weight-loss-drugs-blinded/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Weight Loss Drugs Linked to Blindness</news:title>
     </news:news>
   </url>
   <url>
