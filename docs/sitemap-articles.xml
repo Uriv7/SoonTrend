@@ -510,6 +510,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/anthropic-settlement-pirated-books-claude-ai/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Judge Approves $1.5B Anthropic Settlement for Stolen Books Used to Train AI</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/aortic-disease-awareness/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2066,6 +2080,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/democrat-set-to-replace-platner-in-state-senate-with-temper/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/democrats-pulling-platner-endorsements/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -3324,6 +3344,34 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jamie-dimon-says-markets-underestimate-risks-at-current-prices/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Jamie Dimon Sounds Alarm: Markets Underestimate Risks at Current Prices</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/jamie-dimon-stock-market-risk-underpriced/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Jamie Dimon Sounding Alarm: Stock Market and Treasury Bond Risks Grossly Underpriced</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jamie-dimon-upends-succession-race/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3562,6 +3610,12 @@
   <url>
     <loc>https://soontrend.com/articles/karmelo-anthony-sentencing-appeal/</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/kaylee-hottle-biography/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4135,7 +4189,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4143,8 +4197,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
-      <news:title>Main Page Crisis Unfolds: Experts Warn of Widespread Consequences</news:title>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Key Details and Immediate Reactions</news:title>
     </news:news>
   </url>
   <url>
@@ -8191,7 +8245,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8878,6 +8932,12 @@
   <url>
     <loc>https://soontrend.com/articles/us-slaps-25-tariff-brazilian-goods/</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-soldiers-killed-by-iran/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
