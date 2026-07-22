@@ -1834,6 +1834,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cracker-barrel-unloads-maple-street-chain-cut-debt/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/crispr-breakthrough-targets-undruggable-cancers/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
@@ -2242,6 +2248,12 @@
   <url>
     <loc>https://soontrend.com/articles/dow-rises-to-record-as-oil-ticks-higher/</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/drake-anthony-mechanical-bulb/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3838,6 +3850,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/legionnaires-disease-spreads-in-nyc/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Disease Spreads: 4th Person Dies in NYC</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/legionnaires-outbreak-central-park-nyc-health-officials-warn/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
@@ -4948,6 +4974,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/mamdani-netanyahu-legal-authority/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/man-45-diagnosed-colorectal-cancer-first-symptom/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -5478,6 +5510,20 @@
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/nearly-1-in-4-workers-stay-in-jobs-for-health-insurance/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>1 in 4 Workers Stay in Jobs for Health Insurance, a Survey Says</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/new-research-links-even-low-alcohol-consumption-to-cancer-heart-disease-and-premature-death/</loc>
@@ -7258,6 +7304,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spacex-satellite-repair-drone-launch/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>SpaceX Launches Satellite Repair Drone Today</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spacex-soon-to-be-millionaires-unleash-luxury-spending-spree/</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>daily</changefreq>
@@ -7815,6 +7875,20 @@
       </news:publication>
       <news:publication_date>2026-07-17T00:00:00Z</news:publication_date>
       <news:title>Stock Market in Free Fall: Micron Plunges as Tech Stocks Extend Sell-Off</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-today-nasdaq-rises-on-chip-stock-gains-oil-climbs-live-updates/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Stock Market in Flux: Nasdaq Soars on Chip Stock Surge, Oil Prices on the Rise — Live Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -8631,6 +8705,12 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-nominated-judge-rules-against-trump/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-plans-tariffs-generic-drugs-savings/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
