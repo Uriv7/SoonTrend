@@ -2732,6 +2732,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/fourth-person-dies-in-legionnaires-disease-outbreak/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Fourth Person Dies in Mysterious Legionnaires' Disease Outbreak</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/france-spain-football-rivalry-ignites-global-attention/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -3486,6 +3500,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/judge-approves-1-5b-anthropic-settlement-for-pirated-books-used-to-train-claude/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Judge Approves $1.5B Anthropic Settlement for Pirated Books Used to Train Claude</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/judge-dismisses-murder-charge-sheriff-nominee/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -3888,6 +3916,12 @@
   <url>
     <loc>https://soontrend.com/articles/live-updates-ice-involved-shooting-maine-kills-one-person/</loc>
     <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/live-updates-spacex-northrop-grumman-mission/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4609,7 +4643,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4617,8 +4651,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-20T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical Update Imminent</news:title>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Urgent Fixes Rolled Out Amid Widespread Outage</news:title>
     </news:news>
   </url>
   <url>
@@ -5112,6 +5146,12 @@
   <url>
     <loc>https://soontrend.com/articles/micah-lasher-house-primary-ai-backing/</loc>
     <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/michigan-ad-warde-manuel-step-down/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5800,6 +5840,12 @@
   <url>
     <loc>https://soontrend.com/articles/openai-hit-with-probe/</loc>
     <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/openai-hugging-face-pre-release-models-breach/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7358,6 +7404,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spain-national-football-team-shocking-upset/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
+      <news:title>Spain National Football Team Stuns World with Shocking Upset</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spain-national-football-team-world-cup-exit/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
@@ -8566,6 +8626,12 @@
   <url>
     <loc>https://soontrend.com/articles/trump-new-air-force-one-upgrades/</loc>
     <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-nominated-judge-rules-against-trump/</loc>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
