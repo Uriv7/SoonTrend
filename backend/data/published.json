@@ -21431,5 +21431,139 @@
     "ai_provider": "Groq/llama-3.3-70b-versatile",
     "read_time": 5,
     "excerpt": "Asia stocks erase early gains as oil surge weighs; Alphabet results ahead. The stock market has experienced a sudden decline in stock prices due to a surge in oil prices, which is expected to lead to higher inflation and impact consumer spending and economic growth. Investors should be aware of the potential risks and opportunities that arise from this development and should have a plan in place to manage their finances and investments during times of market volatility."
+  },
+  {
+    "topic": "DARPA and the U.S. Air Force Are Pioneering the Use of AI-Controlled F-16s for Enhanced Aerial Warfare Capabilities",
+    "slug": "ai-controlled-f-16-aircraft",
+    "title": "Revolutionizing Aerial Warfare with AI-Controlled F-16s: Unmatched Agility and Precision",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Artificial Intelligence",
+      "Military Aviation",
+      "Autonomous Systems",
+      "Aerial Warfare",
+      "Machine Learning",
+      "Advanced Fighter Jets"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "The DARPA and U.S. Air Force collaboration has developed AI-controlled F-16s, which utilize advanced algorithms and sensors to enhance aerial combat capabilities and operational efficiency."
+  },
+  {
+    "topic": "The reported Apple Upgrade program raises a very big concern, and users need to know the facts before making a decision",
+    "slug": "apple-upgrade-program-concern",
+    "title": "The reported Apple Upgrade program raises a very big concern with its unclear terms and potential long-term costs",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Apple Upgrade program",
+      "consumable electronics",
+      "planned obsolescence",
+      "electronic waste",
+      "sustainable technology"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "The reported Apple Upgrade program raises a very big concern for those who are considering purchasing Apple products, as it may lead to unclear terms and potential long-term costs. The program's impact on users is also unclear, as its terms and conditions are not fully understood."
+  },
+  {
+    "topic": "Exploring Show HN: Remux – an Open-Source Tmux Workspace Designed for iPhone",
+    "slug": "show-hn-remux-tmux-workspace",
+    "title": "Show HN: Remux – Open-Source Tmux Workspace for iPhone",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "tmux",
+      "iPhone",
+      "productivity",
+      "terminal emulator",
+      "workflow management",
+      "remote work"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Discover the power of Show HN: Remux – an open-source tmux workspace designed for iPhone and take your productivity to the next level. With its seamless and intuitive interface, you can manage multiple terminal sessions and workflows directly from your iPhone. Learn how to use Show HN: Remux – an open-source tmux workspace designed for iPhone to streamline your workflow and enhance your productivity."
+  },
+  {
+    "topic": "The Shocking Amount of Energy Data Centers and AI Are Using - And Why You Should Care",
+    "slug": "data-centers-artificial-intelligence-energy-consumption",
+    "title": "The Surprising Truth About How Much Energy Do Data Centers and Artificial Intelligence Use",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "data centers",
+      "artificial intelligence",
+      "energy consumption",
+      "environmental impact",
+      "sustainability"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Data centers and AI systems are consuming an unprecedented amount of energy, with estimates suggesting that they will account for 10% of global electricity consumption by 2030. The environmental impact of data centers and AI is a pressing concern that affects us all, with significant implications for the environment, the economy, and future generations."
+  },
+  {
+    "topic": "Lung Cancer in Nonsmokers: A Women's Health Crisis Ignites Global Alarm",
+    "slug": "lung-cancer-nonsmokers-womens-health-crisis",
+    "title": "Lung Cancer in Nonsmokers: A Women's Health Crisis Ignites Global Alarm",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "lung cancer",
+      "nonsmokers",
+      "women's health",
+      "health crisis"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Lung cancer cases among nonsmokers are skyrocketing, with women disproportionately affected. The trend is attributed to exposure to toxic chemicals, radon, and secondhand smoke. Find out what this means for you and what you can do to help prevent the spread of lung cancer in nonsmokers: A women's health crisis."
+  },
+  {
+    "topic": "Startup Founders in Panic Mode as Trump Considers AI Shutdown",
+    "slug": "trump-ai-decision-startup-founders-urge",
+    "title": "Trump's AI Decision Sparks Urgent Plea from Startup Founders",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Startup founders",
+      "Trump",
+      "AI",
+      "Chinese open weight AI",
+      "Tech industry",
+      "Innovation",
+      "Progress",
+      "Future of the tech industry",
+      "Debate",
+      "Stakes",
+      "Consequences"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Startup founders are urging President Trump not to shut off Chinese open weight AI, a move that could have far-reaching consequences for the tech industry. The stakes are high, and the clock is ticking."
+  },
+  {
+    "topic": "Stock Market in Crisis: Dow, S&P 500, Nasdaq Diverge Amid Alphabet, Tesla Earnings Uncertainty",
+    "slug": "stock-market-in-crisis-divergence-amid-alphabet-tesla-earnings",
+    "title": "Stock Market in Crisis: Dow, S&P 500, Nasdaq Diverge Amid Alphabet, Tesla Earnings Uncertainty",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "Dow S&P 500 Nasdaq",
+      "Alphabet Tesla",
+      "earnings uncertainty",
+      "investor sentiment",
+      "market volatility"
+    ],
+    "date": "2026-07-23",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The stock market is in crisis as the Dow, S&P 500, and Nasdaq indices diverge due to uncertainty surrounding Alphabet and Tesla earnings. Investors are on high alert, and the uncertainty surrounding Alphabet and Tesla earnings has become the dominant theme in the market."
   }
 ]

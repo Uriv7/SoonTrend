@@ -216,6 +216,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-controlled-f-16-aircraft/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-giants-learn-collective-intelligence/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -640,6 +646,12 @@
   <url>
     <loc>https://soontrend.com/articles/apple-third-generation-foundation-models/</loc>
     <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/apple-upgrade-program-concern/</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2066,6 +2078,20 @@
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/data-centers-artificial-intelligence-energy-consumption/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>The Surprising Truth About How Much Energy Do Data Centers and Artificial Intelligence Use</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/daveigh-chases-mother-recounts-lilo-stitch-stars-addiction/</loc>
@@ -4103,6 +4129,20 @@
       </news:publication>
       <news:publication_date>2026-06-27T00:00:00Z</news:publication_date>
       <news:title>Luigi Mangione's Lawyers Discredit Report of Guilty Plea Deal Talks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/lung-cancer-nonsmokers-womens-health-crisis/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Lung Cancer in Nonsmokers: A Women's Health Crisis Ignites Global Alarm</news:title>
     </news:news>
   </url>
   <url>
@@ -6978,6 +7018,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/show-hn-remux-tmux-workspace/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/sidny-lopes-cabral-methods/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -7829,6 +7875,20 @@
       </news:publication>
       <news:publication_date>2026-06-25T00:00:00Z</news:publication_date>
       <news:title>Stock Market in Chaos: S&P 500, Nasdaq Hit Pause After Tech Rout with Micron in Focus</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-in-crisis-divergence-amid-alphabet-tesla-earnings/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Stock Market in Crisis: Dow, S&P 500, Nasdaq Diverge Amid Alphabet, Tesla Earnings Uncertainty</news:title>
     </news:news>
   </url>
   <url>
@@ -8726,6 +8786,20 @@
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-ai-decision-startup-founders-urge/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Trump's AI Decision Sparks Urgent Plea from Startup Founders</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates/</loc>
