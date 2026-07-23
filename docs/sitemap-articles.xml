@@ -298,6 +298,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-showdown-chinese-breakthroughs-threaten-us-tech-dominance/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>AI Showdown: Chinese Breakthroughs Threaten US Tech Dominance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-stocks-resume-their-drops-and-drag-markets-lower-worldwide/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>daily</changefreq>
@@ -727,6 +741,20 @@
       </news:publication>
       <news:publication_date>2026-07-08T00:00:00Z</news:publication_date>
       <news:title>Asia Stocks Tumble Underweight on AI Concerns Amid Samsung's Record Earnings</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asia-stocks-oil-surge-alphabet/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Oil Surge Wipes Out Asia Stocks Gains</news:title>
     </news:news>
   </url>
   <url>
@@ -6024,6 +6052,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/paralyzed-man-feeds-himself-pets-dog-again-surgery/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough Surgery Allows Paralyzed Man to Feed Himself and Pet His Dog Again</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/paramount-warner-bros-merger-is-challenged-in-court/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -6242,6 +6284,12 @@
       <news:publication_date>2026-06-21T00:00:00Z</news:publication_date>
       <news:title>Breakthroughs in Male Fertility Linked to Popular Weight-Loss Drugs</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/president-trump-invites-fallen-soldier-tyler-feeihan-air-force-one/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/prime-day-deals-end-tonight/</loc>
@@ -8082,6 +8130,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/study-finds-worrying-new-side-effect-glp-1-drugs/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/sugar-shock-10-deceptively-healthy-foods/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
@@ -8898,6 +8952,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-vows-to-hit-iranian-bridge-or-power-plant/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh-permitted-root-access/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -9128,6 +9188,20 @@
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-legionnaires-disease-outbreak-kills-5/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T00:00:00Z</news:publication_date>
+      <news:title>Deadly Waterborne Illness Outbreak Claims 5 Lives in the United States</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/us-military-identifies-2-soldiers-killed-in-iranian-attack-on-jordan-as-from-texas-and-hawaii/</loc>
