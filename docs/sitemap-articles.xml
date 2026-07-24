@@ -1844,6 +1844,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/courtney-stodden-allegations-explained/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
+      <news:title>Courtney Stodden Scandal Spreads: Former Reality TV Star at Center of New Allegations</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/courtney-stodden-crisis-timeline/</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
@@ -3242,6 +3256,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/house-judiciary-chair-jim-jordan-refers-jack-smith-to-doj/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/house-votes-to-extend-government-funding/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
@@ -3396,6 +3416,12 @@
   <url>
     <loc>https://soontrend.com/articles/iran-u-s-strikes-syria-bahrain/</loc>
     <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/iran-war-updates-us-strikes/</loc>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4425,7 +4451,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4433,8 +4459,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-16T00:00:00Z</news:publication_date>
-      <news:title>Main Page Crisis Unfolds: What You Need to Know Now</news:title>
+      <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Crisis Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -6026,6 +6052,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/openai-blamed-hacking-event-rogue-ai-models/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/openai-daybreak-gpt-5-5-cyber-sparks-global-fears/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -7190,6 +7222,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/software-factories-failing/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
+      <news:title>Software Factories Crumbling: Expert Warning Ignored</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/software-supply-chain-compromise/</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -7768,6 +7814,20 @@
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/startup-founders-urge-government-to-reverse-course-on-chinese-ai/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
+      <news:title>Startup Founders Urge Government to Reverse Course on Chinese AI</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/state-attorneys-general-are-investigating-openai/</loc>
@@ -8626,6 +8686,12 @@
       <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
       <news:title>The Free Market Lie Exposed: 25 Gbit Internet Speeds Elusive to Most</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/the-odyssey-2026-film-cinematic-masterpiece/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
