@@ -2800,6 +2800,34 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/fda-approves-tylenol-naproxen-pain-pill/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>FDA Approves Groundbreaking Pain Pill That Combines Tylenol and Naproxen - A New Era in Pain Management?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fed-chair-interest-rate-move-july-2024/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Fed Chair's Mysterious Move: July Interest Rate Decision Sparks Fears</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/fed-chair-kevin-warsh-sentiments-data-over-party/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -3620,6 +3648,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jana-nayagan-guide/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jannik-sinner-tennis-prodigy/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -3990,6 +4024,12 @@
   <url>
     <loc>https://soontrend.com/articles/lawmakers-demand-answers-reflecting-pool-repair/</loc>
     <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/lebron-james-biography/</loc>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5105,7 +5145,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-update/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5113,8 +5153,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
-      <news:title>Main Page Undergoing Critical System Update</news:title>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Emergency Update: What It Means for You</news:title>
     </news:news>
   </url>
   <url>
@@ -8422,7 +8462,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
-      <news:title>Stuart Fails to Save the Universe: A Catastrophic Event Unfolds</news:title>
+      <news:title>Stuart Fails to Save the Universe, Leaving Millions on Brink of Catastrophe</news:title>
     </news:news>
   </url>
   <url>
@@ -9212,6 +9252,12 @@
   <url>
     <loc>https://soontrend.com/articles/trump-says-new-air-force-one-will-be-taken-out-of-service-to-be-maxed-out/</loc>
     <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-sets-new-tariffs/</loc>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
