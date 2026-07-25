@@ -826,6 +826,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/asian-stocks-fall-oil-surges-past-100-markets-wrap/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Asian Stocks Tumble as Oil Surges Past $100: Markets in Free Fall</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/asian-stocks-plunge-tsmc-declines/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>daily</changefreq>
@@ -3552,6 +3566,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jana-nayagan-benefits/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jannik-sinner-tennis-prodigy/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -3916,6 +3936,12 @@
   <url>
     <loc>https://soontrend.com/articles/lawmakers-demand-answers-reflecting-pool-repair/</loc>
     <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/lebron-james/</loc>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4661,7 +4687,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-overhaul/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4669,8 +4695,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-10T00:00:00Z</news:publication_date>
-      <news:title>Main Page Undergoing Unprecedented Overhaul - What You Need to Know</news:title>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Surprise Overhaul</news:title>
     </news:news>
   </url>
   <url>
@@ -5450,6 +5476,12 @@
       <news:publication_date>2026-07-07T00:00:00Z</news:publication_date>
       <news:title>Microsoft Fires IdTech Team at Id Software Amid Reports of Mass Layoffs</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/microsoft-new-ai-models-cut-costs/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/microsoft-quantum-leap-challenged/</loc>
@@ -7236,6 +7268,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/software-slump-if-coding-has-been-solved/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Software Slump: If Coding Has Been Solved, Why Does Software Keep Getting Worse?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/software-supply-chain-compromise/</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -8306,6 +8352,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stuart-fails-to-save-the-universe/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
+      <news:title>Stuart Fails to Save the Universe: A Catastrophic Event Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/study-finds-90s-babies-aging-faster/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -8695,7 +8755,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
