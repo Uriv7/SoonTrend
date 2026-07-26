@@ -22511,5 +22511,149 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "The Main Page is experiencing a catastrophic technical failure, leaving millions of users stranded and desperate for a solution. The crisis has far-reaching implications for individuals, businesses, and the global economy, with potential long-term consequences for the digital ecosystem. Stay informed and take action to protect yourself."
+  },
+  {
+    "topic": "When 'My heart was just so broken': Ruiz's Daughter Speaks After Police Shooting Death",
+    "slug": "ruiz-daughter-speaks-police-shooting",
+    "title": "'My heart was just so broken': Ruiz's Daughter Speaks Out",
+    "category": "Law",
+    "content_type": "article",
+    "tags": [
+      "police shooting",
+      "police reform",
+      "use of force",
+      "de-escalation training",
+      "community-led policing",
+      "body cameras",
+      "police accountability",
+      "police transparency"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "When 'My heart was just so broken': Ruiz's daughter speaks after police shooting death, it highlights the human cost of such incidents and the need for greater accountability and transparency. Learn about the incident and its aftermath, and discover how you can get involved in police shooting reform."
+  },
+  {
+    "topic": "The substance found in a work van of a man killed by ICE tested negative for drugs, but what are the implications of this tragic event?",
+    "slug": "substance-found-in-work-van-tested-negative-for-drugs-prosecutor-says",
+    "title": "Substance found in work van of Mexican man killed by ICE tested negative for drugs, prosecutor says: Uncovering the truth behind a tragic event",
+    "category": "Law",
+    "content_type": "article",
+    "tags": [
+      "substance abuse testing",
+      "law enforcement",
+      "ICE",
+      "immigration law",
+      "police brutality",
+      "human rights",
+      "transparency",
+      "accountability",
+      "justice",
+      "equality"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "A man killed by ICE had a substance found in his work van that tested negative for drugs, sparking outrage and debate. Substance abuse testing in law enforcement is designed to identify and prevent substance abuse among officers, but the protocols in place have raised questions about the discretion of prosecutors in such cases."
+  },
+  {
+    "topic": "The recent groundbreaking discovery of a fourth transmissible cancer is redefining our understanding of cancer transmission and its potential impact on cancer research.",
+    "slug": "scientists-discover-the-fourth-transmissible-cancer-known-to-science",
+    "title": "Scientists Discover The Fourth Transmissible Cancer Known To Science - Unlocking New Insights for Cancer Research",
+    "category": "Science",
+    "content_type": "article",
+    "tags": [
+      "cancer research",
+      "transmissible cancer",
+      "cancer biology",
+      "cancer science",
+      "cancer discovery",
+      "cancer transmission",
+      "new discoveries in cancer research",
+      "cancer in different species"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Scientists have made a groundbreaking discovery of a fourth transmissible cancer, opening up new avenues for research and exploration. This new discovery has sparked a renewed interest in the field of cancer research and has the potential to revolutionize our understanding of cancer and its treatment."
+  },
+  {
+    "topic": "The Future of Law Schools: Can They Keep Up with AI?",
+    "slug": "rethinking-legal-education-in-the-ai-era",
+    "title": "Rethinking Legal Education in the AI Era: A Revolution in the Making",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "law schools",
+      "education",
+      "technology",
+      "innovation"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The integration of AI is revolutionizing the way we learn the law, forcing law schools to rethink their curricula and teaching methods. As the stakes grow higher, law students and practicing lawyers must adapt to the AI-driven future of law by learning new skills and upskilling/reskilling."
+  },
+  {
+    "topic": "DeepSeek's Fundraise Stalled Amid Leaked Comments on Compute Gap",
+    "slug": "deepseek-pause-fundraise-after-leaked-comments",
+    "title": "DeepSeek Pauses Fundraise After Leaked Comments on Compute Gap Exposed",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "DeepSeek",
+      "fundraise pause",
+      "compute gap",
+      "AI industry",
+      "transparency",
+      "competitiveness",
+      "leaked comments"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "DeepSeek has paused its fundraise after comments on the compute gap to the US were leaked, sparking concerns about the company's transparency and competitiveness. The leaked comments reveal the company's struggles to bridge the compute gap, a critical issue for its business model."
+  },
+  {
+    "topic": "Taylor Farms CEO Breaks Silence Amid Explosive Diarrhea Outbreak Lawsuit: A Timeline and Explanation",
+    "slug": "taylor-farms-ceo-breaks-silence-amid-explosive-diarrhea-outbreak-lawsuit",
+    "title": "Taylor Farms CEO Breaks Silence Amid Explosive Diarrhea Outbreak Lawsuit",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "Taylor Farms",
+      "diarrhea outbreak",
+      "class-action lawsuit",
+      "food safety",
+      "CEO statement",
+      "consumer impact",
+      "investigation"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Taylor Farms CEO breaks silence over explosive diarrhea outbreak as class-action lawsuit filed against the company. Thousands of consumers have been affected, and the implications of this outbreak are far-reaching."
+  },
+  {
+    "topic": "Main Page Under Siege: Experts Warn of Catastrophic Consequences",
+    "slug": "main-page-under-siege",
+    "title": "Main Page Under Siege: Experts Warn of Catastrophic Consequences",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page",
+      "cybersecurity",
+      "digital infrastructure",
+      "online information",
+      "security breach",
+      "identity theft",
+      "financial loss",
+      "reputational damage"
+    ],
+    "date": "2026-07-26",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Main Page, a critical component of the online ecosystem, has fallen victim to a sophisticated cyberattack, resulting in the compromise of sensitive information and disruption of critical services. Experts are warning of the devastating consequences of the breach, including the potential for identity theft, financial loss, and reputational damage."
   }
 ]
