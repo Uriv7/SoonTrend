@@ -1096,6 +1096,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/best-fruit-for-gut-health/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/biden-appointed-judge-reluctantly-approves-elon-musk-settlement/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -3304,6 +3310,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/health-department-reports-two-new-travel-related-cyclosporiasis-cases-in-hawaii/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Health Department Reports 2 New Travel-Related Cyclosporiasis Cases in Hawaii</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hepatitis-b-cure-vaccine-breakthrough/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
@@ -4571,7 +4591,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis/</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4579,8 +4599,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Crisis Unfolds</news:title>
+      <news:publication_date>2026-07-26T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
@@ -5716,6 +5736,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/museums-failed-to-warn-customer-legionnaires-contamination/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/musk-spacex-ipo-retail-investors/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -6322,6 +6348,20 @@
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/paramount-wbd-merger-delay/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T00:00:00Z</news:publication_date>
+      <news:title>Paramount-WBD Merger Hits Roadblock</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/parents-of-nolan-wells-thorough-investigation/</loc>
@@ -6934,6 +6974,20 @@
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/rethinking-legal-education-in-the-ai-era/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T00:00:00Z</news:publication_date>
+      <news:title>Rethinking Legal Education in the AI Era: A Tipping Point for the Future of Law</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/retro-macintosh-software-catalog-discovered/</loc>
@@ -9068,6 +9122,12 @@
       <news:publication_date>2026-06-17T00:00:00Z</news:publication_date>
       <news:title>Trump Admin's Shocking Move to Block Clean Air Act Lawsuit Over xAI's Gas Turbines Sparks Fury</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-administration-admits-grants-for-clean-energy/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/trump-administration-claim-250k-non-citizens-registered-vote/</loc>
