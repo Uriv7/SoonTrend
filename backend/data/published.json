@@ -22790,5 +22790,137 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "Taylor Farms CEO breaks silence over explosive diarrhea outbreak as class-action lawsuit filed, sparking widespread concern among consumers who may have purchased contaminated products. Consumers who purchased Taylor Farms products in the past few weeks may be at risk of contracting the diarrhea outbreak linked to their products."
+  },
+  {
+    "topic": "Stay Up-to-Date on Raging Wildfires Displacing Tens of Thousands Daily",
+    "slug": "live-updates-wildfires-displace-250k",
+    "title": "Live Updates: Raging Wildfires Displace 250,000+ People - Stay Informed",
+    "category": "Environment",
+    "content_type": "article",
+    "tags": [
+      "wildfires",
+      "displacement",
+      "emergency preparedness",
+      "climate change",
+      "environment"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 12,
+    "excerpt": "Stay up-to-date on the latest news and updates on wildfire displacement. Learn about the risks, consequences, and benefits of preventing wildfire displacement, and find out what the future holds for this growing concern. Live updates: Spain and France battle raging wildfires as at least 250,000 people forced to flee."
+  },
+  {
+    "topic": "Ebola Outbreak: More Health Workers Strike as Cases Near 3,000, Including Over 1,300 Deaths",
+    "slug": "ebola-outbreak-health-workers-strike",
+    "title": "Ebola Outbreak: Health Workers Strike as Cases Near 3,000",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "Ebola outbreak",
+      "public health crisis",
+      "health worker strike",
+      "infection control",
+      "vaccine development"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "More health workers strike as Ebola cases near 3,000, including over 1,300 deaths. The Ebola outbreak is still not under control, and the number of cases continues to rise. A coordinated response to the outbreak is essential to bringing the situation under control."
+  },
+  {
+    "topic": "As Tensions Rise, Vance, Caine Raised Concerns About Escalating War in Iran, Sources Say as US Pauses Consecutive Nights of Strikes",
+    "slug": "vance-caine-concerns-war-escalating-us-pauses-strikes",
+    "title": "Vance, Caine Raised Concerns About Escalating War, Sources Say as US Pauses Consecutive Nights of Strikes - The Global Consequences",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Politics",
+      "International Relations",
+      "Conflict Resolution",
+      "Humanitarian Crisis",
+      "Global Stability",
+      "Oil Prices",
+      "US-Iran Relations",
+      "Escalating War"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes. A peaceful resolution to the conflict is the only way to ensure the safety and well-being of all individuals affected."
+  },
+  {
+    "topic": "Can the US and Iran Find a Path to Peace and Take the Off-Ramp from Escalation?",
+    "slug": "us-and-iran-conflict-resolution-off-ramp",
+    "title": "Navigating Conflict Resolution: Can the US and Iran Take the Off-Ramp?",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "conflict resolution",
+      "diplomacy",
+      "de-escalation",
+      "peace talks",
+      "off-ramp",
+      "negotiation",
+      "mediation",
+      "community-based conflict resolution"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Conflict resolution is a complex and challenging process that requires a deep understanding of the parties involved, their needs, and their interests. Airstrikes have paused and talks are pressing forward, but can the US and Iran take the off-ramp from this cycle of violence?"
+  },
+  {
+    "topic": "Federal Appeals Court Rejects Trump Bid to Enforce Mail Ballot Order Ahead of Midterm Elections",
+    "slug": "federal-appeals-court-rejects-trump-bid-to-enforce-mail-ballot-order-ahead-of-midterm-elections",
+    "title": "Trump Bid to Enforce Mail Ballot Order Ahead of Midterm Elections Shot Down in Federal Appeals Court",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Federal appeals court",
+      "Trump campaign",
+      "mail ballot order",
+      "midterm elections",
+      "election integrity",
+      "voter rights"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections, sparking concerns about voter suppression and altering the course of the electoral landscape."
+  },
+  {
+    "topic": "Main Page in Crisis: Experts Warn of Catastrophic Consequences",
+    "slug": "main-page-in-crisis",
+    "title": "Main Page in Crisis: Experts Warn of Catastrophic Consequences",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page crisis",
+      "main page attack",
+      "main page disruption",
+      "main page economic"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The main page of several major online platforms has been compromised by a sophisticated attack, causing widespread disruption and panic among users. Stay informed and take immediate action to protect yourself and your loved ones."
+  },
+  {
+    "topic": "Project Hail Mary (film) Revolutionizes the Film Industry with Groundbreaking Achievement",
+    "slug": "project-hail-mary-film-breakthrough",
+    "title": "Breaking: Project Hail Mary (film) Takes the World by Storm",
+    "category": "Entertainment",
+    "content_type": "news",
+    "tags": [
+      "Project Hail Mary (film)",
+      "film industry",
+      "groundbreaking achievement",
+      "entertainment news",
+      "breaking news"
+    ],
+    "date": "2026-07-27",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Project Hail Mary (film) has made a historic breakthrough, leaving the film industry in awe. The film's innovative approach to storytelling has captivated audiences, making it a must-watch for movie enthusiasts."
   }
 ]
