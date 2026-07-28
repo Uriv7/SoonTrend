@@ -922,6 +922,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/avatar-aang-last-airbender-controversy/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Bending Reality: Avatar Aang's Legacy Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/avatar-aang-last-airbender-revolution-spreads-globe/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1656,6 +1670,12 @@
   <url>
     <loc>https://soontrend.com/articles/chatgpt-revolutionizes-ai-powered-conversations/</loc>
     <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/chatgpts-health-launch-is-revolutionizing-the-future-of-healthcare/</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3554,6 +3574,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ice-targets-haitians-temporary-protected-status-supreme-court/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>ICE Prepares Major Operation Targeting Haitians Losing TPS After Supreme Court Ruling</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ice-vehicle-stops-halt/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -5016,6 +5050,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-shift-impact-online-content/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Dramatic Shift: What This Means for the Future of Online Content</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-suffers-unprecedented-downtime/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
@@ -5840,6 +5888,12 @@
   <url>
     <loc>https://soontrend.com/articles/monaco-explosion-injures-3-ukrainian-tycoon/</loc>
     <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/montgomery-county-astronaut-returns-to-earth/</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6965,7 +7019,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-release/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -6973,8 +7027,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-09T00:00:00Z</news:publication_date>
-      <news:title>Project Hail Mary Film Release Imminent</news:title>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary Film Release Sparks Global Interest</news:title>
     </news:news>
   </url>
   <url>
@@ -9175,7 +9229,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
