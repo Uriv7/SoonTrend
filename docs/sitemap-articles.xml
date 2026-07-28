@@ -100,6 +100,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/abandoned-spacex-rocket-crash-into-moon/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/abu-ghraib-torture-and-prisoner-abuse-exposed/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
@@ -947,6 +953,20 @@
       </news:publication>
       <news:publication_date>2026-07-27T00:00:00Z</news:publication_date>
       <news:title>Avatar Aang: The Last Airbender Revolution Spreads Across the Globe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/avatar-aang-the-last-airbender-return-sequel-series/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>The Return of Avatar Aang: The Last Airbender - What Does it Mean for the Future?</news:title>
     </news:news>
   </url>
   <url>
@@ -4388,6 +4408,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/live-updates-battling-wildfires-critical-window/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/live-updates-hegseth-iran-war-cost-37-5-billion/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -4977,6 +5003,20 @@
       </news:publication>
       <news:publication_date>2026-07-27T00:00:00Z</news:publication_date>
       <news:title>Main Page in Crisis: Experts Warn of Catastrophic Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-news/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds Now</news:title>
     </news:news>
   </url>
   <url>
@@ -6538,6 +6578,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/our-position-on-open-weights-models-sparks-global-debate/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Our Position on Open-Weights Models Sparks Global Debate</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/paraguay-shock-win-germany-world-cup-upsets/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -7075,7 +7129,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/project-hail-mary-film-update/</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -7083,8 +7137,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-19T00:00:00Z</news:publication_date>
-      <news:title>Project Hail Mary (film) Update: NASA's Mysterious Mission Takes Center Stage</news:title>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Project Hail Mary (film) Update: Global Film Community in Shocks</news:title>
     </news:news>
   </url>
   <url>
@@ -9014,6 +9068,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/sweltering-heat-wave-central-southern-us-second-straight-day/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/swift-kelce-donate-to-food-bank-childrens-mercy/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
@@ -9850,6 +9910,12 @@
       <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
       <news:title>Breaking: Ukrainian Court Detains Suspects in Bomb Attack Case</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ukrainian-drones-strike-neighboring-regions/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ultratraditionalists-rebellion-pope-leo-vatican/</loc>
