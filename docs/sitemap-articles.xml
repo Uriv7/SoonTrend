@@ -956,6 +956,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/avatar-aang-the-last-airbender-news/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Avatar Aang: The Last Airbender Takes Center Stage</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/avatar-aang-the-last-airbender-return-sequel-series/</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>daily</changefreq>
@@ -2422,6 +2436,12 @@
       <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
       <news:title>Disease Breaks Out in Wild Rabbit Population: Experts Warn of Possible Human Spread</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/dmarc-boost-email-security/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/doctor-says-people-who-stay-healthy-as-they-get-older-avoid-getting-too-comfortable/</loc>
@@ -4122,6 +4142,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/kimi-k3-full-weights-open-caveat/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/kinetic-energy-increase-quadratic/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4653,6 +4679,20 @@
       </news:publication>
       <news:publication_date>2026-07-14T00:00:00Z</news:publication_date>
       <news:title>Main Page Alert: Global Chaos Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crash-experts-warn/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crash: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -6550,6 +6590,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/openai-nvidia-500-billion-data-center/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/openai-reduces-codex-model-context-size/</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
@@ -7138,7 +7184,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
-      <news:title>Project Hail Mary (film) Update: Global Film Community in Shocks</news:title>
+      <news:title>Project Hail Mary Film Update: What You Need To Know</news:title>
     </news:news>
   </url>
   <url>
@@ -10042,6 +10088,20 @@
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-iran-war-pauses-trump-gives-space-for-talks/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
+      <news:title>U.S.-Iran War Appears to Pause: Trump Gives Space for Talks to End Strait of Hormuz Standoff</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/us-launches-ninth-night-of-iran-strikes-as-strait-of-hormuz-standoff-sees-oil-price-pass-90-a-barrel/</loc>
