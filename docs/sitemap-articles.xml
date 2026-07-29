@@ -998,6 +998,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/avatar-aang-the-last-airbender-unfolds/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00Z</news:publication_date>
+      <news:title>Avatar Aang's Prophecy Unfolds: The Battle for Balance Begins</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/avatar-last-airbender-2024-tv-series-production-halted/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>daily</changefreq>
@@ -1352,6 +1366,12 @@
       <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
       <news:title>Boeing Gets Green Light to Self-Certify Jets After Months of Turmoil</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/boeing-posts-bigger-loss-than-expected/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/bonnie-tyler-total-eclipse-heart-dies-75/</loc>
@@ -4166,6 +4186,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/kaitlan-collins-controversy/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00Z</news:publication_date>
+      <news:title>Kaitlan Collins Embroiled in Controversy: What's Next?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/karmelo-anthony-sentencing-appeal/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -4871,7 +4905,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis/</loc>
-    <lastmod>2026-07-26</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -4879,8 +4913,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T00:00:00Z</news:publication_date>
-      <news:title>Main Page Crisis Unfolds: What You Need to Know</news:title>
+      <news:publication_date>2026-07-29T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Main Page Crisis Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -5918,6 +5952,20 @@
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/microsoft-breakthrough-ai-model-boosts-cybersecurity-scores/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:00:00Z</news:publication_date>
+      <news:title>Microsoft Breakthrough: AI Model Boosts Cybersecurity Scores by 95.95% at Half the Cost</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/microsoft-ceo-warns-ai-winners/</loc>
@@ -7516,6 +7564,12 @@
   <url>
     <loc>https://soontrend.com/articles/safari-mcp-server-web-developers/</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/sahara-dust-phosphorus-amazon/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9848,6 +9902,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-supreme-court-defamation-verdict/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trump-switches-back-to-qatari-plane/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -10646,6 +10706,12 @@
       <news:publication_date>2026-07-20T00:00:00Z</news:publication_date>
       <news:title>Wildfire Smoke Returns, AQI Forecast to Remain 'Unhealthy' for Everyone</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/wildfires-racing-against-next-heat-wave/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/wireless-communication-revolution-now/</loc>
