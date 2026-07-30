@@ -2786,6 +2786,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/elon-musk-xai-challenges-ai-ban/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Elon Musk's xAI Challenges Ban on AI Tech</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/erling-haaland-biography/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3595,6 +3609,20 @@
       </news:publication>
       <news:publication_date>2026-06-23T00:00:00Z</news:publication_date>
       <news:title>High-Altitude Health Alert: New Book Offers Lifesaving Tips</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/hochul-pied-a-terre-tax-list-normal-affair/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Hochul's Pied-à-Terre Tax List: A 'Normal' Affair?</news:title>
     </news:news>
   </url>
   <url>
@@ -4414,6 +4442,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-claims-6th-victim/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Disease Outbreak Claims 6th Victim, Health Officials Warn of Ongoing Threat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-nyc-neighborhoods/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
@@ -5005,7 +5047,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5013,8 +5055,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-29T00:00:00Z</news:publication_date>
-      <news:title>Breaking: Main Page Crisis Unfolds</news:title>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Deepens: Experts Warn of Global Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -7462,6 +7504,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/reaction-wheel-failures-swift-rescue-mission-orbit/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/reaction-wheel-failures-swift-rescue-mission/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -9508,6 +9556,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/telegram-founder-wanted-list-terrorism-charge/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/texas-tech-ad-kirby-hocutt-ncaa-lawsuit/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>daily</changefreq>
@@ -10342,6 +10396,12 @@
   <url>
     <loc>https://soontrend.com/articles/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz/</loc>
     <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-bans-foreign-humanoid-robots/</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
