@@ -3598,6 +3598,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/hochul-shocking-statement-stuns-tax-experts/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Hochul's Shocking Statement Stuns Tax Experts: 'Not Out of the Ordinary'?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hospitals-repurposing-drugs-at-lower-cost/</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -3774,6 +3788,12 @@
   <url>
     <loc>https://soontrend.com/articles/iowa-native-among-8-killed-in-b-52-bomber-crash-at-edwards-air-force-base/</loc>
     <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/iran-rejects-omani-proposal-strait-hormuz-demands-control/</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4136,6 +4156,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/jumanji-open-world-trailer/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/june-jobs-report-slower-but-steady-gains/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
@@ -4372,6 +4398,20 @@
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-6th-person-dies/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Legionnaires' Disease Outbreak: 6th Person Dies, Health Officials Warn</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/legionnaires-disease-outbreak-nyc-neighborhoods/</loc>
@@ -4933,6 +4973,20 @@
       </news:publication>
       <news:publication_date>2026-06-14T00:00:00Z</news:publication_date>
       <news:title>Main Page Crisis Unfolds: Experts Warn of Devastating Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-crisis-unfolds-experts-warn-of-far-reaching-consequences/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Experts Warn of Far-Reaching Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -7408,6 +7462,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/reaction-wheel-failures-swift-rescue-mission/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/reagan-national-airport-july-4th-flight-schedule/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -9292,6 +9352,12 @@
   <url>
     <loc>https://soontrend.com/articles/sustainable-living-practices/</loc>
     <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/swanky-california-market-linked-to-dangerous-bacterial-outbreak/</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
