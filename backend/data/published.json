@@ -24656,5 +24656,142 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 12,
     "excerpt": "The Federal Reserve has made a historic decision to keep interest rates steady, despite a stubborn inflation rate. What does this mean for you, and how will it impact your finances?"
+  },
+  {
+    "topic": "Tenants in Buildings Haven't Showered in Months Over Legionnaires' Find: What's the Real Story?",
+    "slug": "tenants-in-buildings-haven-t-showered-in-months-over-legionnaires-find",
+    "title": "Tenants in Buildings Haven't Showered in Months Over Legionnaires' Find, As Some Ask Where's Mamdani?",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "Legionnaires' disease",
+      "building safety",
+      "waterborne illnesses",
+      "accountability",
+      "tenant rights",
+      "building management",
+      "public health emergencies",
+      "water treatment"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Tenants in buildings haven't showered in months over Legionnaires' find, as some ask where's Mamdani? The question is not just about the disease itself but also about the accountability of building management and the safety of tenants."
+  },
+  {
+    "topic": "What happens when the DOJ taps a never-used 'alien terrorist' court to deport a mother of a convicted ISIS supporter?",
+    "slug": "doj-taps-alien-terrorist-court-to-deport-convicted-isis-supporter",
+    "title": "DOJ Taps Never-Used 'Alien Terrorist' Court to Deport Mother of Convicted ISIS Supporter: Understanding the Risks and Consequences",
+    "category": "Law",
+    "content_type": "article",
+    "tags": [
+      "national security",
+      "due process",
+      "alien terrorist court",
+      "DOJ deportation proceedings",
+      "ISIS supporter deportation"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "The DOJ has tapped a never-used 'alien terrorist' court to deport the mother of a convicted ISIS supporter, raising concerns about due process and national security risks. The use of this court has been criticized by experts and lawmakers who argue that it undermines the principles of fairness and justice."
+  },
+  {
+    "topic": "Get Ready for the Most Anticipated Superhero Movie of the Year: Spider-Man: Brand New Day Aims to Soar at the Box Office",
+    "slug": "spider-man-brand-new-day-box-office-opening",
+    "title": "Spider-Man: Brand New Day Aims to Soar at the Box Office as It Targets Historic Opening",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "Spider-Man: Brand New Day",
+      "box office",
+      "movie",
+      "film",
+      "marketing",
+      "cinematic experience",
+      "superhero",
+      "action",
+      "adventure",
+      "humor"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Get ready for the most anticipated superhero movie of the year: Spider-Man: Brand New Day aims to soar at the box office with its high-flying opening. With its talented cast, engaging storyline, and impressive visual effects, this movie is poised to make box office history."
+  },
+  {
+    "topic": "7th Person Dies in NYC Legionnaires' Disease Outbreak: What You Need to Know",
+    "slug": "7th-person-dies-in-nyc-legionnaires-disease-outbreak",
+    "title": "Death Toll Rises: 7th Person Dies in NYC Legionnaires' Disease Outbreak",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "Legionnaires' disease",
+      "NYC outbreak",
+      "public health",
+      "safety concerns",
+      "healthcare",
+      "outbreak",
+      "NYC Department of Health"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "A 7th person has died in the ongoing Legionnaires' disease outbreak in NYC, bringing the total number of deaths to 7. Residents are urged to take necessary precautions to protect themselves and their loved ones, including staying hydrated, avoiding close contact with people who are sick, and avoiding areas where the outbreak has been reported."
+  },
+  {
+    "topic": "Stock Futures Rise, Rebound: What's Behind the Volatility?",
+    "slug": "stock-futures-plunge-rebound",
+    "title": "Stock Futures Plunge, Rebound: What's Driving the Volatility?",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "Big Tech",
+      "earnings reports",
+      "Fed Day sell-off",
+      "stock futures"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Stock futures have been on a wild ride, plummeting in the wake of the Fed Day sell-off before rebounding as traders absorbed the latest Big Tech earnings reports. The uncertainty surrounding the market's future has left many feeling uncertain about the future, and the potential for a rebound has sparked hope."
+  },
+  {
+    "topic": "Main Page Under Siege: A Global Cybersecurity Crisis Unfolds",
+    "slug": "main-page-under-siege",
+    "title": "Main Page Under Siege: A Global Cybersecurity Crisis Unfolds",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "main page",
+      "cybersecurity",
+      "hacking",
+      "breach",
+      "threat"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Main Page, a critical online gateway used by billions worldwide, has been compromised by a sophisticated cyber attack, leaving users' sensitive information at risk. The breach is a major concern for individuals and organizations, who rely on the Main Page to access online services, and could result in widespread disruption and data theft."
+  },
+  {
+    "topic": "Matthias Jaissle's Groundbreaking Research Set to Disrupt Industry",
+    "slug": "matthias-jaissle-breakthrough-research",
+    "title": "Breaking: Matthias Jaissle Unveils Groundbreaking Research",
+    "category": "Science",
+    "content_type": "news",
+    "tags": [
+      "Matthias Jaissle",
+      "groundbreaking research",
+      "scientific breakthrough",
+      "industry disruption",
+      "economy",
+      "technology"
+    ],
+    "date": "2026-07-31",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Renowned scientist Matthias Jaissle has just unveiled a revolutionary research project that promises to transform the way we approach a crucial aspect of modern life. The breakthrough is expected to have a significant impact on the global economy, with many experts predicting a substantial increase in economic activity and growth."
   }
 ]

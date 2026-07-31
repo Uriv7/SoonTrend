@@ -88,6 +88,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/7th-person-dies-in-nyc-legionnaires-disease-outbreak/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Death Toll Rises: 7th Person Dies in NYC Legionnaires' Disease Outbreak</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/90-day-fiancé-stars-daughter-medical-emergency-update/</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2654,6 +2668,12 @@
       <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
       <news:title>DOJ Probes Gallego for Campaign Finance Violations: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/doj-taps-alien-terrorist-court-to-deport-convicted-isis-supporter/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/doj-taps-never-used-terrorist-court/</loc>
@@ -5595,7 +5615,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5603,8 +5623,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-27T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Cybersecurity Threat Spreads Rapidly</news:title>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: A Global Cybersecurity Crisis Unfolds</news:title>
     </news:news>
   </url>
   <url>
@@ -6013,6 +6033,20 @@
       </news:publication>
       <news:publication_date>2026-06-14T00:00:00Z</news:publication_date>
       <news:title>Mary-Kate and Ashley's Hair Evolution Explodes: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/matthias-jaissle-breakthrough-research/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Matthias Jaissle Unveils Groundbreaking Research</news:title>
     </news:news>
   </url>
   <url>
@@ -8792,6 +8826,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spider-man-brand-new-day-box-office-opening/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/starmer-resigns-as-uk-prime-minister-again/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -8909,6 +8949,20 @@
       </news:publication>
       <news:publication_date>2026-06-10T00:00:00Z</news:publication_date>
       <news:title>Stock Futures Plunge Amid Fragile Ceasefire: Live Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-futures-plunge-rebound/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Stock Futures Plunge, Rebound: What's Driving the Volatility?</news:title>
     </news:news>
   </url>
   <url>
@@ -9684,6 +9738,12 @@
   <url>
     <loc>https://soontrend.com/articles/telegram-founder-wanted-list-terrorism-charge/</loc>
     <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tenants-in-buildings-haven-t-showered-in-months-over-legionnaires-find/</loc>
+    <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
