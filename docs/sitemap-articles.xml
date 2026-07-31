@@ -152,6 +152,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/agent-skill-force-docs-asd-ste100-simplified-technical-english/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-agent-bankrupted-operator-dn42/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -338,6 +344,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-stocks-beyond-mag-7/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>AI Stocks Surge Beyond The Mag 7 And Headline Noise</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-stocks-resume-their-drops-and-drag-markets-lower-worldwide/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>daily</changefreq>
@@ -514,6 +534,12 @@
   <url>
     <loc>https://soontrend.com/articles/andy-burnham-labour-party-leadership/</loc>
     <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/anthony-fauci-fifth-amendment-congressional-testimony-explained/</loc>
+    <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1386,6 +1412,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/bonds-reject-fed-warsh-warning/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Bonds Reject Fed's Warsh Warning: What Now?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/bonnie-tyler-total-eclipse-heart-dies-75/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2242,6 +2282,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cybersecurity-under-siege-investigating-three-real-world-incidents/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Cybersecurity Under Siege: Investigating Three Real-World Incidents</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cyclosporiasis-hand-washing-importance/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2600,6 +2654,12 @@
       <news:publication_date>2026-07-02T00:00:00Z</news:publication_date>
       <news:title>DOJ Probes Gallego for Campaign Finance Violations: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/doj-taps-never-used-terrorist-court/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/dow-jumps-600-points-hits-fresh-record-on-potential-iran-deal/</loc>
@@ -3777,6 +3837,20 @@
       </news:publication>
       <news:publication_date>2026-06-18T00:00:00Z</news:publication_date>
       <news:title>Inflation and Kevin Warsh Take Center Stage at Federal Reserve Meeting: What's at Stake</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/inflation-red-flag-a-divided-fed-holds-interest-rates-steady/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:00:00Z</news:publication_date>
+      <news:title>Inflation Red Flag: A Divided Fed Holds Interest Rates Steady</news:title>
     </news:news>
   </url>
   <url>
@@ -10046,6 +10120,12 @@
   <url>
     <loc>https://soontrend.com/articles/trump-immediately-fires-new-court-appointed-prosecutor-in-seattle/</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-inflation-economic-woes-election-experts-say/</loc>
+    <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
