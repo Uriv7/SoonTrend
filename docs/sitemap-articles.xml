@@ -268,6 +268,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-hedge-fund-shocking-move/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T00:00:00Z</news:publication_date>
+      <news:title>AI Hedge Fund's Shocking Move: What It Means for You</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-hype-bubble-bursts/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
@@ -425,6 +439,20 @@
       </news:publication>
       <news:publication_date>2026-06-16T00:00:00Z</news:publication_date>
       <news:title>Aiemann Zahabi Breaks Ground in Unprecedented Feat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/aipowercouple-marriage-hedgefund-crisis/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T00:00:00Z</news:publication_date>
+      <news:title>AI's Power Couple Ties the Knot Amid Hedge Fund Crisis</news:title>
     </news:news>
   </url>
   <url>
@@ -1022,6 +1050,12 @@
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Breaking: Atomic Force Microscope Revolution</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/attorney-review-july-4-boat-distress-call/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/australian-right-wing-leader-pauline-hanson-says-multiculturalism-has-failed/</loc>
@@ -3290,6 +3324,12 @@
   <url>
     <loc>https://soontrend.com/articles/fifa-world-cup-guide/</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fifa-world-cup-investment-plan-uefa-boycott/</loc>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6032,6 +6072,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/mandela-barnes-behavior-toward-women/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/marjorie-taylor-greene-bayer-supreme-court-roundup-victory/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -8602,6 +8648,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/space-xai-removal-gas-turbines/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T00:00:00Z</news:publication_date>
+      <news:title>SpaceXAI Says It Will Take A Year To Fully Remove Unpermitted Gas Turbines</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spaceX-aims-to-launch-100k-more-starlink-satellites-for-100x-bandwidth/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -8756,6 +8816,12 @@
       <news:publication_date>2026-07-20T00:00:00Z</news:publication_date>
       <news:title>FIFA World Cup Shock: Spain at the FIFA World Cup Stuns Fans</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/spain-deploys-military-to-ceuta/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/spain-fifa-world-cup-upset/</loc>
@@ -10503,6 +10569,20 @@
       </news:publication>
       <news:publication_date>2026-07-15T00:00:00Z</news:publication_date>
       <news:title>Breaking: Tyler Perry Claims Male Sexual Assault Accuser Proposed Multi-Million Dollar Settlement</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/u-s-investigating-iran-cyberattack-water-infrastructure/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T00:00:00Z</news:publication_date>
+      <news:title>U.S. Investigating Whether Iran Was Behind Cyberattack on Critical Water Infrastructure</news:title>
     </news:news>
   </url>
   <url>
