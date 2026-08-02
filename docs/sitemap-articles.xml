@@ -8,6 +8,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/2026-commonwealth-games/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/2026-fifa-world-cup-event/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -1344,6 +1350,20 @@
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bev-craig-leadership-turning-point/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T00:00:00Z</news:publication_date>
+      <news:title>Bev Craig: A Turning Point in Leadership</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/biden-appointed-judge-reluctantly-approves-elon-musk-settlement/</loc>
@@ -3992,6 +4012,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/india-at-2026-commonwealth-games/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/inflation-and-economy-causes-effects-management/</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -5618,6 +5644,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-security-flaws-exposed/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Security Flaws Exposed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-security-risks-exposed/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -6538,6 +6578,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/migrant-crisis-at-critical-international-border/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Migrant Crisis Escalates at Critical International Border</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/mike-johnson-defends-trump-inflation-comments/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -6980,6 +7034,12 @@
   <url>
     <loc>https://soontrend.com/articles/obsession-2025-film/</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/odyssey-cinematic-masterpiece/</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9674,6 +9734,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/summerslam-2026/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/supergirl-2026-film-benefits/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -10666,6 +10732,20 @@
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trumps-rocket-fuel-for-the-economy-hits-a-roadblock/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T00:00:00Z</news:publication_date>
+      <news:title>Trump's 'Rocket Fuel' for the Economy Hits a Roadblock</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh-permitted-root-access/</loc>
