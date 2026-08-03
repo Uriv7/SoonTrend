@@ -3232,6 +3232,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/fbi-investigates-michigan-minnesota-water-systems/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T00:00:00Z</news:publication_date>
+      <news:title>Cyberattacks on Water Systems: FBI Investigates as Michigan Joins Minnesota</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/fbi-simulates-cyberattacks-in-secret-town/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
@@ -3348,6 +3362,12 @@
   <url>
     <loc>https://soontrend.com/articles/fidji-simo-openai-agi-work-departure/</loc>
     <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fifa-president-investment-plan-opaque-deal/</loc>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5812,6 +5832,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/main-page-under-siege-critical-updates-emerge/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Critical Updates Emerge</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/main-page-under-siege-critical-vulnerability-exposed/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -6974,6 +7008,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/nirmal-purja-dead-in-avalanche/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/nj-town-pulls-91m-from-citizens-bank-over-ice-detention-ties/</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -7333,6 +7373,20 @@
       </news:publication>
       <news:publication_date>2026-07-09T00:00:00Z</news:publication_date>
       <news:title>OpenAI Stock Demands Skyrocket Amid Housing Market Boom</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/openai-super-pac-funded-ai-generated-news-site/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T00:00:00Z</news:publication_date>
+      <news:title>OpenAI's Super PAC Funded AI-Generated News Site Under Fire for Industry Attacks</news:title>
     </news:news>
   </url>
   <url>
@@ -8386,6 +8440,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/show-hn-kakehashi-experimental-userspace-to-run-macos-binaries-on-linux-arm/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Experimental Userspace Could Unlock macOS on Linux ARM</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/show-hn-openknowledge-open-source-ai-first-alternative/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -9198,6 +9266,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spider-man-brand-new-day-slug/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/starmer-resigns-as-uk-prime-minister-again/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -9776,6 +9850,12 @@
   <url>
     <loc>https://soontrend.com/articles/summerslam-2026/</loc>
     <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/summervslam-2026-experience/</loc>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
