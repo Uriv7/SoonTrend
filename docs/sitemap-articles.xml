@@ -564,6 +564,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/amazon-earnings-reveal-trillion-market-cap-point-growth-top-ai-stocks/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Amazon Earnings Reveal $3 Trillion Market Cap Point To Explosive Growth In Top AI Stocks</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/amazon-investigating-engineers-ai-data-center-expansion/</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>daily</changefreq>
@@ -1270,6 +1284,20 @@
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/bankipur-assembly-constituency-election-irregularities/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Bankipur Assembly Constituency in Crisis: Election Officials Scramble to Address Irregularities</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/bargain-buffets-refuse-to-die/</loc>
@@ -3136,6 +3164,12 @@
   <url>
     <loc>https://soontrend.com/articles/exapunks-2018-game/</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/exclusive-jadeveon-clowney-signing-texas/</loc>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5975,7 +6009,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5983,8 +6017,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-02T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Critical Infusion of Urgency</news:title>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -9379,7 +9413,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/spider-man-brand-new-day/</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10421,7 +10455,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11270,6 +11304,20 @@
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-dollar-weakens-against-japanese-yen-officials-intervene/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>US Dollar Weakens Sharply Against Japanese Yen After Officials Intervene</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/us-drops-charges-against-olympian/</loc>
