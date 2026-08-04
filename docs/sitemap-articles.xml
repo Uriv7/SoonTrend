@@ -182,6 +182,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/acting-ag-blanche-rescinds-1-8b-fund/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/adhd-linked-chronic-pain-other-conditions/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1286,6 +1292,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/bankipur-assembly-constituency-crisis-deepens/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Bankipur Assembly Constituency Crisis Deepens: What's at Stake?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/bankipur-assembly-constituency-election-irregularities/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
@@ -1994,6 +2014,12 @@
   <url>
     <loc>https://soontrend.com/articles/cheaper-open-intelligent-ai-models-us-market-inroads/</loc>
     <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/child-among-2-being-treated-for-measles-in-lehigh-county-health-officials-say/</loc>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3990,6 +4016,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/heart-attack-grill-closes/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Heart Attack Grill Closes Amid Widespread Health Concerns</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/hepatitis-b-cure-vaccine-breakthrough/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
@@ -5963,6 +6003,20 @@
       </news:publication>
       <news:publication_date>2026-07-05T00:00:00Z</news:publication_date>
       <news:title>Main Page in Crisis: Experts Warn of Catastrophic Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-transformation/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Sudden and Unexpected Transformation</news:title>
     </news:news>
   </url>
   <url>
@@ -8326,6 +8380,12 @@
   <url>
     <loc>https://soontrend.com/articles/reviving-a-15-year-old-netbook-with-arch-linux/</loc>
     <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/rfk-jr-backs-measles-vaccines-vs-fauci/</loc>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10832,6 +10892,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trump-claims-iran-talks-monday/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trump-claims-lawsuit-white-house-ufc-fight-late/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>daily</changefreq>
@@ -11372,6 +11438,20 @@
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-dollar-weaken-japanese-yen-market-interventions/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Dollar Plunges: Market Intervention Sparks Turmoil</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/us-dollar-weakens-against-japanese-yen-officials-intervene/</loc>
