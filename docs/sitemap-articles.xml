@@ -2440,6 +2440,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/cure-dairy-allergy-experimental-treatment/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough Treatment Cures 16-Year-Old's Dairy Allergy in Groundbreaking Experiment</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/cyberdecks-abandon-digital-dreams-for-analog-revival/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -3020,6 +3034,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/electric-air-taxis-ready-for-takeoff/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Electric Air Taxis Soar to New Heights: Here's What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/elizabeth-banks-rebooting-beloved-family-adventure-franchise/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -3466,6 +3494,20 @@
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/fifas-world-cup-sell-off-plan-sparks-uefa-threat-of-legal-action/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>FIFA's World Cup Sell-Off Plan Sparks UEFA Threat of Legal Action</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/flavio-cobolli-technology-innovation/</loc>
@@ -9860,6 +9902,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/stock-market-today-return-to-diplomacy-brings-reprieve-for-oil-prices-live-updates/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
+      <news:title>Oil Prices Plummet as Diplomacy Returns: What It Means for You</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/stock-market-today-spacex-set-to-overtake-amazon-by-market-cap/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -9990,6 +10046,12 @@
   <url>
     <loc>https://soontrend.com/articles/sully-sullenberger-miracle-on-the-hudson-pilot-discovers-alzheimers/</loc>
     <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/summerslam-2026-experience-the-ultimate-wrestling-spectacle/</loc>
+    <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10440,6 +10502,12 @@
       <news:publication_date>2026-07-03T00:00:00Z</news:publication_date>
       <news:title>The Free Market Lie Exposed: 25 Gbit Internet Speeds Elusive to Most</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/the-odyssey-2026-film-a-cinematic-masterpiece/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film-cinematic-masterpiece/</loc>
