@@ -2030,6 +2030,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/chinas-ai-blitz-creates-death-zone-for-rival-us-model-makers/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>China's AI Blitz Creates 'Death Zone' for Rival US Model Makers: Industry in Crisis</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/chinas-economy-grows-at-slowest-pace-in-years/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3088,6 +3102,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/electronic-arts-acquisition/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Electronic Arts Has Been Fully Acquired By Trio Of Investor: Industry Rocked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/elizabeth-banks-rebooting-beloved-family-adventure-franchise/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -3785,7 +3813,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/glen-hansard/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6353,6 +6381,20 @@
       </news:publication>
       <news:publication_date>2026-07-24T00:00:00Z</news:publication_date>
       <news:title>Main Page Undergoing Sudden and Widespread Changes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-upgrade/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Urgent Overhaul - Critical Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -9574,6 +9616,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spotify-exec-bet-ai-music-stock-plunges/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Spotify Execs Bet People Will Pay for AI Music. Stock Price Plunges: A Critical Turning Point</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/starmer-resigns-as-uk-prime-minister-again/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -10637,7 +10693,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10784,6 +10840,12 @@
   <url>
     <loc>https://soontrend.com/articles/tokenomics-business-growth/</loc>
     <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tom-holland-actor-benefits/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12284,6 +12346,12 @@
   <url>
     <loc>https://soontrend.com/articles/zelensky-warns-air-defenses-are-being-overwhelmed/</loc>
     <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/zendaya/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
