@@ -3006,6 +3006,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/eight-myths-on-software-engineering-and-genai-exposed/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Eight Myths on Software Engineering and GenAI Exposed: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/eight-people-killed-b-52-bomber-crash/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -3730,6 +3744,20 @@
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/georgia-woman-sues-over-wrong-cancer-diagnosis/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Wrong Cancer Diagnosis Lawsuit: Georgia Woman Sues</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/gibraltar-ushers-in-a-new-era-as-british-territorys-border-fence-with-spain-is-removed/</loc>
@@ -6105,7 +6133,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -6113,8 +6141,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: What's at Stake for Your Digital Life</news:title>
     </news:news>
   </url>
   <url>
@@ -7338,6 +7366,12 @@
   <url>
     <loc>https://soontrend.com/articles/obsession-2025-film/</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/odyssey-2026-film/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8602,6 +8636,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/senate-committee-advances-blanches-attorney-general-nomination/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Senate Committee Advances Blanche's Attorney General Nomination in Surprise Move</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/senate-passes-housing-bill-to-boost-affordability/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>daily</changefreq>
@@ -9510,6 +9558,12 @@
   <url>
     <loc>https://soontrend.com/articles/spider-man-brand-new-day-slug/</loc>
     <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/spider-man-brand-new-day-stunning-narrative-changes/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11210,6 +11264,12 @@
   <url>
     <loc>https://soontrend.com/articles/u-s-space-force-is-learning-to-scramble-rocket-launches-like-fighter-jets/</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ufc-fighter-allan-nascimento-heart-attack/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
