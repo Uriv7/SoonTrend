@@ -2290,6 +2290,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/column-heres-what-happens-to-your-brain/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/computation-tipping-point-revolution/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>daily</changefreq>
@@ -3178,6 +3184,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/entropy-of-a-markov-chain-in-chaos/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Entropy of a Markov Chain in Chaos: Experts Warn of Unprecedented Consequences</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/erling-haaland-biography/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3808,6 +3828,12 @@
   <url>
     <loc>https://soontrend.com/articles/give-smart-people-tools-do-smart-things/</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/glen-hansard-biography/</loc>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6063,7 +6089,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-transformation/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -6071,8 +6097,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
-      <news:title>Main Page Undergoes Sudden and Unexpected Transformation</news:title>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Sudden, Unprecedented Transformation</news:title>
     </news:news>
   </url>
   <url>
@@ -9262,6 +9288,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>SpaceX AI Spending Unnerves Wall Street Despite Promising Quick Payoff: What's Behind the Shake-Up?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spacex-goldman-sachs-fees-dispute/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -9611,7 +9651,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/spider-man-brand-new-day/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11633,6 +11673,20 @@
       </news:publication>
       <news:publication_date>2026-07-28T00:00:00Z</news:publication_date>
       <news:title>U.S.-Iran War Appears to Pause: Trump Gives Space for Talks to End Strait of Hormuz Standoff</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/us-jobs-market-in-flux/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T00:00:00Z</news:publication_date>
+      <news:title>Jobs Market in Flux: US Job Openings Slip to 7.4 Million Amid Unrest</news:title>
     </news:news>
   </url>
   <url>
