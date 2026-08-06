@@ -370,6 +370,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-models-poisoning-code-safety-testing/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-patent-ruling-top-court-landmark-decision/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>daily</changefreq>
@@ -560,6 +566,12 @@
   <url>
     <loc>https://soontrend.com/articles/alzheimers-spreads-through-brain/</loc>
     <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/amat-stock-scrutiny-after-michael-burry-short-bet/</loc>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -882,6 +894,20 @@
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/arrested-at-reflecting-pool-woman-details-heartbreaking-toll-case-has-taken/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>Arrested at Reflecting Pool: Woman Details 'Heartbreaking' Toll Case Has Taken</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/arthur-fery-Unlocking-Power-Human-Potential/</loc>
@@ -1656,6 +1682,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/born-against-labmda/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/brain-cancer-misdiagnosis-crisis-unfolds/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
@@ -1818,6 +1850,12 @@
   <url>
     <loc>https://soontrend.com/articles/californian-dies-from-rare-disease/</loc>
     <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cambridge-professor-plagiarism-credentials/</loc>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7272,6 +7310,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/newborn-cocaine-hippo-rescued/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Newborn Cocaine Hippo Rescued</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/news-s-p-500-rejects-spacex-openai-anthropic/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -9302,6 +9354,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/spacex-ai-spending-wall-street/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>SpaceX's AI Spending Scares Wall Street Amidst Promises of Quick Payoff</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/spacex-goldman-sachs-fees-dispute/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -9416,6 +9482,20 @@
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/spacex-stock-plummets-amid-revenue-boom/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>SpaceX Stock Plummets Amid Revenue Boom: Why the Baffling Decline?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/spacex-stock-post-honeymoon-faith-phase/</loc>
