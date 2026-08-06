@@ -2374,6 +2374,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/court-records-detail-troubled-past-of-spokane-fire-suspect/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>New Evidence Emerges on Troubled Past of Spokane Fire Suspect</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/courtney-stodden-allegations-explained/</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
@@ -3280,6 +3294,12 @@
   <url>
     <loc>https://soontrend.com/articles/euclid-telescope-spots-oldest-quasars/</loc>
     <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/europe-blowing-up-riverbeds-drought/</loc>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5665,7 +5685,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-crisis-unfolds/</loc>
-    <lastmod>2026-07-22</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5673,8 +5693,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
-      <news:title>Main Page Crisis Unfolds: Key Details and Immediate Reactions</news:title>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>Main Page Crisis Unfolds: Critical Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -7934,6 +7954,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/point72-citadel-among-hedge-funds-hit-by-ai-vishing-attacks/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>AI Vishing Attacks Put Hedge Funds on High Alert</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/pokemon-go-military-drones-tech/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>daily</changefreq>
@@ -9294,6 +9328,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/space-x-rocket-piece-crashes-moon/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/space-x-starlink-satellites-broadband/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -10063,6 +10103,20 @@
       </news:publication>
       <news:publication_date>2026-07-11T00:00:00Z</news:publication_date>
       <news:title>Dow Futures Surge as SK Hynix Readies for Historic Debut</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-market-today-dow-futures-tick-up-spacex-stock-slides-after-earnings-live-updates/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:00:00Z</news:publication_date>
+      <news:title>Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates</news:title>
     </news:news>
   </url>
   <url>
@@ -11316,6 +11370,12 @@
   <url>
     <loc>https://soontrend.com/articles/trump-strait-hormuz-shipping-risk/</loc>
     <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-strait-of-hormuz-deal/</loc>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

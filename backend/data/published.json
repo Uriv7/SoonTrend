@@ -27371,5 +27371,145 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "SpaceX has announced a significant increase in AI spending, with reports suggesting that the company is allocating a substantial chunk of its budget to AI research and development. This move has sent shockwaves through the financial community, with many investors expressing concerns about the potential risks and rewards associated with this shift in strategy."
+  },
+  {
+    "topic": "What Happened When a Piece of a SpaceX Rocket the Size of a School Bus Crashed into the Moon?",
+    "slug": "space-x-rocket-piece-crashes-moon",
+    "title": "A Piece of SpaceX Rocket the Size of a School Bus Crashes into the Moon, Explained",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "SpaceX",
+      "Moon",
+      "Space exploration",
+      "Rocket crash",
+      "Impact site",
+      "Geology",
+      "Space mission",
+      "Risk assessment"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 9,
+    "excerpt": "A piece of a SpaceX rocket the size of a school bus crashed into the Moon, sending shockwaves through the space community. The impact site of the SpaceX rocket piece will provide valuable insights into the Moon's composition and geology."
+  },
+  {
+    "topic": "A Potential Breakthrough: Trump's Deal to Reopen the Strait of Hormuz Could Bring Relief to Oil Markets",
+    "slug": "trump-strait-of-hormuz-deal",
+    "title": "Trump Says Deal to Reopen the Strait of Hormuz Could Come as Early as Wednesday",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Strait of Hormuz",
+      "US-Iran conflict",
+      "oil market",
+      "geopolitics",
+      "Middle East"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday, bringing relief to oil markets and easing tensions between the US and Iran."
+  },
+  {
+    "topic": "The Devastating Impact of Europe Is Blowing Up Riverbeds as an Extreme Drought Wreaks Havoc on Its Economy",
+    "slug": "europe-blowing-up-riverbeds-drought",
+    "title": "Europe Is Blowing Up Riverbeds Due To Extreme Drought",
+    "category": "Environment",
+    "content_type": "article",
+    "tags": [
+      "drought",
+      "riverbeds",
+      "water scarcity",
+      "economic impact",
+      "environmental disaster",
+      "sustainable practices",
+      "climate change",
+      "water conservation"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy, causing widespread disruption to industries and communities. The drought has significant implications for the region's environment and economy, with the potential for long-term damage to ecosystems and communities."
+  },
+  {
+    "topic": "Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates",
+    "slug": "stock-market-today-dow-futures-tick-up-spacex-stock-slides-after-earnings-live-updates",
+    "title": "Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "stock market",
+      "Dow futures",
+      "SpaceX",
+      "earnings reports",
+      "investor sentiment",
+      "market volatility",
+      "tech industry",
+      "economy"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The Dow futures have ticked up 100 points despite a surprise slide in SpaceX stock after the company released its latest earnings. The exact reason for the decline in SpaceX's stock is unclear, but analysts point to the company's significant revenue drop from last quarter."
+  },
+  {
+    "topic": "Point72, Citadel Among Hedge Funds Hit by AI Vishing Attacks: What You Need to Know",
+    "slug": "point72-citadel-among-hedge-funds-hit-by-ai-vishing-attacks",
+    "title": "AI Vishing Attacks Put Hedge Funds on High Alert",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "hedge fund security breaches",
+      "AI-powered vishing attacks",
+      "financial data compromise",
+      "Point72",
+      "Citadel",
+      "financial sector",
+      "cybersecurity",
+      "data breaches"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Several top hedge funds, including Point72 and Citadel, have fallen victim to AI-powered vishing attacks, compromising sensitive financial information. The attacks highlight a major vulnerability in the financial sector's security infrastructure and raise serious concerns about the potential for widespread data breaches."
+  },
+  {
+    "topic": "New Evidence Emerges on Troubled Past of Spokane Fire Suspect",
+    "slug": "court-records-detail-troubled-past-of-spokane-fire-suspect",
+    "title": "New Evidence Emerges on Troubled Past of Spokane Fire Suspect",
+    "category": "Law",
+    "content_type": "news",
+    "tags": [
+      "law",
+      "crime",
+      "mental health",
+      "public safety",
+      "investigation"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "New evidence emerges on suspicious behavior of Spokane fire suspect, raising questions about their potential danger to the public."
+  },
+  {
+    "topic": "Breaking: Main Page Emergency, What You Need to Know Now",
+    "slug": "main-page-crisis-unfolds",
+    "title": "Main Page Crisis Unfolds: Critical Updates",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "Main Page",
+      "technology",
+      "crisis",
+      "recovery",
+      "services",
+      "updates",
+      "news"
+    ],
+    "date": "2026-08-06",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "The Main Page has shut down due to a critical failure, affecting millions. The Main Page's team is working to restore services, with updates provided regularly. Stay informed about the Main Page's status and look for alternative solutions if necessary, as the Main Page's recovery progresses."
   }
 ]
