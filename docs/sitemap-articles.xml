@@ -2100,6 +2100,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/chris-hansen-expert-tv-host-journalist/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/christian-pulisic-profile/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -5228,6 +5234,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/leipzig-drone-bomb-found-near-ukrainian-plane/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Breaking: Leipzig Drone Bomb Sparks Alarm Over Ammunition-Carrying Plane</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lia-jones-married-to-medicine-colin-dias-allegations/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -5965,7 +5985,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-overhaul/</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -5973,8 +5993,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-25T00:00:00Z</news:publication_date>
-      <news:title>Main Page Undergoes Surprise Overhaul</news:title>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Main Page Undergoes Sudden, Widespread Overhaul - Experts Baffled</news:title>
     </news:news>
   </url>
   <url>
@@ -9340,6 +9360,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/space-x-stock-drops-on-surprise-ai-bill-vote/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>SpaceX Stock Plunges on Surprise AI Bill Vote</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/space-x-stock-post-honeymoon-faith-phase/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>daily</changefreq>
@@ -10867,7 +10901,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/the-odyssey-2026-film/</loc>
-    <lastmod>2026-08-05</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
