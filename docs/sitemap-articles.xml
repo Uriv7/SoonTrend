@@ -154,6 +154,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/abdul-el-sayed-healthcare-innovation/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/abu-ghraib-torture-and-prisoner-abuse-exposed/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
@@ -3890,6 +3896,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/github-actions-degraded-availability/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Breakdown Looms: GitHub Actions and Pages Are Experiencing Degraded Availability</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/give-smart-people-tools-do-smart-things/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -4650,6 +4670,12 @@
   <url>
     <loc>https://soontrend.com/articles/japans-experimental-reusable-rocket-safely-returns/</loc>
     <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/jason-arday-leadership-diversity/</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5519,6 +5545,20 @@
       </news:publication>
       <news:publication_date>2026-07-07T00:00:00Z</news:publication_date>
       <news:title>Main Page Chaos: The Unexpected Shift in Online Navigation</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/main-page-compromised/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -6826,6 +6866,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/meta-faces-567m-lawsuit-over-childrens-mental-health/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Meta Faces $567M Lawsuit Over Children's Mental Health</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/meta-pauses-ai-training-program-after-data-leak-employee-ire/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -7293,6 +7347,20 @@
       </news:publication>
       <news:publication_date>2026-07-22T00:00:00Z</news:publication_date>
       <news:title>1 in 4 Workers Stay in Jobs for Health Insurance, a Survey Says</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/nearly-200-deaths-linked-to-weight-loss-drugs-ozempic-and-mounjaro/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Warning Signs: Nearly 200 Deaths Linked to Weight-Loss Drugs Ozempic and Mounjaro</news:title>
     </news:news>
   </url>
   <url>
@@ -7940,6 +8008,12 @@
   <url>
     <loc>https://soontrend.com/articles/people-at-central-pennsylvania-courthouse-exposed-to-measles/</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/perez-hilton-entertainment-news/</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
