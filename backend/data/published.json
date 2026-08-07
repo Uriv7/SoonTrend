@@ -27775,5 +27775,143 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 5,
     "excerpt": "GitHub Actions and Pages are experiencing degraded availability, leaving developers worldwide without access to critical tools and services. The disruption has sparked widespread concern, with many questioning the underlying causes and potential consequences. As the situation continues to unfold, it is clear that the future of development hangs in the balance."
+  },
+  {
+    "topic": "Stay on top of the latest news: Iran says Hormuz deal is close but US must meet commitments before strait reopens.",
+    "slug": "iran-hormuz-deal-close-us-commitments",
+    "title": "Live Updates: Iran Says Hormuz Deal Is Close But US Must Meet Commitments Before Strait Reopens: Stability Ensured",
+    "category": "Politics",
+    "content_type": "article",
+    "tags": [
+      "Hormuz Strait",
+      "US-Iran tensions",
+      "global oil prices",
+      "regional stability",
+      "international relations",
+      "strategic partnerships",
+      "diplomatic efforts"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The Hormuz Strait deal is a proposed agreement between Iran and the US to reopen the strategically important waterway, which has been closed due to tensions between the two countries. The deal aims to ensure the safe passage of oil tankers through the strait, which is a critical chokepoint for global oil supplies."
+  },
+  {
+    "topic": "Versant shares surge 13% after company raises 2026 outlook, signaling growth through platforms and advertising momentum",
+    "slug": "versant-shares-surge-13",
+    "title": "Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum boosts growth",
+    "category": "Business",
+    "content_type": "article",
+    "tags": [
+      "stock market trends",
+      "company outlook",
+      "advertising momentum",
+      "platform growth",
+      "growth strategy",
+      "share price increase",
+      "market analysis",
+      "financial performance",
+      "business expansion"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8,
+    "excerpt": "Versant shares surge 13% after company raises 2026 outlook, signaling growth through platforms and advertising momentum. The company's growth strategy, which involves leveraging emerging trends and strategic partnerships, has been a key factor in its success."
+  },
+  {
+    "topic": "Embark on a journey with Spider-Man: Brand New Day, a game-changing series that reimagines the web-slinger's world.",
+    "slug": "spider-man-brand-new-day",
+    "title": "Unlocking the Marvelous World of Spider-Man: Brand New Day",
+    "category": "Entertainment",
+    "content_type": "article",
+    "tags": [
+      "Spider-Man",
+      "Brand New Day",
+      "Marvel Comics",
+      "Comic book series",
+      "Superhero",
+      "Peter Parker"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Discover the thrilling comic book series that redefined Spider-Man's universe and characters, exploring new beginnings, fresh storylines, and revamped relationships. Spider-Man: Brand New Day is a must-read for fans of the web-slinger, offering a fresh start for the character and his universe."
+  },
+  {
+    "topic": "New Mexico Court Orders Meta to Pay $567m Over Harms to Children’s Mental Health in Landmark Decision",
+    "slug": "meta-ordered-to-pay-567m-for-harm-to-kids",
+    "title": "Meta Ordered to Pay $567m for Harm to Kids",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "social media",
+      "mental health",
+      "tech news",
+      "Meta",
+      "lawsuit",
+      "children's safety",
+      "online regulation"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "A New Mexico court has ordered Meta to pay $567m due to the harmful effects of its social media platforms on children's mental health, a landmark decision that sets a precedent for tech company accountability and underscores the urgent need for a safer, healthier digital environment. This ruling prompts a critical examination of social media's influence on young users and the responsibility of tech companies to prioritize user well-being, marking the beginning of a new era in the effort to protect users and promote healthier online habits."
+  },
+  {
+    "topic": "Beaver's Mini Mart Sued by Buc-ee's Over Alleged Trademark Infringement",
+    "slug": "beavers-mini-mart-faces-costly-buc-ees-copyright-lawsuit",
+    "title": "Beaver's Mini Mart Faces Costly Buc-ee's Copyright Lawsuit: What You Need to Know",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "Beaver's Mini Mart",
+      "Buc-ee's",
+      "copyright lawsuit",
+      "trademark infringement",
+      "branding dispute",
+      "convenience store industry"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Beaver's Mini Mart is facing a costly copyright lawsuit from Buc-ee's over alleged trademark and branding infringement. The lawsuit has significant implications for the convenience store industry and consumers, and may set a precedent for the use of intellectual property in the industry."
+  },
+  {
+    "topic": "SpaceX Stock Rises. Millions of Shares Unlock Today—Brace For More Volatility.",
+    "slug": "space-x-stock-rises-millions-of-shares-unlock-today---brace-for-more-volatility",
+    "title": "SpaceX Stock Rises. Millions of Shares Unlock Today—Brace For More Volatility.",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "SpaceX stock",
+      "market volatility",
+      "investors affected",
+      "practical implications",
+      "caution"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "SpaceX stock has experienced a remarkable surge in recent days, with millions of shares unlocking and trading at unprecedented levels. The sudden rise in stock value has sparked concerns of further market volatility, as investors and analysts try to make sense of this sudden shift."
+  },
+  {
+    "topic": "Russia's Energy Infrastructure Under Fire as Ukraine Says Two Oil Refineries Hit",
+    "slug": "russia-energy-infra-hit",
+    "title": "Russia's Energy Infrastructure Under Fire as Ukraine Says Two Oil Refineries Hit",
+    "category": "Politics",
+    "content_type": "news",
+    "tags": [
+      "Russia-Ukraine conflict",
+      "global energy market",
+      "oil prices",
+      "energy supply",
+      "Moscow targets energy sites",
+      "Ukraine says two Russian oil refineries hit",
+      "global economy"
+    ],
+    "date": "2026-08-07",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Ukraine says two Russian oil refineries hit, as Moscow targets energy sites, in a move that has sent shockwaves through the global energy market. The strikes have significant implications for consumers, with many facing higher energy prices in the coming weeks."
   }
 ]

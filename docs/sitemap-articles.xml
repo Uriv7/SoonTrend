@@ -1386,6 +1386,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/beavers-mini-mart-faces-costly-buc-ees-copyright-lawsuit/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Beaver's Mini Mart Faces Costly Buc-ee's Copyright Lawsuit: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/bedford-train-crash-importance-of-railway-safety/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -4466,6 +4480,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/iran-hormuz-deal-close-us-commitments/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/iran-rejects-omani-proposal-strait-hormuz-demands-control/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -6880,6 +6900,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/meta-ordered-to-pay-567m-for-harm-to-kids/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Meta Ordered to Pay $567m for Harm to Kids</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/meta-pauses-ai-training-program-after-data-leak-employee-ire/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -8704,6 +8738,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/russia-energy-infra-hit/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>Russia's Energy Infrastructure Under Fire as Ukraine Says Two Oil Refineries Hit</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/russia-ukraine-conflict-crimea-fuel-cuts/</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -9462,6 +9510,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/space-x-stock-rises-millions-of-shares-unlock-today---brace-for-more-volatility/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:00:00Z</news:publication_date>
+      <news:title>SpaceX Stock Rises. Millions of Shares Unlock Today—Brace For More Volatility.</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/space-xai-removal-gas-turbines/</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
@@ -9879,7 +9941,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/spider-man-brand-new-day/</loc>
-    <lastmod>2026-08-05</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12024,6 +12086,12 @@
   <url>
     <loc>https://soontrend.com/articles/vermont-not-participating-in-trump-fair/</loc>
     <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/versant-shares-surge-13/</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
