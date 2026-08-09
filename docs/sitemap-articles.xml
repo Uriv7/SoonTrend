@@ -6906,6 +6906,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/markets-rebound-on-likely-u-s-job-losses-airbnb-surges-and-trade-desk-plunges/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T00:00:00Z</news:publication_date>
+      <news:title>Markets Rebound on Unlikely U.S. Job Losses, Airbnb Surges and Trade Desk Plunges | Markets P.M. for Aug. 7</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/markets-triple-threat-war-ai-bubble-fed-rates/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
@@ -7034,6 +7048,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/melatonin-impairs-morning-cognition-healthy-young-adults/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough Study Reveals Melatonin Impairs Morning Cognition in Healthy Young Adults</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/memory-crash-stocks-down-30/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -7051,6 +7079,20 @@
       </news:publication>
       <news:publication_date>2026-06-12T00:00:00Z</news:publication_date>
       <news:title>Menopause Hormone Therapy Demand Surges, But Training Gaps Widen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mercedes-amg-logo-lawsuit-class-action-alleges-burn-hazard/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T00:00:00Z</news:publication_date>
+      <news:title>Mercedes AMG Logo Lawsuit: Class Action Alleges Burn Hazard</news:title>
     </news:news>
   </url>
   <url>
@@ -7696,6 +7738,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/news-senate-confirms-todd-blanche-as-attorney-general/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T00:00:00Z</news:publication_date>
+      <news:title>Senate Confirms Todd Blanche as Attorney General After Weeks of Uncertainty</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/newsom-double-standard-billionaires-tax/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -7718,6 +7774,12 @@
   <url>
     <loc>https://soontrend.com/articles/nirmal-purja-dead-in-avalanche/</loc>
     <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/nitecores-latest-power-bank-ultra-lightweight-and-compact/</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8742,6 +8804,12 @@
   <url>
     <loc>https://soontrend.com/articles/rage-giving-public-media-federal-funds/</loc>
     <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/raiders-training-camp-cousins-crosby-sit-out/</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12108,6 +12176,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/united-wholesale-mortgage-phoenix-suns-financial-impact/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/unitedhealth-surpasses-expectations/</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -12718,6 +12792,12 @@
       <news:publication_date>2026-06-24T00:00:00Z</news:publication_date>
       <news:title>Quantum Cryptocurrency Deadline Slashed: What You Need to Know</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/why-a-prosecution-of-anthony-fauci-could-face-challenges-in-court/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/why-i-email-complete-strangers/</loc>
