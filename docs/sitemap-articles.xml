@@ -3366,6 +3366,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/earthquake-response-strains-new-government-and-rescuers/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ebola-outbreak-hardship-health-workers/</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -4072,6 +4078,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/former-google-exec-valuation-ai-startup/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/founders-against-ai-shutdown/</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
@@ -4568,6 +4580,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/heart-aerospace-completes-first-flight/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T00:00:00Z</news:publication_date>
+      <news:title>Heart Aerospace Completes First Flight of Largest Electric Aircraft</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/heart-attack-grill-closes/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
@@ -4655,6 +4681,20 @@
       </news:publication>
       <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
       <news:title>Hochul's Shocking Statement Stuns Tax Experts: 'Not Out of the Ordinary'?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/home-depot-ceo-temporary-medical-leave-top-execs-to-run-retailer/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T00:00:00Z</news:publication_date>
+      <news:title>Home Depot CEO Takes Temporary Medical Leave, Two Top Execs to Run Retailer Amid Ongoing Crisis</news:title>
     </news:news>
   </url>
   <url>
@@ -4850,6 +4890,20 @@
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/investor-nelson-peltz-prepares-bid-for-wendys/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T00:00:00Z</news:publication_date>
+      <news:title>Billionaire Investor Nelson Peltz Eyes Potential Acquisition of Wendy's</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/investors-get-real-time-view-uk-bond-market-activity-first-time/</loc>
@@ -7325,6 +7379,20 @@
       </news:publication>
       <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
       <news:title>Supreme Court Ruling Sends Shockwaves Through Cancer Community</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mark-walter-investigation-explained-lakers-12-5-billion-sale/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T00:00:00Z</news:publication_date>
+      <news:title>Mark Walter Investigation Explained: Timing of Lakers' $12.5 Billion Sale Can't Be Ignored: What's Next?</news:title>
     </news:news>
   </url>
   <url>
@@ -12708,6 +12776,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/trumps-cabinet-decoy-plane-quiet-exit/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/trumps-rocket-fuel-for-the-economy-hits-a-roadblock/</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>daily</changefreq>
@@ -13222,6 +13296,12 @@
   <url>
     <loc>https://soontrend.com/articles/vance-caine-concerns-war-escalating-us-pauses-strikes/</loc>
     <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/vehicle-in-question-amid-search-for-missing-teen/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
