@@ -4334,6 +4334,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/glm-5-3-frontier-coding-unleashes-emergent-cyber-capabilities/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Breaking: GLM-5.3 Frontier Coding Unleashes Emergent Cyber Capabilities</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/global-aviation-crisis-2026-rio-de-janeiro-mid-air-collision/</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
@@ -4724,6 +4738,12 @@
       <news:publication_date>2026-08-13T00:00:00Z</news:publication_date>
       <news:title>Home Depot CEO Takes Temporary Medical Leave, Two Top Execs to Run Retailer Amid Ongoing Crisis</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/hormuz-remains-blocked-global-trade/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/hospitals-repurposing-drugs-at-lower-cost/</loc>
@@ -5550,6 +5570,20 @@
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/kospibear-market-exit-tech-rally-nikkei-gains-china-slips/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Market Rebound: KOSPI Exits Bear Market as Tech Rally Returns; Nikkei Gains, China Slips</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/krea-2-sota-open-weights-12b-image-model/</loc>
@@ -9204,6 +9238,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/prichard-colon-benefits/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/prichard-colon-unlock-your-potential/</loc>
     <lastmod>2026-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -9737,6 +9777,20 @@
       </news:publication>
       <news:publication_date>2026-08-09T00:00:00Z</news:publication_date>
       <news:title>Roger Craig (American football) Scandal Sparks Outrage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ruby-4-0-universal-rce-deserialization-gadget-chain/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Ruby 4.0 Universal RCE Deserialization Gadget Chain Alert</news:title>
     </news:news>
   </url>
   <url>
@@ -12858,6 +12912,12 @@
   <url>
     <loc>https://soontrend.com/articles/ts-2026-009-insecure-argument-handling-tailscale-ssh/</loc>
     <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/twitch-amazon-ai-backlash/</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
