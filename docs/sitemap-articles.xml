@@ -2272,6 +2272,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/choose-boring-technology-2015-sparks-global-debate/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Choose Boring Technology (2015) Sparks Global Debate on Reliability</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/chris-christie-trump-crypto-haul-putin-style-corruption/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -3543,6 +3557,20 @@
       </news:publication>
       <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
       <news:title>Musk and Altman Spar on X Amid OpenAI Lawsuit Fallout</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/elon-musk-spacex-ai-revenue/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Elon Musk Drops Bombshell on SpaceX Investors: AI Revenue to Eclipse Traditional Business by September</news:title>
     </news:news>
   </url>
   <url>
@@ -5258,6 +5286,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/joshua-kushner-business/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/jubilation-as-la-roja-beat-argentina-to-win-second-world-cup-title/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -6933,7 +6967,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/main-page-under-siege/</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -6941,8 +6975,8 @@
         <news:name>SoonTrend</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-12T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: What You Need to Know</news:title>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
     </news:news>
   </url>
   <url>
@@ -9170,6 +9204,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/prichard-colon-unlock-your-potential/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/prime-day-deals-end-tonight/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -10971,7 +11011,7 @@
   </url>
   <url>
     <loc>https://soontrend.com/articles/spider-man-brand-new-day/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11060,6 +11100,20 @@
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-futures-await-inflation-data-live-updates/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Stock Futures Hang in the Balance as Traders Await Inflation Data: A Crucial Moment in Market Uncertainty</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/stock-futures-iran-deal-inflation-data/</loc>
