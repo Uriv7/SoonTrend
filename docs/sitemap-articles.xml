@@ -5676,6 +5676,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/lawsuit-seeks-to-ban-trump-media/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Lawsuit Seeks to Ban Trump Media from Charging for Early Access to President's Posts</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lebron-james-biography/</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -7010,7 +7024,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
-      <news:title>Main Page Under Siege: Experts Warn of Catastrophic Consequences</news:title>
+      <news:title>Main Page Under Siege: What's Happening and Why It Matters</news:title>
     </news:news>
   </url>
   <url>
@@ -7639,6 +7653,20 @@
       </news:publication>
       <news:publication_date>2026-08-12T00:00:00Z</news:publication_date>
       <news:title>Medical Research Scandal Exposed: '100% Human-Written, Never AI' Proven 100% AI</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/medical-staff-scramble-to-care-for-earthquake-survivors/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Thousands Trapped, Hospitals Overwhelmed as Medical Staff Scramble to Care for Survivors</news:title>
     </news:news>
   </url>
   <url>
@@ -10074,6 +10102,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/settler-siege-of-palestinian-homes-a-horrific-act-of-terror/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/sexyy-red-claims-500k-handbags-jewelry-stolen-moms-birthday/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -10810,6 +10844,12 @@
       <news:publication_date>2026-06-13T00:00:00Z</news:publication_date>
       <news:title>SpaceX Soon-to-be Millionaires Unleash Luxury Spending Spree</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/spacex-starbase-monuments/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/spacex-starfall-cargo-delivery/</loc>
@@ -11644,6 +11684,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/strait-of-hormuz-under-iran-control/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/strait-of-hormuz-us-impact-on-global-energy-market/</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -11908,6 +11954,12 @@
       <news:publication_date>2026-07-27T00:00:00Z</news:publication_date>
       <news:title>Surgery Alert: 4 Hidden Factors</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/surveillance-operation-targeted-progressive-groups-unions/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/suspect-ate-chick-fil-a-and-interacted-with-charlie-kirk-staff-before-shooting/</loc>
@@ -13774,6 +13826,20 @@
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/when-genius-fails-the-intellectual-arrogance-of-the-ai-labs/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:00:00Z</news:publication_date>
+      <news:title>Breakthrough AI Project Crashes and Burns: When Genius Fails: The Intellectual Arrogance of the AI Labs</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/white-house-praises-ufc-fighters-victory/</loc>
