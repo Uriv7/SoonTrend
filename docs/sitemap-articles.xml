@@ -380,6 +380,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-leadership-revolution/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T00:00:00Z</news:publication_date>
+      <news:title>AI Leadership Revolution: Coding Takes Backseat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-margin-collapse-glm-5-2/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
@@ -2372,6 +2386,20 @@
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/cloudflares-ai-psychosis-plunges-global-web-into-uncharted-territory/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T00:00:00Z</news:publication_date>
+      <news:title>Cloudflare's AI Psychosis Plunges Global Web into Uncharted Territory</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/cnbc-daily-open-hat-trick-tech-ipos-complete-openai-filing/</loc>
@@ -6186,6 +6214,12 @@
       <news:publication_date>2026-08-12T00:00:00Z</news:publication_date>
       <news:title>Luxury-Home Tax Rollout Derailed as Judge Delivers Win to Homeowners</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/mRNA-flu-vaccine-approved/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/macbook-air-shortage-price-increase/</loc>
@@ -10150,6 +10184,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/secondhand-book-sales-boom-is-ai-the-culprit/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T00:00:00Z</news:publication_date>
+      <news:title>Secondhand Book Sales Boom: Is AI the Culprit?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/secret-service-illegally-surveilled-comey-trump-8647-threat-case/</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
@@ -11796,6 +11844,12 @@
       <news:publication_date>2026-06-28T00:00:00Z</news:publication_date>
       <news:title>Stock Market in Turmoil: S&P 500, Nasdaq Snap 2-Week Win Streak Amid AI Jitters</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/stock-up-stock-down-after-steelers-preseason-opening-win-rookies-steal-spotlight/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/stocks-plummet-5-percent/</loc>
@@ -13594,6 +13648,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/us-threatens-indefinite-blockade-against-iran-consequences/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/vance-caine-concerns-war-escalating-us-pauses-strikes/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -14251,6 +14311,20 @@
       </news:publication>
       <news:publication_date>2026-07-18T00:00:00Z</news:publication_date>
       <news:title>Xi Promises AI for All in Debut at China’s Top Tech Summit: The Future of Technology Unfolds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/yadda-3-0-0-revolutionizes-bdd-with-ai-agents/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T00:00:00Z</news:publication_date>
+      <news:title>Yadda 3.0.0 Revolutionizes BDD with AI Agents: What You Need to Know</news:title>
     </news:news>
   </url>
   <url>
