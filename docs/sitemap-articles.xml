@@ -334,6 +334,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-credit-resale-economy-unleashes-chaos/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>AI Credit Resale Economy Unleashes Unprecedented Financial Chaos</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-driven-testing-revolutionizing-quality-assurance/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
@@ -1666,6 +1680,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/biden-clean-energy-funding-trump-cuts/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Biden's $600B Clean Energy Funding on the Brink of Catastrophe</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/big-banks-booming-revenue-spacex-iran/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>daily</changefreq>
@@ -2444,6 +2472,12 @@
   <url>
     <loc>https://soontrend.com/articles/claude-ai-chats-exposed/</loc>
     <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/claude-system-prompts/</loc>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3884,6 +3918,12 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/exhausted-health-workers-struggle-to-keep-up-as-ebola-outpaces-contact-tracing/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/explosion-in-monaco-reportedly-wounds-ukrainian-tycoon-with-ties-to-russia/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -4196,6 +4236,12 @@
       <news:publication_date>2026-08-04T00:00:00Z</news:publication_date>
       <news:title>FIFA's World Cup Sell-Off Plan Sparks UEFA Threat of Legal Action</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/firefox-for-ios-native-adblocker/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/fires-seen-in-russias-belgorod-amid-reported-ukrainian-drone-attack/</loc>
@@ -10056,6 +10102,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/run-postgres-without-pgbouncer/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/russia-energy-infra-hit/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -10074,6 +10126,20 @@
     <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/russia-ukraine-conflict-escalates/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Russia-Ukraine Conflict Escalates: Fired Defense Minister Warns of 'Technological War'</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/russia-unleashes-one-of-biggest-ballistic-missile-attacks-of-the-ukraine-war-kyiv-says/</loc>
@@ -10603,6 +10669,20 @@
       </news:publication>
       <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
       <news:title>Software Engineering Fundamentals Are Making a Comeback</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/software-engineering-fundamentals-matter-more/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Software Engineering Fundamentals Matter More: A Growing Crisis in the Making</news:title>
     </news:news>
   </url>
   <url>
