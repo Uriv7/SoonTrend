@@ -394,6 +394,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/ai-in-drug-discovery-a-revolution-in-progress-but-path-forward-uncertain/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>AI in Drug Discovery: A Revolution in Progress, But Path Forward Uncertain</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/ai-in-drug-discovery/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -1240,6 +1254,18 @@
       <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
       <news:title>Ask HN: Add Flag for AI-Generated Articles Sparks Urgent Debate</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asus-bike-booster/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asynchronous-io-in-duckdb-work-thread-work/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/asynchronous-io-in-duckdb/</loc>
@@ -6130,6 +6156,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/llm-limited-knowledge-base/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/lm-studio-bionic-ai-agent-open-models/</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>daily</changefreq>
@@ -9162,6 +9194,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/patterns-and-problems-in-emerging-multi-agent-systems/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/pce-report-rate-hike/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -10249,6 +10287,20 @@
       </news:publication>
       <news:publication_date>2026-07-30T00:00:00Z</news:publication_date>
       <news:title>Secret Service Illegally Spied on Comey in Trump '8647' Threat Case: Court Filing Reveals Shocking Details</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/selena-gomez-sues-wondermind-over-100m-fraud/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Selena Gomez Sues Former Mental Health Brand Wondermind Over Alleged $100M Fraud</news:title>
     </news:news>
   </url>
   <url>
@@ -12973,6 +13025,20 @@
       </news:publication>
       <news:publication_date>2026-06-12T00:00:00Z</news:publication_date>
       <news:title>Trump Sparks Economic Fears with Inflation Love and Iran Outrage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/trump-linked-crypto-venture-granted-bank-status/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>BREAKING: Trump-Linked Crypto Venture Granted Bank Status in Unprecedented Move</news:title>
     </news:news>
   </url>
   <url>

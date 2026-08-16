@@ -31665,5 +31665,149 @@
     "ai_provider": "Groq/llama-3.3-70b-versatile",
     "read_time": 5,
     "excerpt": "AI in drug discovery – what it is, where we stand and the path forward is transforming healthcare, saving lives, and changing the future of medicine. As this technology continues to evolve, it promises to solve some of the world's most pressing health issues, making it a story you won't want to miss. Stay ahead of the curve and learn how AI in drug discovery – what it is, where we stand and the path forward is redefining the boundaries of medical science and improving patient outcomes."
+  },
+  {
+    "topic": "Get Ready to Revolutionize Your Cycling Experience with the Asus Bike Booster",
+    "slug": "asus-bike-booster",
+    "title": "Asus Bike Booster: Enhance Your Cycling Experience",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "cycling",
+      "performance",
+      "technology",
+      "enhancements",
+      "devices"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Unlock your full potential with the Asus Bike Booster, a revolutionary device that amplifies your cycling performance and enhances your overall biking experience. By leveraging the power of data analysis, the Asus Bike Booster helps you identify areas for improvement and provides tailored suggestions to optimize your ride."
+  },
+  {
+    "topic": "What happens when an LLM never sees material beyond fifth grade? The limitations of large language models explained.",
+    "slug": "llm-limited-knowledge-base",
+    "title": "What happens when an LLM never sees material beyond fifth grade? - Limited Knowledge Base",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "LLM limitations",
+      "language model knowledge base",
+      "artificial intelligence limitations",
+      "machine learning constraints",
+      "large language model limitations",
+      "knowledge base limitations",
+      "language model training data",
+      "limited knowledge base",
+      "LLM training data"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 8,
+    "excerpt": "What happens when an LLM never sees material beyond fifth grade? Ensuring that LLMs are trained on a comprehensive dataset is crucial for their performance and usefulness. A limited knowledge base can lead to inaccurate or incomplete results, as well as a lack of nuance or context in the model's responses."
+  },
+  {
+    "topic": "Discover the Power of Asynchronous I/O in DuckDB: Work, Thread, Work for Enhanced Database Performance",
+    "slug": "asynchronous-io-in-duckdb-work-thread-work",
+    "title": "Unlocking Efficiency with Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "DuckDB",
+      "asynchronous I/O",
+      "database performance",
+      "scalability",
+      "concurrency"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "Discover the power of asynchronous I/O in DuckDB: Work, Thread, Work for enhanced database performance and scalability. Learn how to unlock the full potential of your database with this powerful feature."
+  },
+  {
+    "topic": "Unleashing the Full Potential of Patterns and problems in emerging multi-agent systems for Seamless Teamwork",
+    "slug": "patterns-and-problems-in-emerging-multi-agent-systems",
+    "title": "Mastering Patterns and problems in emerging multi-agent systems for Enhanced Collaboration",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "Patterns and problems in emerging multi-agent systems",
+      "multi-agent systems",
+      "complex systems",
+      "collaborative problem-solving",
+      "artificial intelligence",
+      "machine learning",
+      "emergent behavior",
+      "self-organization",
+      "complexity science",
+      "agent-based modeling",
+      "machine learning algorithms"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 7,
+    "excerpt": "Discover how Patterns and problems in emerging multi-agent systems can revolutionize collaboration. Learn about the benefits and future of this technology and how it can improve complex systems and solve complex problems."
+  },
+  {
+    "topic": "Selena Gomez Sues Wondermind Over Alleged $100M Fraud: What You Need to Know",
+    "slug": "selena-gomez-sues-wondermind-over-100m-fraud",
+    "title": "Selena Gomez Sues Former Mental Health Brand Wondermind Over Alleged $100M Fraud",
+    "category": "Business",
+    "content_type": "news",
+    "tags": [
+      "Selena Gomez",
+      "Wondermind",
+      "mental health startup",
+      "fraud lawsuit",
+      "transparency and accountability",
+      "due diligence",
+      "celebrity entrepreneur",
+      "legitimacy of business model"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Selena Gomez has filed a lawsuit against Wondermind, alleging a $100M fraud scheme. The lawsuit claims that Wondermind's executives engaged in a scheme to mislead investors and conceal the company's true financial situation. Investors and customers should be aware of the risks associated with investing in mental health products and prioritize their own financial security."
+  },
+  {
+    "topic": "AI in Drug Discovery: A Revolution in Progress, But Path Forward Uncertain",
+    "slug": "ai-in-drug-discovery-a-revolution-in-progress-but-path-forward-uncertain",
+    "title": "AI in Drug Discovery: A Revolution in Progress, But Path Forward Uncertain",
+    "category": "Science",
+    "content_type": "news",
+    "tags": [
+      "AI in drug discovery",
+      "pharmaceutical industry",
+      "machine learning",
+      "drug development",
+      "life sciences",
+      "artificial intelligence",
+      "biotechnology"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Breakthroughs in AI-assisted drug discovery are changing the game, but experts warn of significant challenges ahead. What does this mean for you?"
+  },
+  {
+    "topic": "Trump-Linked Crypto Venture Granted Bank Status in Unprecedented Move",
+    "slug": "trump-linked-crypto-venture-granted-bank-status",
+    "title": "BREAKING: Trump-Linked Crypto Venture Granted Bank Status in Unprecedented Move",
+    "category": "Finance",
+    "content_type": "news",
+    "tags": [
+      "world liberty trust",
+      "crypto venture",
+      "banking regulations",
+      "crypto-based lending",
+      "crypto-based deposit accounts",
+      "potential risks and challenges",
+      "broad financial system",
+      "transparency and accountability"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "The World Liberty Trust, a cryptocurrency-focused company with ties to former President Trump, has been granted bank status by a US agency. This move marks the first time a crypto venture has received a banking charter, and it's set to have significant implications for the cryptocurrency market and beyond. The World Liberty Trust's bank status is set to create new opportunities for crypto-based lending and deposit accounts, and it's likely that other companies will seek to follow in its footsteps."
   }
 ]
