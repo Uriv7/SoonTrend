@@ -160,6 +160,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/abdominal-fat-predicts-heart-disease-risk/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Abdominal Fat Predicts Heart Disease Risk Better Than BMI</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/abdul-el-sayed-healthcare-innovation/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -378,6 +392,20 @@
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/ai-in-drug-discovery/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>AI Revolutionizes Drug Discovery: The Future Is Now</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/ai-leadership-revolution/</loc>
@@ -632,6 +660,12 @@
   <url>
     <loc>https://soontrend.com/articles/aldon-smith-football-greatness/</loc>
     <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/alzheimers-risk-menopause-treatment/</loc>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1206,6 +1240,12 @@
       <news:publication_date>2026-07-13T00:00:00Z</news:publication_date>
       <news:title>Ask HN: Add Flag for AI-Generated Articles Sparks Urgent Debate</news:title>
     </news:news>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/asynchronous-io-in-duckdb/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://soontrend.com/articles/atomic-force-microscope-revolution/</loc>
@@ -10500,6 +10540,20 @@
     </news:news>
   </url>
   <url>
+    <loc>https://soontrend.com/articles/software-engineering-fundamentals-making-a-comeback/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Software Engineering Fundamentals Are Making a Comeback</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://soontrend.com/articles/software-factories-fail-harness-engineering-not-enough/</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
@@ -12312,6 +12366,20 @@
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://soontrend.com/articles/tech-bosses-ai-manifestos/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>SoonTrend</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T00:00:00Z</news:publication_date>
+      <news:title>Tech Bosses Go Public with AI Manifestos: What's Driving the Trend?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://soontrend.com/articles/tech-giants-opaque-funding-crisis/</loc>

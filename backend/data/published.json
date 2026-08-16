@@ -31550,5 +31550,120 @@
     "ai_provider": "Groq/llama-3.1-8b-instant",
     "read_time": 10,
     "excerpt": "Cloudflare's AI Psychosis has brought the global web to a standstill, with many users left wondering if their personal data is safe. The tech giant's AI-powered tools, used to protect websites from cyber threats, have been malfunctioning, causing widespread disruptions. Cloudflare's AI Psychosis has already had significant implications for web security, with many experts warning of a potential catastrophic collapse of the global web infrastructure."
+  },
+  {
+    "topic": "Can Menopause Treatment Lower Alzheimer's Risk by 35%?",
+    "slug": "alzheimers-risk-menopause-treatment",
+    "title": "Alzheimer's Risk 35% Lower with Menopause Treatment",
+    "category": "Health",
+    "content_type": "article",
+    "tags": [
+      "menopause treatment",
+      "Alzheimer's disease",
+      "hormone replacement therapy",
+      "cognitive decline",
+      "osteoporosis"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Alzheimer's risk may be 35% lower with common menopause treatment, study finds. Learn how this treatment can reduce risk and improve health. Discover the benefits now."
+  },
+  {
+    "topic": "Unlocking the Power of Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "slug": "asynchronous-io-in-duckdb",
+    "title": "Asynchronous I/O in DuckDB: Unlocking Efficiency",
+    "category": "Technology",
+    "content_type": "article",
+    "tags": [
+      "DuckDB",
+      "asynchronous I/O",
+      "database performance",
+      "concurrent programming",
+      "I/O operations"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 7,
+    "excerpt": "Asynchronous I/O in DuckDB: Work, Thread, Work is a powerful technique for improving database performance, with benefits including improved performance, increased scalability, and enhanced responsiveness. By leveraging asynchronous I/O, developers can create more responsive and scalable database systems that meet the demands of today's data-driven world."
+  },
+  {
+    "topic": "The Rise of Software Engineering Fundamentals: What It Means for Developers and Businesses",
+    "slug": "software-engineering-fundamentals-making-a-comeback",
+    "title": "Software Engineering Fundamentals Are Making a Comeback",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "software engineering",
+      "fundamentals",
+      "tech industry",
+      "innovation",
+      "developer skills",
+      "business innovation",
+      "software development"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 10,
+    "excerpt": "The tech industry is witnessing a significant shift towards software engineering fundamentals, driven by the increasing complexity of modern software systems and the need for greater scalability and reliability. By prioritizing fundamentals, developers and businesses can create software that is more reliable, maintainable, and efficient, ultimately driving greater success and innovation in the tech industry."
+  },
+  {
+    "topic": "Abdominal Fat Predicts Heart Disease Risk Better Than BMI: What You Need to Know",
+    "slug": "abdominal-fat-predicts-heart-disease-risk",
+    "title": "Abdominal Fat Predicts Heart Disease Risk Better Than BMI",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "abdominal fat",
+      "heart disease risk",
+      "BMI",
+      "health risks",
+      "obesity",
+      "heart health",
+      "weight loss",
+      "healthy living"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "Abdominal fat predicts heart disease risk better than BMI, and this new information has significant implications for individuals looking to reduce their risk of heart disease. By understanding the relationship between abdominal fat and heart disease risk, individuals can take proactive steps to protect their health and reduce their risk of heart disease. Abdominal fat predicts heart disease risk better than BMI, and this is a critical area of focus for health researchers and professionals."
+  },
+  {
+    "topic": "Tech Bosses Go Public with AI Manifestos: What's Driving the Trend?",
+    "slug": "tech-bosses-ai-manifestos",
+    "title": "Tech Bosses Go Public with AI Manifestos: What's Driving the Trend?",
+    "category": "Technology",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "tech",
+      "future of work",
+      "digital transformation",
+      "innovation"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.1-8b-instant",
+    "read_time": 5,
+    "excerpt": "Tech leaders from some of the world's largest companies are sharing their thoughts on the future of work and AI in public manifestos, outlining their vision for the role of AI in driving business success and societal progress. But what does this trend mean for you and the future of work?"
+  },
+  {
+    "topic": "AI in Drug Discovery – What It Is, Where We Stand and the Path Forward: A New Era in Healthcare",
+    "slug": "ai-in-drug-discovery",
+    "title": "AI Revolutionizes Drug Discovery: The Future Is Now",
+    "category": "Health",
+    "content_type": "news",
+    "tags": [
+      "AI",
+      "drug discovery",
+      "healthcare",
+      "innovation",
+      "medicine",
+      "pharmaceuticals",
+      "technology"
+    ],
+    "date": "2026-08-16",
+    "ai_provider": "Groq/llama-3.3-70b-versatile",
+    "read_time": 5,
+    "excerpt": "AI in drug discovery – what it is, where we stand and the path forward is transforming healthcare, saving lives, and changing the future of medicine. As this technology continues to evolve, it promises to solve some of the world's most pressing health issues, making it a story you won't want to miss. Stay ahead of the curve and learn how AI in drug discovery – what it is, where we stand and the path forward is redefining the boundaries of medical science and improving patient outcomes."
   }
 ]
